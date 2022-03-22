@@ -48,9 +48,10 @@ var _hmt = _hmt || [];
 
 <br />
 
-Email: <a href="jryjry1094791442@gmail.com" target="_blank"><font face="courier new, monospace"><i>jryjry1094791442</i></font>&nbsp;&#64<font face="courier new, monospace"><i>gmail</i></font>&nbsp;&middot <font face="courier new, monospace"><i>com<br>
+Email: <a href="mailto:zhangzhipengcs@outlook.com" target="_blank"><font face="courier new, monospace"><i>zhangzhipengcs</i></font>&nbsp;&#64<font face="courier new, monospace"><i>outlook</i></font>&nbsp;&middot <font face="courier new, monospace"><i>com<br>
 </i></font>&nbsp;<br />
 </a>
+<!--[<a href="http://scholar.google.com.sg/citations?user=yjG4Eg4AAAAJ&amp;hl=en" target="_blank">Google Scholar</a>]-->
 </p>
 </td></tr></table>
 
