@@ -56,7 +56,7 @@ Email: <a href="mailto:jryjry1094791442@gmail.com" target="_blank"><font face="c
 
 <h2>About Me</h2>
 <p>
-  Rui-Yang Ju is currently studying (2019-present) in Division of Electronics and Information Engineering, Department of Electrical and Computer Engineering from <a href="https://www.tku.edu.tw/">Tamkang University (TKU)</a>, Taiwan, advised by <a href="http://www.ee.tku.edu.tw/teachers/%E6%B1%9F%E6%AD%A3%E9%9B%84/">Prof. Jen-Shiun Chiang.
+  Rui-Yang Ju is currently studying (2019-present) in Division of Electronics and Information Engineering, Department of Electrical and Computer Engineering from <a href="https://www.tku.edu.tw/">Tamkang University (TKU)</a>, Taiwan, advised by <a href="http://www.ee.tku.edu.tw/teachers/%E6%B1%9F%E6%AD%A3%E9%9B%84/">Prof. Jen-Shiun Chiang</a>.
 
 </p>
   
