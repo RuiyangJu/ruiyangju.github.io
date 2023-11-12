@@ -1,1 +1,8 @@
-
+@article{ju2023resolution,
+  title={Resolution enhancement processing on low quality images using swin transformer based on interval dense connection strategy},
+  author={Ju, Rui-Yang and Chen, Chih-Chia and Chiang, Jen-Shiun and Lin, Yu-Shian and Chen, Wei-Han},
+  journal={Multimedia Tools and Applications},
+  pages={1--17},
+  year={2023},
+  publisher={Springer}
+}
