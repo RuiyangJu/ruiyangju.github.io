@@ -1,0 +1,8 @@
+@inproceedings{ju2022aggregated,
+  title={Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions},
+  author={Ju, Rui-Yang and Lin, Ting-Yu and Chiang, Jen-Shiun and Jian, Jia-Hao and Lin, Yu-Shian and others},
+  booktitle={2022 IEEE International Conference on Consumer Electronics-Taiwan},
+  pages={295--296},
+  year={2022},
+  organization={IEEE}
+}
