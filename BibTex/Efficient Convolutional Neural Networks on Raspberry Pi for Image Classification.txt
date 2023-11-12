@@ -1,0 +1,10 @@
+@article{ju2023efficient,
+  title={Efficient convolutional neural networks on Raspberry Pi for image classification},
+  author={Ju, Rui-Yang and Lin, Ting-Yu and Jian, Jia-Hao and Chiang, Jen-Shiun},
+  journal={Journal of Real-Time Image Processing},
+  volume={20},
+  number={2},
+  pages={21},
+  year={2023},
+  publisher={Springer}
+}
