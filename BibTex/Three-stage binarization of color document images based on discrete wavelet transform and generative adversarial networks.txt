@@ -1,6 +1,6 @@
-@article{lin2022three,
+@article{ju2022three,
   title={Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks},
-  author={Lin, Yu-Shian and Ju, Rui-Yang and Chen, Chih-Chia and Lin, Ting-Yu and Chiang, Jen-Shiun},
+  author={Ju, Rui-Yang and Lin, Yu-Shian and Jin, Yanlin and Chen, Chih-Chia and Chien, Chun-Tse and Chiang, Jen-Shiun},
   journal={arXiv preprint arXiv:2211.16098},
   year={2022}
 }
