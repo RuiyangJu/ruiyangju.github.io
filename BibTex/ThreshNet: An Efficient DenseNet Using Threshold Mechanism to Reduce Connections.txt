@@ -1,9 +1,0 @@
-@article{ju2022threshnet,
-  title={Threshnet: An efficient densenet using threshold mechanism to reduce connections},
-  author={Ju, Rui-Yang and Lin, Ting-Yu and Jian, Jia-Hao and Chiang, Jen-Shiun and Yang, Wei-Bin},
-  journal={IEEE Access},
-  volume={10},
-  pages={82834--82843},
-  year={2022},
-  publisher={IEEE}
-}

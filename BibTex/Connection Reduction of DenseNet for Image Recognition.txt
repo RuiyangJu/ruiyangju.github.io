@@ -1,8 +1,0 @@
-@inproceedings{ju2022connection,
-  title={Connection Reduction of DenseNet for Image Recognition},
-  author={Ju, Rui-Yang and Chiang, Jen-Shiun and Chen, Chih-Chia and Lin, Yu-Shian},
-  booktitle={2022 International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)},
-  pages={1--4},
-  year={2022},
-  organization={IEEE}
-}

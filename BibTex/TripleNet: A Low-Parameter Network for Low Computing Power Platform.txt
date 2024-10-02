@@ -1,8 +1,0 @@
-@inproceedings{ju2022triplenet,
-  title={TripleNet: A Low-Parameter Network for Low Computing Power Platform},
-  author={Ju, Rui-Yang and Lin, Ting-Yu and Chiang, Jen-Shiun},
-  booktitle={2022 IET International Conference on Engineering Technologies and Applications (IET-ICETA)},
-  pages={1--2},
-  year={2022},
-  organization={IEEE}
-}

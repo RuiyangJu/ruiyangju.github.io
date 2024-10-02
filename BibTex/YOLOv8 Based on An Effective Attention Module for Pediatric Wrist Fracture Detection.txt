@@ -1,6 +1,0 @@
-@article{ju2024yolov8,
-  title={Yolov8-rescbam: Yolov8 Based on an effective attention module for pediatric wrist fracture detection},
-  author={Ju, Rui-Yang and Chien, Chun-Tse and Chiang, Jen-Shiun},
-  journal={arXiv preprint arXiv:2409.18826},
-  year={2024}
-}
