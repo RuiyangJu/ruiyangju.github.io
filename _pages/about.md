@@ -44,7 +44,8 @@ Further details about my background can be found in my resume (available in both
 **Rui-Yang Ju**, Weiming Cai
 
 [**GitHub**](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) [**HTML**](https://www.nature.com/articles/s41598-023-47460-7)<strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- First to use YOLOv8 for pediatric wrist fracture detection
+- Perform as Computer-assisted diagnosis (CAD) tools
 </div>
 </div>
 
