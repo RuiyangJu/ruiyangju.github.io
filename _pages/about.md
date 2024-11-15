@@ -36,7 +36,6 @@ Further details about my background can be found in my resume (available in both
 
 # 📝 Publications 
 ## Medical Image Processing
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='https://ruiyangju.github.io/images/Figure/YOLOv8-AM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,7 +61,7 @@ Further details about my background can be found in my resume (available in both
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- ``ISPACS 2024`` [Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection), **Rui-Yang Ju**, Chun-Tse Chien, Chia-Min Lin, Jen-Shiun Chiang
 
 # 📄 Patents
 - ``TW Patent`` [Dust-sucking loading device](https://patents.google.com/patent/TWM595589U/en), Rui-Yang Ju, 2020.05.
