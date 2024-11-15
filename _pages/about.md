@@ -20,11 +20,12 @@ redirect_from:
 I am currently pursuing the M.S. degree at the [Graduate Institute of Networking and Multimedia](https://www.inm.ntu.edu.tw/), [National Taiwan University](https://www.ntu.edu.tw/), Taipei City, Taiwan. 
 I am now a member of [NTU imLab](https://ntuimlab.tw/), and advised by Prof. [Yi-Ping Hung](ttps://www.csie.ntu.edu.tw/~hung/index.html#about).
 
-I received my B.S. degree in the Department of <a href="http://www.ee.tku.edu.tw/" target="_blank" style="font-size: 17px">Electrical and Computer Engineering</a> from <a href="https://www.tku.edu.tw/" target="_blank" style="font-size: 17px">Tamkang University</a>, New Taipei City, Taiwan, in 2023. 
-From 2020 to 2023, I conducted research in the Advanced Mixed-Operation System Laboratory (AMOS Lab.) at Tamkang University, focusing on deep learning and computer vision under the supervision of Prof. <a href="https://www.ee.tku.edu.tw/member-detail/102/" target="_blank" style="font-size: 17px">Jen-Shiun Chiang</a>.
+I received my B.S. degree in the Department of [Electrical and Computer Engineering](http://www.ee.tku.edu.tw/) from [Tamkang University](https://www.tku.edu.tw/), New Taipei City, Taiwan, in 2023. 
+From 2020 to 2023, I conducted research in the Advanced Mixed-Operation System Laboratory (AMOS Lab.) at Tamkang University, focusing on deep learning and computer vision under the supervision of Prof. [Jen-Shiun Chiang](https://www.ee.tku.edu.tw/member-detail/102/)</a>.
 
 My primary research areas include Deep Learning (DL), Neural Networks (NN), Computer Vision (CV), and Image Processing (IP). In addition, I have contributed to some projects in other fields, such as Natural Language Processing (NLP), and Speech & Audio. I have published 10+ papers <a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international journal or conferences such as KBS, ICONIP, PRICAI.
 
+Further details about my background can be found in my resume (available in both English and Chinese).
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
