@@ -39,12 +39,11 @@ Further details about my background can be found in my resume (available in both
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports</div><img src='https://ruiyangju.github.io/images/Figure/YOLOv8.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm](https://www.nature.com/articles/s41598-023-47460-7)
+[Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm](https://arxiv.org/pdf/2304.05071)
 
 **Rui-Yang Ju**, Weiming Cai
 
-[**GitHub**](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) 
-<strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+[**GitHub**](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) [**HTML**](https://www.nature.com/articles/s41598-023-47460-7)<strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
