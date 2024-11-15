@@ -30,6 +30,8 @@ Further details about my background can be found in my resume (available in both
 
 # 🔥 News
 
+<h2 style="color: #1974D2;">News & Updates</h2>
+<hr style="border: 1px solid #1974D2; margin-top: 0;">
 <ul>
 <div style="height: 100px; width: fit-content; overflow-y: auto; background: #FFFFFF;">
   
