@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Rui-Yang Ju (鞠睿阳)"
 description              : "Focusing on Deep Learning, Computer Vision and Image Processing."
-repository               : "RuiyangJu/ruiyangju.github.io"
+repository               : "ruiyangju/ruiyangju.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
