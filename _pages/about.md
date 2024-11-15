@@ -30,6 +30,7 @@ Further details about my background can be found in my resume (available in both
 
 # 🔥 News
 
+<ul>
 <div style="height: 100px; width: fit-content; overflow-y: auto; background: #FFFFFF;">
   
 <li> <p>2024.10: Two papers are accepted by <strong>ISPACS 2024</strong>.</p> </li>
@@ -59,6 +60,7 @@ Further details about my background can be found in my resume (available in both
 <li> <p>2021.06: I participate in the course "An introduction to AI ethics and society" of <strong>University of Cambridge</strong>.</p> </li>
 <li> <p>2020.12: I join <strong>Advanced Mixed-Operation System Laboratory (AMOS Lab.)</strong> of <strong>Tamkang University (TKU)</strong>. </li>
 </div>
+</ul>
 
 # 📝 Publications 
 
