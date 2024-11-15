@@ -50,6 +50,12 @@ Further details about my background can be found in my resume (available in both
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# :page_facing_up: Patents
+
+# 🎖 Honors and Awards
+- *2021.10* Tencent Scholarship (Top 1%)
+- *2021.10* National Scholarship (Top 1%)
+
 # 📖 Educations
 - *2023.09 - 2025.06*, Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei City. 
 - *2019.09 - 2023.06*, Electrical and Computer Engineering, Tamkang University, New Taipei City. 
