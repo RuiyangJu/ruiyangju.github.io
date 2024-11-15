@@ -39,7 +39,7 @@ Further details about my background can be found in my resume (available in both
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports</div><img src='https://ruiyangju.github.io/images/Figure/YOLOv8.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm](https://www.nature.com/articles/s41598-023-47460-7)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
