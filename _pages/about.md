@@ -53,8 +53,9 @@ Further details about my background can be found in my resume (available in both
 # :page_facing_up: Patents
 
 # 🎖 Honors and Awards
-- *2021.10* Tencent Scholarship (Top 1%)
-- *2021.10* National Scholarship (Top 1%)
+- *2022.12* TKU Scholarship (Top 1%)
+- *2022.05* TKU Academic Award 
+- *2021.05* TKU Scholarship (Top 1%)
 
 # 📖 Educations
 - *2023.09 - 2025.06*, Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei City. 
