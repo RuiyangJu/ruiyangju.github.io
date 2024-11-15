@@ -17,17 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing the M.S. degree at the <a href="https://www.inm.ntu.edu.tw/" target="_blank" style="font-size: 17px">Graduate Institute of Networking and Multimedia</a>, <a href="https://www.ntu.edu.tw/" target="_blank" style="font-size: 17px">National Taiwan University</a>, Taipei City, Taiwan. 
-I am now a member of <a href="https://ntuimlab.tw/" target="_blank" style="font-size: 17px">NTU imLab</a>, and advised by Prof. <a href="https://www.csie.ntu.edu.tw/~hung/index.html#about" target="_blank" style="font-size: 17px">Yi-Ping Hung</a>.
+I am currently pursuing the M.S. degree at the [Graduate Institute of Networking and Multimedia](https://www.inm.ntu.edu.tw/), [National Taiwan University](https://www.ntu.edu.tw/), Taipei City, Taiwan. 
+I am now a member of [NTU imLab](https://ntuimlab.tw/), and advised by Prof. [Yi-Ping Hung](ttps://www.csie.ntu.edu.tw/~hung/index.html#about).
 
 I received my B.S. degree in the Department of <a href="http://www.ee.tku.edu.tw/" target="_blank" style="font-size: 17px">Electrical and Computer Engineering</a> from <a href="https://www.tku.edu.tw/" target="_blank" style="font-size: 17px">Tamkang University</a>, New Taipei City, Taiwan, in 2023. 
 From 2020 to 2023, I conducted research in the Advanced Mixed-Operation System Laboratory (AMOS Lab.) at Tamkang University, focusing on deep learning and computer vision under the supervision of Prof. <a href="https://www.ee.tku.edu.tw/member-detail/102/" target="_blank" style="font-size: 17px">Jen-Shiun Chiang</a>.
 
 My primary research areas include Deep Learning (DL), Neural Networks (NN), Computer Vision (CV), and Image Processing (IP). In addition, I have contributed to some projects in other fields, such as Natural Language Processing (NLP), and Speech & Audio. I have published 10+ papers <a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international journal or conferences such as KBS, ICONIP, PRICAI.
-
-<a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
-<a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
