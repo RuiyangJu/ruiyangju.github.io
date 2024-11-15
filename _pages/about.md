@@ -41,9 +41,9 @@ Further details about my background can be found in my resume (available in both
 
 [Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm](https://www.nature.com/articles/s41598-023-47460-7)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Rui-Yang Ju**, Weiming Cai
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='r8F35p8AAAAJ:j3f4tGmQtD8C'></span></strong>
+[**GitHub**](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) <strong><span class='show_paper_citations' data='r8F35p8AAAAJ:j3f4tGmQtD8C'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
