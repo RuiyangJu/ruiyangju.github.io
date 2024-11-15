@@ -50,9 +50,12 @@ Further details about my background can be found in my resume (available in both
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# :page_facing_up: Patents
+# 📄 Patents
 
 # 🎖 Honors and Awards
+- *2024.11* NTU Scholarship
+- *2024.05* NTU Scholarship
+- *2023.11* NTU Scholarship
 - *2022.12* TKU Scholarship (Top 1%)
 - *2022.05* TKU Academic Award 
 - *2021.05* TKU Scholarship (Top 1%)
