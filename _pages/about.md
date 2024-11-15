@@ -56,8 +56,10 @@ Further details about my background can be found in my resume (available in both
 <li> <p>2021.09: One paper is accepted by <strong>TAAI 2021</strong>.</p> </li>
 <li> <p>2021.07: My research project receives a grant from <strong>Tamkang University (TKU)</strong>.</p> </li>
 <li> <p>2021.06: I participate in the course "An introduction to AI ethics and society" of <strong>University of Cambridge</strong>.</p> </li>
-<li> <p>2020.12] I join <strong>Advanced Mixed-Operation System Laboratory (AMOS Lab.)</strong> of <strong>Tamkang University (TKU)</strong>. </li>
+<li> <p>2020.12: I join <strong>Advanced Mixed-Operation System Laboratory (AMOS Lab.)</strong> of <strong>Tamkang University (TKU)</strong>. </li>
+
 </div>
+
 </ul>
 
 # 📝 Publications 
