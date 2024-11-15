@@ -30,9 +30,9 @@ Further details about my background can be found in my resume (available in both
 
 # 🔥 News
 
-- *2024.10*: Two papers are accepted by <strong>ISPACS 2024</strong>.
-- *2024.09*: One paper is accepted by <strong>Knowledge-Based Systems</strong>.
-- *2024.08*: One paper is accepted by <strong>ICONIP 2024</strong>.
+- *2024.09*: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2).
+- *2024.08*: One paper is accepted by <strong>ICONIP 2024</strong> (CCF-C).
+- *2023.08*: One paper is accepted by <strong>PRICAI 2023</strong> (CCF-C).
 
 # 📝 Publications 
 
