@@ -27,7 +27,9 @@ My primary research areas include Deep Learning (DL), Neural Networks (NN), Comp
 
 Further details about my background can be found in my resume (available in both [English] and Chinese).
 
-<a href='https://ruiyangju.github.io/'><img src='https://img.shields.io/badge/English-Resume-808080?color=gray&logo=markdown'>
+<a href='https://ruiyangju.github.io/'><img src='https://img.shields.io/badge/Resume-English-white?color=green'>
+<a href='https://ruiyangju.github.io/'><img src='https://img.shields.io/badge/Resume-Chinese-white?color=blue'>
+
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
