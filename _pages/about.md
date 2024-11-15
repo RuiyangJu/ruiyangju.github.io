@@ -79,5 +79,3 @@ Further details about my background can be found in my resume (available in both
 # 📖 Educations
 - *2023.09 - 2025.06*, Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei City. 
 - *2019.09 - 2023.06*, Electrical and Computer Engineering, Tamkang University, New Taipei City. 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=m7sQnDsolExEsvKg0bRy8YdTo4DWNVv_IJsFP7XVdpg'></script>
