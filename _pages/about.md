@@ -43,7 +43,7 @@ Further details about my background can be found in my resume (available in both
 
 **Rui-Yang Ju**, Weiming Cai
 
-[**GitHub**](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) <strong><span class='show_paper_citations' data='r8F35p8AAAAJ:j3f4tGmQtD8C'></span></strong>
+[**GitHub**](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
