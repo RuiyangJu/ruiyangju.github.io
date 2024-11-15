@@ -51,8 +51,8 @@ Further details about my background can be found in my resume (available in both
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📄 Patents
-- `TW Patent` [Dust-sucking loading device](https://patents.google.com/patent/TWM595589U/en), Rui-Yang Ju, 2020.05.
-- `TW Patent` [“Cigarette box capable of keeping cigarette butts](https://patents.google.com/patent/TWM576794U/en), Rui-Yang Ju, 2019.04.
+- ``TW Patent`` [Dust-sucking loading device](https://patents.google.com/patent/TWM595589U/en), Rui-Yang Ju, 2020.05.
+- ``TW Patent`` [“Cigarette box capable of keeping cigarette butts](https://patents.google.com/patent/TWM576794U/en), Rui-Yang Ju, 2019.04.
 
 # 🎖 Honors
 - *2024.11*: NTU Scholarship, TWD9,000.
