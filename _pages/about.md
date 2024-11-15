@@ -21,7 +21,7 @@ I am currently pursuing the M.S. degree at the [Graduate Institute of Networking
 I am now a member of [NTU imLab](https://ntuimlab.tw/), and advised by Prof. [Yi-Ping Hung](https://www.csie.ntu.edu.tw/~hung/index.html#about).
 
 I received my B.S. degree in the Department of [Electrical and Computer Engineering](http://www.ee.tku.edu.tw/) from [Tamkang University](https://www.tku.edu.tw/), New Taipei City, Taiwan, in 2023. 
-From 2020 to 2023, I conducted research in the Advanced Mixed-Operation System Laboratory (AMOS Lab.) at Tamkang University, focusing on deep learning and computer vision under the supervision of Prof. [Jen-Shiun Chiang](https://www.ee.tku.edu.tw/member-detail/102/)</a>.
+From 2020 to 2023, I conducted research in the Advanced Mixed-Operation System Laboratory (AMOS Lab.) at Tamkang University, focusing on deep learning and computer vision under the supervision of Prof. [Jen-Shiun Chiang](https://www.ee.tku.edu.tw/member-detail/102/).
 
 My primary research areas include Deep Learning (DL), Neural Networks (NN), Computer Vision (CV), and Image Processing (IP). In addition, I have contributed to some projects in other fields, such as Natural Language Processing (NLP), and Speech & Audio. I have published 10+ papers <a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international journal or conferences such as KBS, ICONIP, PRICAI.
 
@@ -29,7 +29,6 @@ Further details about my background can be found in my resume (available in both
 <a href='https://ruiyangju.github.io/images/CV_English.pdf'><img src='https://img.shields.io/badge/Resume-English-white?color=green'></a> and <a href='https://ruiyangju.github.io/images/CV_Chinese.pdf'><img src='https://img.shields.io/badge/Resume-Chinese-white?color=blue'></a>).
 
 # 🔥 News
-<hr style="border: 1px solid #1974D2; margin-top: 0;">
 <ul>
 <div style="height: 60px; width: fit-content; overflow-y: auto; background: #FFFFFF;">
 <li> <p>2024.10: Two papers are accepted by <strong>ISPACS 2024</strong>.</p> </li>
@@ -60,7 +59,6 @@ Further details about my background can be found in my resume (available in both
 <li> <p>2020.12] I join <strong>Advanced Mixed-Operation System Laboratory (AMOS Lab.)</strong> of <strong>Tamkang University (TKU)</strong>. </li>
 </div>
 </ul>
-</hr>
 
 # 📝 Publications 
 
