@@ -29,7 +29,7 @@ Further details about my background can be found in my resume (available in both
 <a href='https://ruiyangju.github.io/images/CV_English.pdf'><img src='https://img.shields.io/badge/Resume-English-white?color=green'></a> and <a href='https://ruiyangju.github.io/images/CV_Chinese.pdf'><img src='https://img.shields.io/badge/Resume-Chinese-white?color=blue'></a>).
 
 # 🔥 News
-<ul>
+
 <div style="height: 100px; width: fit-content; overflow-y: auto; background: #FFFFFF;">
   
 <li> <p>2024.10: Two papers are accepted by <strong>ISPACS 2024</strong>.</p> </li>
@@ -58,9 +58,7 @@ Further details about my background can be found in my resume (available in both
 <li> <p>2021.07: My research project receives a grant from <strong>Tamkang University (TKU)</strong>.</p> </li>
 <li> <p>2021.06: I participate in the course "An introduction to AI ethics and society" of <strong>University of Cambridge</strong>.</p> </li>
 <li> <p>2020.12: I join <strong>Advanced Mixed-Operation System Laboratory (AMOS Lab.)</strong> of <strong>Tamkang University (TKU)</strong>. </li>
-
 </div>
-</ul>
 
 # 📝 Publications 
 
