@@ -60,6 +60,7 @@ Further details about my background can be found in my resume (available in both
 <li> <p>2020.12] I join <strong>Advanced Mixed-Operation System Laboratory (AMOS Lab.)</strong> of <strong>Tamkang University (TKU)</strong>. </li>
 </div>
 </ul>
+</hr>
 
 # 📝 Publications 
 
