@@ -36,6 +36,19 @@ Further details about my background can be found in my resume (available in both
 
 # 📝 Publications 
 ## Medical Image Processing
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='https://ruiyangju.github.io/images/Figure/YOLOv8-AM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2409.18826)
+
+**Rui-Yang Ju**, Chun-Tse Chien, Jen-Shiun Chiang
+
+[**GitHub**](https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8) <strong><span class='show_paper_citations' data='r8F35p8AAAAJ:aqlVkmm33-oC'></span></strong>
+- SOTA performance on GRAZPEDWRI-DX dataset
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports</div><img src='https://ruiyangju.github.io/images/Figure/YOLOv8.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
