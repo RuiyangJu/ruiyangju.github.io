@@ -61,7 +61,8 @@ Further details about my background can be found in my resume (available in both
 </div>
 </div>
 
-- ``ISPACS 2024`` [Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection), **Rui-Yang Ju**, Chun-Tse Chien, et al.
+- ``ISPACS 2024`` [Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2407.03163), **Rui-Yang Ju**, Chun-Tse Chien, et al.
+- ``Electronics Letters`` [YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](https://arxiv.org/pdf/2403.11249), Chun-Tse Chien, **Rui-Yang Ju**, et al.
 
 # 📄 Patents
 - ``TW Patent`` [Dust-sucking loading device](https://patents.google.com/patent/TWM595589U/en), Rui-Yang Ju, 2020.05.
