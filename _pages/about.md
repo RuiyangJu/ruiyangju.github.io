@@ -53,12 +53,12 @@ Further details about my background can be found in my resume (available in both
 # 📄 Patents
 
 # 🎖 Honors and Awards
-- *2024.11* NTU Scholarship
-- *2024.05* NTU Scholarship
-- *2023.11* NTU Scholarship
-- *2022.12* TKU Scholarship (Top 1%)
-- *2022.05* TKU Academic Award 
-- *2021.05* TKU Scholarship (Top 1%)
+- *2024.11*: NTU Scholarship, TWD9,000.
+- *2024.05*: NTU Scholarship, TWD8,000.
+- *2023.11*: NTU Scholarship, TWD8,000.
+- *2022.12*: TKU Scholarship (Top 1%), TWD10,000.
+- *2022.05*: TKU Academic Award.
+- *2021.05*: TKU Scholarship (Top 1%), TWD10,000.
 
 # 📖 Educations
 - *2023.09 - 2025.06*, Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei City. 
