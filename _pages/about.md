@@ -35,7 +35,7 @@ Further details about my background can be found in my resume (available in both
 - *2023.08*: One paper is accepted by <strong>PRICAI 2023</strong> (CCF-C).
 
 # 📝 Publications 
-
+## Medical Image Processing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports</div><img src='https://ruiyangju.github.io/images/Figure/YOLOv8.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
