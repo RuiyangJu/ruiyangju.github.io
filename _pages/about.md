@@ -29,10 +29,8 @@ Further details about my background can be found in my resume (available in both
 <a href='https://ruiyangju.github.io/images/CV_English.pdf'><img src='https://img.shields.io/badge/Resume-English-white?color=green'></a> and <a href='https://ruiyangju.github.io/images/CV_Chinese.pdf'><img src='https://img.shields.io/badge/Resume-Chinese-white?color=blue'></a>).
 
 # 🔥 News
-
 - *2024.09*: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2).
 - *2024.08*: One paper is accepted by <strong>ICONIP 2024</strong> (CCF-C).
-- *2023.08*: One paper is accepted by <strong>PRICAI 2023</strong> (CCF-C).
 
 # 📝 Publications 
 ## Medical Image Processing
