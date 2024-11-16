@@ -64,6 +64,20 @@ Further details about my background can be found in my resume (available in both
 - ``ISPACS 2024`` [Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2407.03163), **Rui-Yang Ju**, Chun-Tse Chien, et al.
 - ``Electronics Letters`` [YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](https://arxiv.org/pdf/2403.11249), Chun-Tse Chien, **Rui-Yang Ju**, et al.
 
+## Document Image Processing
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based System</div><img src='https://ruiyangju.github.io/images/Figure/Three-Stage.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm](https://arxiv.org/pdf/2304.05071)
+
+**Rui-Yang Ju**, Weiming Cai
+
+[**GitHub**](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) [**HTML**](https://www.nature.com/articles/s41598-023-47460-7)<strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+- First to use YOLOv8 for pediatric wrist fracture detection
+- Perform as Computer-assisted diagnosis (CAD) tools
+</div>
+</div>
+
 # 📄 Patents
 - ``TW Patent`` [Dust-sucking loading device](https://patents.google.com/patent/TWM595589U/en), Rui-Yang Ju, 2020.05.
 - ``TW Patent`` [Cigarette box capable of keeping cigarette butts](https://patents.google.com/patent/TWM576794U/en), Rui-Yang Ju, 2019.04.
