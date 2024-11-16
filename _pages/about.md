@@ -64,7 +64,6 @@ Further details about my background can be found in my resume (available in both
 - ``ISPACS'24`` [Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2407.03163), **Rui-Yang Ju**, Chun-Tse Chien, et al.
 - ``Electronics Letters'24`` [YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](https://arxiv.org/pdf/2403.11249), Chun-Tse Chien, **Rui-Yang Ju**, et al.
 
-#
 ## Document Image Processing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based System'24</div><img src='https://ruiyangju.github.io/images/Figure/Three-Stage.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -81,7 +80,6 @@ Further details about my background can be found in my resume (available in both
 
 - ``PRICAI'23`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://arxiv.org/pdf/2305.17420), **Rui-Yang Ju**, Yu-Shian Lin, et al.
 
-#
 ## Layer & Block Connection Strategy
 - ``Multimedia Tools and Applications'23`` [Resolution Enhancement Processing on Low Quality Images Using Swin Transformer Based on Interval Dense Connection Strategy](https://arxiv.org/pdf/2303.09190), **Rui-Yang Ju**, Chih-Chia Chen, et al.
 - ``Journal of Real-Time Image Processing'23`` [Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification](https://arxiv.org/pdf/2204.00943), **Rui-Yang Ju**, Ting-Yu Lin, et al.
