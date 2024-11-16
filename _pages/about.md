@@ -43,7 +43,7 @@ Further details about my background can be found in my resume (available in both
 
 **Rui-Yang Ju**, Chun-Tse Chien, Jen-Shiun Chiang
 
-[**GitHub**](https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8) <strong><span class='show_paper_citations' data='r8F35p8AAAAJ:aqlVkmm33-oC'></span></strong>
+[**GitHub**](https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8)
 - SOTA performance on GRAZPEDWRI-DX dataset
 </div>
 </div>
@@ -55,7 +55,7 @@ Further details about my background can be found in my resume (available in both
 
 **Rui-Yang Ju**, Weiming Cai
 
-[**GitHub**](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) [**HTML**](https://www.nature.com/articles/s41598-023-47460-7)<strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+[**GitHub**](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) [**HTML**](https://www.nature.com/articles/s41598-023-47460-7)
 - First to use YOLOv8 for pediatric wrist fracture detection
 - Perform as Computer-assisted diagnosis (CAD) tools
 </div>
@@ -68,11 +68,11 @@ Further details about my background can be found in my resume (available in both
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based System</div><img src='https://ruiyangju.github.io/images/Figure/Three-Stage.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm](https://arxiv.org/pdf/2304.05071)
+[Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/pdf/2211.16098)
 
-**Rui-Yang Ju**, Weiming Cai
+**Rui-Yang Ju**, Yu-Shian Lin, et al.
 
-[**GitHub**](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) [**HTML**](https://www.nature.com/articles/s41598-023-47460-7)<strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+[**GitHub**](https://github.com/abcpp12383/ThreeStageBinarization) [**HTML**](https://linkinghub.elsevier.com/retrieve/pii/S0950705124011766)
 - First to use YOLOv8 for pediatric wrist fracture detection
 - Perform as Computer-assisted diagnosis (CAD) tools
 </div>
