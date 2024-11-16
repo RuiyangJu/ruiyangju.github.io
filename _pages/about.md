@@ -80,6 +80,11 @@ Further details about my background can be found in my resume (available in both
 
 - ``PRICAI 2023`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://arxiv.org/pdf/2305.17420), **Rui-Yang Ju**, Yu-Shian Lin, et al.
 
+## Layer & Block Connection Strategy
+- ``Multimedia Tools and Applications`` [Resolution Enhancement Processing on Low Quality Images Using Swin Transformer Based on Interval Dense Connection Strategy](https://arxiv.org/pdf/2303.09190), **Rui-Yang Ju**, Chih-Chia Chen, et al.
+- ``Journal of Real-Time Image Processing`` [Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification](https://arxiv.org/pdf/2204.00943), **Rui-Yang Ju**, Ting-Yu Lin, et al.
+- ``IEEE Access`` [ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections](https://arxiv.org/pdf/2201.03013), **Rui-Yang Ju**, Ting-Yu Lin, et al.
+
 # 📄 Patents
 - ``TW Patent`` [Dust-sucking loading device](https://patents.google.com/patent/TWM595589U/en), Rui-Yang Ju, 2020.05.
 - ``TW Patent`` [Cigarette box capable of keeping cigarette butts](https://patents.google.com/patent/TWM576794U/en), Rui-Yang Ju, 2019.04.
