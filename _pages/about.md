@@ -45,9 +45,9 @@ arXiv preprint, 2024.
 
 [**GitHub**](https://github.com/RuiyangJu/Efficient_Document_Image_Binarization)
 - Maintain
-- Maintain performance compared to [SOTA methods](https://arxiv.org/pdf/2211.16098)
-- 10%↓ in training time compared to [SOTA methods](https://arxiv.org/pdf/2211.16098)
-- 26%↓ in inference time compared to [SOTA methods](https://arxiv.org/pdf/2211.16098)
+- Maintain performance compared to [SOTA method](https://arxiv.org/pdf/2211.16098)
+- 10%↓ in training time compared to [SOTA method](https://arxiv.org/pdf/2211.16098)
+- 26%↓ in inference time compared to [SOTA method](https://arxiv.org/pdf/2211.16098)
 </div>
 </div>
 
