@@ -41,7 +41,7 @@ Further details about my background can be found in my resume (available in both
 
 **Rui-Yang Ju**, Chun-Tse Chien, Jen-Shiun Chiang
 
-International Conference on Neural Information Processing (ICONIP), Auckland, New Zealand, 2024
+International Conference on Neural Information Processing, Auckland, New Zealand, 2024
 
 [**GitHub**](https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8)
 - Integrate attention module into YOLOv8
@@ -64,36 +64,39 @@ Scientific Reports, 2023
 </div>
 </div>
 
-- ``ISPACS'24`` [Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2407.03163), **Rui-Yang Ju**, Chun-Tse Chien, et al.
-- ``Electronics Letters'24`` [YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](https://arxiv.org/pdf/2403.11249), Chun-Tse Chien, **Rui-Yang Ju**, et al.
+- ``ISPACS'24`` [Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2407.03163), **Rui-Yang Ju**, Chun-Tse Chien, et al., International Symposium on Intelligent Signal Processing and Communication Systems, Kaohsiung, Taiwan, 2024.
+- ``Electronics Letters'24`` [YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](https://arxiv.org/pdf/2403.11249), Chun-Tse Chien, **Rui-Yang Ju**, et al., Electronics Letters, 2024.
 
 
 ## Document Image Processing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based System'24</div><img src='https://ruiyangju.github.io/images/Figure/Three-Stage.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS'24</div><img src='https://ruiyangju.github.io/images/Figure/Three-Stage.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/pdf/2211.16098)
 
 **Rui-Yang Ju**, Yu-Shian Lin, et al.
 
-[**GitHub**](https://github.com/abcpp12383/ThreeStageBinarization) [**HTML**](https://linkinghub.elsevier.com/retrieve/pii/S0950705124011766) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-h-dibco-2018)](https://paperswithcode.com/sota/binarization-on-h-dibco-2018?p=three-stage-binarization-of-color-document) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-dibco-2017)](https://paperswithcode.com/sota/binarization-on-dibco-2017?p=three-stage-binarization-of-color-document)
+Knowledge-Based System, 2024
+
+[**GitHub**](https://github.com/abcpp12383/ThreeStageBinarization) [**HTML**](https://linkinghub.elsevier.com/retrieve/pii/S0950705124011766) 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-h-dibco-2018)](https://paperswithcode.com/sota/binarization-on-h-dibco-2018?p=three-stage-binarization-of-color-document) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-dibco-2017)](https://paperswithcode.com/sota/binarization-on-dibco-2017?p=three-stage-binarization-of-color-document)
 - Focus on color degraded document images
 - SOTA performance on DIBCO dataset
 </div>
 </div>
 
-- ``PRICAI'23`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://arxiv.org/pdf/2305.17420), **Rui-Yang Ju**, Yu-Shian Lin, et al.
+- ``PRICAI'23`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://arxiv.org/pdf/2305.17420), **Rui-Yang Ju**, Yu-Shian Lin, et al., Pacific Rim International Conference on Artificial Intelligence, Jakarta, Indonesia, 2023.
 
 
 ## Layer & Block Connection Strategy
-- ``Multimedia Tools and Applications'23`` [Resolution Enhancement Processing on Low Quality Images Using Swin Transformer Based on Interval Dense Connection Strategy](https://arxiv.org/pdf/2303.09190), **Rui-Yang Ju**, Chih-Chia Chen, et al.
-- ``Journal of Real-Time Image Processing'23`` [Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification](https://arxiv.org/pdf/2204.00943), **Rui-Yang Ju**, Ting-Yu Lin, et al.
-- ``ISPACS'22`` [Connection Reduction of DenseNet for Image Recognition](https://arxiv.org/pdf/2208.01424), **Rui-Yang Ju**, Jen-Shiun Chiang, et al.
-- ``IEEE Access'22`` [ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections](https://arxiv.org/pdf/2201.03013), **Rui-Yang Ju**, Ting-Yu Lin, et al.
+- ``MTA'23`` [Resolution Enhancement Processing on Low Quality Images Using Swin Transformer Based on Interval Dense Connection Strategy](https://arxiv.org/pdf/2303.09190), **Rui-Yang Ju**, Chih-Chia Chen, et al., Multimedia Tools and Applications, 2023.
+- ``JRTIP'23`` [Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification](https://arxiv.org/pdf/2204.00943), **Rui-Yang Ju**, Ting-Yu Lin, et al., Journal of Real-Time Image Processing, 2023.
+- ``ISPACS'22`` [Connection Reduction of DenseNet for Image Recognition](https://arxiv.org/pdf/2208.01424), **Rui-Yang Ju**, Jen-Shiun Chiang, et al, International Symposium on Intelligent Signal Processing and Communication Systems, Penang, Malaysia, 2022.
+- ``IEEE Access'22`` [ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections](https://arxiv.org/pdf/2201.03013), **Rui-Yang Ju**, Ting-Yu Lin, et al., IEEE Access, 2022.
 
 # 📄 Patents
-- ``TW Patent`` [Dust-sucking loading device](https://patents.google.com/patent/TWM595589U/en), Rui-Yang Ju, 2020.05.
-- ``TW Patent`` [Cigarette box capable of keeping cigarette butts](https://patents.google.com/patent/TWM576794U/en), Rui-Yang Ju, 2019.04.
+- ``TW Patent`` [Dust-sucking loading device](https://patents.google.com/patent/TWM595589U/en), Rui-Yang Ju, TWM595589U, 2020.05.
+- ``TW Patent`` [Cigarette box capable of keeping cigarette butts](https://patents.google.com/patent/TWM576794U/en), Rui-Yang Ju, TWM576794U, 2019.04.
 
 # 🎖 Honors
 - *2024.11*: NTU Scholarship, TWD9,000.
