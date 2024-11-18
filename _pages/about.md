@@ -117,6 +117,7 @@ Scientific Reports, 2023
 </div>
 </div>
 
+- ``Under Review`` [YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2402.09329), Chun-Tse Chien, **Rui-Yang Ju**, et al., arXiv preprint, 2024.
 - ``ISPACS'24`` [Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2407.03163), **Rui-Yang Ju**, Chun-Tse Chien, et al., International Symposium on Intelligent Signal Processing and Communication Systems, Kaohsiung, Taiwan, 2024.
 - ``Electronics Letters'24`` [YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](https://arxiv.org/pdf/2403.11249), Chun-Tse Chien, **Rui-Yang Ju**, et al., Electronics Letters, 2024.
 
