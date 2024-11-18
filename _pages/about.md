@@ -70,6 +70,22 @@ Knowledge-Based System, 2024
 - ``PRICAI'23`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://arxiv.org/pdf/2305.17420), **Rui-Yang Ju**, Yu-Shian Lin, et al., Pacific Rim International Conference on Artificial Intelligence, Jakarta, Indonesia, 2023.
 
 ## Medical Image Processing
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://ruiyangju.github.io/images/Figure/FCE-YOLOv8.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images](https://arxiv.org/pdf/2410.01031)
+
+**Rui-Yang Ju**, Chun-Tse Chien, et al.
+
+arXiv preprint, 2024.
+
+[**GitHub**](https://github.com/RuiyangJu/FCE-YOLOv8)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fce-yolov8-yolov8-with-feature-context/object-detection-on-grazpedwri-dx)](https://paperswithcode.com/sota/object-detection-on-grazpedwri-dx?p=fce-yolov8-yolov8-with-feature-context)
+- Integrate feature context excitation module into YOLOv8
+- SOTA performance on GRAZPEDWRI-DX dataset
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP'24</div><img src='https://ruiyangju.github.io/images/Figure/YOLOv8-AM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
