@@ -33,6 +33,40 @@ Further details about my background can be found in my resume (available in both
 - *2024.08*: One paper is accepted by <strong>ICONIP 2024</strong> (CCF-C).
 
 # 📝 Publications 
+## Document Image Processing
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://ruiyangju.github.io/images/Figure/Efficient-Binarization.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient GANs for Document Image Binarization Based on DWT and Normalization](https://arxiv.org/pdf/2407.04231)
+
+**Rui-Yang Ju**, KokSheik Wong, et al.
+
+arXiv preprint, 2024.
+
+[**GitHub**](https://github.com/RuiyangJu/Efficient_Document_Image_Binarization)
+- 10%↓ in training time compared to [our previous work](https://arxiv.org/pdf/2211.16098)
+- 26%↓ in inference time compared to [our previous work](https://arxiv.org/pdf/2211.16098)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS'24</div><img src='https://ruiyangju.github.io/images/Figure/Three-Stage.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/pdf/2211.16098)
+
+**Rui-Yang Ju**, Yu-Shian Lin, et al.
+
+Knowledge-Based System, 2024
+
+[**GitHub**](https://github.com/abcpp12383/ThreeStageBinarization) [**HTML**](https://linkinghub.elsevier.com/retrieve/pii/S0950705124011766) 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-h-dibco-2018)](https://paperswithcode.com/sota/binarization-on-h-dibco-2018?p=three-stage-binarization-of-color-document) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-dibco-2017)](https://paperswithcode.com/sota/binarization-on-dibco-2017?p=three-stage-binarization-of-color-document)
+- Focus on color degraded document images
+- SOTA performance on DIBCO dataset
+</div>
+</div>
+
+- ``PRICAI'23`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://arxiv.org/pdf/2305.17420), **Rui-Yang Ju**, Yu-Shian Lin, et al., Pacific Rim International Conference on Artificial Intelligence, Jakarta, Indonesia, 2023.
+
 ## Medical Image Processing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP'24</div><img src='https://ruiyangju.github.io/images/Figure/YOLOv8-AM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,27 +100,6 @@ Scientific Reports, 2023
 
 - ``ISPACS'24`` [Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2407.03163), **Rui-Yang Ju**, Chun-Tse Chien, et al., International Symposium on Intelligent Signal Processing and Communication Systems, Kaohsiung, Taiwan, 2024.
 - ``Electronics Letters'24`` [YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](https://arxiv.org/pdf/2403.11249), Chun-Tse Chien, **Rui-Yang Ju**, et al., Electronics Letters, 2024.
-
-
-## Document Image Processing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS'24</div><img src='https://ruiyangju.github.io/images/Figure/Three-Stage.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/pdf/2211.16098)
-
-**Rui-Yang Ju**, Yu-Shian Lin, et al.
-
-Knowledge-Based System, 2024
-
-[**GitHub**](https://github.com/abcpp12383/ThreeStageBinarization) [**HTML**](https://linkinghub.elsevier.com/retrieve/pii/S0950705124011766) 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-h-dibco-2018)](https://paperswithcode.com/sota/binarization-on-h-dibco-2018?p=three-stage-binarization-of-color-document) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-dibco-2017)](https://paperswithcode.com/sota/binarization-on-dibco-2017?p=three-stage-binarization-of-color-document)
-- Focus on color degraded document images
-- SOTA performance on DIBCO dataset
-</div>
-</div>
-
-- ``PRICAI'23`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://arxiv.org/pdf/2305.17420), **Rui-Yang Ju**, Yu-Shian Lin, et al., Pacific Rim International Conference on Artificial Intelligence, Jakarta, Indonesia, 2023.
-
 
 ## Layer & Block Connection Strategy
 - ``MTA'23`` [Resolution Enhancement Processing on Low Quality Images Using Swin Transformer Based on Interval Dense Connection Strategy](https://arxiv.org/pdf/2303.09190), **Rui-Yang Ju**, Chih-Chia Chen, et al., Multimedia Tools and Applications, 2023.
