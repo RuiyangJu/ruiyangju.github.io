@@ -44,8 +44,10 @@ Further details about my background can be found in my resume (available in both
 arXiv preprint, 2024.
 
 [**GitHub**](https://github.com/RuiyangJu/Efficient_Document_Image_Binarization)
-- 10%↓ in training time compared to [our previous work](https://arxiv.org/pdf/2211.16098)
-- 26%↓ in inference time compared to [our previous work](https://arxiv.org/pdf/2211.16098)
+- Maintain
+- Maintain performance compared to [SOTA methods](https://arxiv.org/pdf/2211.16098)
+- 10%↓ in training time compared to [SOTA methods](https://arxiv.org/pdf/2211.16098)
+- 26%↓ in inference time compared to [SOTA methods](https://arxiv.org/pdf/2211.16098)
 </div>
 </div>
 
