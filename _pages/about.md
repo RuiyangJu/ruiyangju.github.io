@@ -41,18 +41,22 @@ Further details about my background can be found in my resume (available in both
 
 **Rui-Yang Ju**, Chun-Tse Chien, Jen-Shiun Chiang
 
+International Conference on Neural Information Processing (ICONIP), Auckland, New Zealand, 2024
+
 [**GitHub**](https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8)
 - Integrate attention module into YOLOv8
 - SOTA performance on GRAZPEDWRI-DX dataset
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports'23</div><img src='https://ruiyangju.github.io/images/Figure/YOLOv8.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SR'23</div><img src='https://ruiyangju.github.io/images/Figure/YOLOv8.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm](https://arxiv.org/pdf/2304.05071)
 
 **Rui-Yang Ju**, Weiming Cai
+
+Scientific Reports, 2023
 
 [**GitHub**](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) [**HTML**](https://www.nature.com/articles/s41598-023-47460-7)
 - First to use YOLOv8 for pediatric wrist fracture detection
