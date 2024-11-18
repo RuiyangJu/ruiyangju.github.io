@@ -60,6 +60,7 @@ arXiv preprint, 2024.
 Knowledge-Based System, 2024
 
 [**GitHub**](https://github.com/abcpp12383/ThreeStageBinarization) [**HTML**](https://linkinghub.elsevier.com/retrieve/pii/S0950705124011766) 
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-h-dibco-2018)](https://paperswithcode.com/sota/binarization-on-h-dibco-2018?p=three-stage-binarization-of-color-document) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-dibco-2017)](https://paperswithcode.com/sota/binarization-on-dibco-2017?p=three-stage-binarization-of-color-document)
 - Focus on color degraded document images
 - SOTA performance on DIBCO dataset
@@ -79,6 +80,7 @@ Knowledge-Based System, 2024
 arXiv preprint, 2024.
 
 [**GitHub**](https://github.com/RuiyangJu/FCE-YOLOv8)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fce-yolov8-yolov8-with-feature-context/object-detection-on-grazpedwri-dx)](https://paperswithcode.com/sota/object-detection-on-grazpedwri-dx?p=fce-yolov8-yolov8-with-feature-context)
 - Integrate feature context excitation module into YOLOv8
 - SOTA performance on GRAZPEDWRI-DX dataset
@@ -95,6 +97,7 @@ arXiv preprint, 2024.
 International Conference on Neural Information Processing, Auckland, New Zealand, 2024
 
 [**GitHub**](https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/yolov8-am-yolov8-with-attention-mechanisms/object-detection-on-grazpedwri-dx)](https://paperswithcode.com/sota/object-detection-on-grazpedwri-dx?p=yolov8-am-yolov8-with-attention-mechanisms)
 - Integrate attention module into YOLOv8
 - SOTA performance on GRAZPEDWRI-DX dataset
