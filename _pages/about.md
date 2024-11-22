@@ -62,25 +62,26 @@ Pacific Rim International Conference on Artificial Intelligence, Jakarta, Indone
 [**GitHub**](https://github.com/abcpp12383/ThreeStageBinarization) [**Conference**](https://doi.org/10.1007/978-981-99-7019-3_19) [**Journal**](https://doi.org/10.1016/j.knosys.2024.112542) 
 
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-h-dibco-2018)](https://paperswithcode.com/sota/binarization-on-h-dibco-2018?p=three-stage-binarization-of-color-document) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-dibco-2017)](https://paperswithcode.com/sota/binarization-on-dibco-2017?p=three-stage-binarization-of-color-document)
-- Journal Version: [Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/pdf/2211.16098), Knowledge-Based System, 2024
+- Journal Version: [Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/pdf/2211.16098), Knowledge-Based System, 2024.
 - Focus on color degraded document images
 - SOTA performance on DIBCO dataset
 </div>
 </div>
 
 ## Medical Image Processing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://ruiyangju.github.io/images/Figure/FCE-YOLOv8.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPACS'24</div><img src='https://ruiyangju.github.io/images/Figure/FCE-YOLOv8.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images](https://arxiv.org/pdf/2410.01031)
+[Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2407.03163)
 
 **Rui-Yang Ju**, Chun-Tse Chien, et al.
 
-arXiv preprint, 2024.
+International Symposium on Intelligent Signal Processing and Communication Systems, Kaohsiung, Taiwan, 2024.
 
 [**GitHub**](https://github.com/RuiyangJu/FCE-YOLOv8)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fce-yolov8-yolov8-with-feature-context/object-detection-on-grazpedwri-dx)](https://paperswithcode.com/sota/object-detection-on-grazpedwri-dx?p=fce-yolov8-yolov8-with-feature-context)
+- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fce-yolov8-yolov8-with-feature-context/object-detection-on-grazpedwri-dx)](https://paperswithcode.com/sota/object-detection-on-grazpedwri-dx?p=fce-yolov8-yolov8-with-feature-context)
+- Journal Version: [Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images](https://arxiv.org/pdf/2410.01031), Under Review.
 - Integrate feature context excitation module into YOLOv8
 - SOTA performance on GRAZPEDWRI-DX dataset
 </div>
@@ -119,7 +120,6 @@ Scientific Reports, 2023
 </div>
 
 - ``Under Review`` [YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2402.09329), Chun-Tse Chien, **Rui-Yang Ju**, et al., arXiv preprint, 2024.
-- ``ISPACS'24`` [Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2407.03163), **Rui-Yang Ju**, Chun-Tse Chien, et al., International Symposium on Intelligent Signal Processing and Communication Systems, Kaohsiung, Taiwan, 2024.
 - ``Electronics Letters'24`` [YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](https://arxiv.org/pdf/2403.11249), Chun-Tse Chien, **Rui-Yang Ju**, et al., Electronics Letters, 2024.
 
 ## Layer & Block Connection Strategy
