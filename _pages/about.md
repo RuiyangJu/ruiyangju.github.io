@@ -59,11 +59,10 @@ arXiv preprint, 2024.
 
 Pacific Rim International Conference on Artificial Intelligence, Jakarta, Indonesia, 2023.
 
+[**GitHub**](https://github.com/abcpp12383/ThreeStageBinarization) [**Conference**](https://doi.org/10.1007/978-981-99-7019-3_19) [**Journal**](https://doi.org/10.1016/j.knosys.2024.112542) 
+
+- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-h-dibco-2018)](https://paperswithcode.com/sota/binarization-on-h-dibco-2018?p=three-stage-binarization-of-color-document) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-dibco-2017)](https://paperswithcode.com/sota/binarization-on-dibco-2017?p=three-stage-binarization-of-color-document)
 - Journal Version: [Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/pdf/2211.16098), Knowledge-Based System, 2024
-
-[**GitHub**](https://github.com/abcpp12383/ThreeStageBinarization) [**HTML**](https://linkinghub.elsevier.com/retrieve/pii/S0950705124011766) 
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-h-dibco-2018)](https://paperswithcode.com/sota/binarization-on-h-dibco-2018?p=three-stage-binarization-of-color-document) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-dibco-2017)](https://paperswithcode.com/sota/binarization-on-dibco-2017?p=three-stage-binarization-of-color-document)
 - Focus on color degraded document images
 - SOTA performance on DIBCO dataset
 </div>
