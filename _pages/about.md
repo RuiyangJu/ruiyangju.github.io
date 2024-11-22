@@ -39,7 +39,7 @@ Further details about my background can be found in my resume (available in both
 
 [Efficient GANs for Document Image Binarization Based on DWT and Normalization](https://arxiv.org/pdf/2407.04231)
 
-**Rui-Yang Ju**, KokSheik Wong, et al.
+**Rui-Yang Ju**, KokSheik Wong, Jen-Shiun Chiang
 
 arXiv preprint, 2024
 
