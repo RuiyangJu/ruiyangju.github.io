@@ -50,14 +50,16 @@ arXiv preprint, 2024.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS'24</div><img src='https://ruiyangju.github.io/images/Figure/Three-Stage.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRICAI'23</div><img src='https://ruiyangju.github.io/images/Figure/Three-Stage.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/pdf/2211.16098)
+[CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://arxiv.org/pdf/2305.17420)
 
 **Rui-Yang Ju**, Yu-Shian Lin, et al.
 
-Knowledge-Based System, 2024
+Pacific Rim International Conference on Artificial Intelligence, Jakarta, Indonesia, 2023.
+
+- Journal Version: [Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/pdf/2211.16098), Knowledge-Based System, 2024
 
 [**GitHub**](https://github.com/abcpp12383/ThreeStageBinarization) [**HTML**](https://linkinghub.elsevier.com/retrieve/pii/S0950705124011766) 
 
@@ -66,8 +68,6 @@ Knowledge-Based System, 2024
 - SOTA performance on DIBCO dataset
 </div>
 </div>
-
-- ``PRICAI'23`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://arxiv.org/pdf/2305.17420), **Rui-Yang Ju**, Yu-Shian Lin, et al., Pacific Rim International Conference on Artificial Intelligence, Jakarta, Indonesia, 2023.
 
 ## Medical Image Processing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://ruiyangju.github.io/images/Figure/FCE-YOLOv8.jpg' alt="sym" width="100%"></div></div>
