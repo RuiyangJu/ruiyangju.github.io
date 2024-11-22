@@ -62,7 +62,7 @@ Pacific Rim International Conference on Artificial Intelligence, Jakarta, Indone
 [**GitHub**](https://github.com/abcpp12383/ThreeStageBinarization) [**Conference**](https://doi.org/10.1007/978-981-99-7019-3_19) [**Journal**](https://doi.org/10.1016/j.knosys.2024.112542) 
 
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-h-dibco-2018)](https://paperswithcode.com/sota/binarization-on-h-dibco-2018?p=three-stage-binarization-of-color-document) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-dibco-2017)](https://paperswithcode.com/sota/binarization-on-dibco-2017?p=three-stage-binarization-of-color-document)
-- Journal Version: [Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/pdf/2211.16098), Knowledge-Based System, 2024.
+- Journal Version: [Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/pdf/2211.16098), Knowledge-Based System, 2024
 - Focus on color degraded document images
 - SOTA performance on DIBCO dataset
 </div>
@@ -81,7 +81,7 @@ International Symposium on Intelligent Signal Processing and Communication Syste
 [**GitHub**](https://github.com/RuiyangJu/FCE-YOLOv8)
 
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fce-yolov8-yolov8-with-feature-context/object-detection-on-grazpedwri-dx)](https://paperswithcode.com/sota/object-detection-on-grazpedwri-dx?p=fce-yolov8-yolov8-with-feature-context)
-- Journal Version: [Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images](https://arxiv.org/pdf/2410.01031), Under Review.
+- Journal Version: [Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images](https://arxiv.org/pdf/2410.01031), Under Review
 - Integrate feature context excitation module into YOLOv8
 - SOTA performance on GRAZPEDWRI-DX dataset
 </div>
@@ -99,7 +99,7 @@ International Conference on Neural Information Processing, Auckland, New Zealand
 [**GitHub**](https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8)
 
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/yolov8-am-yolov8-with-attention-mechanisms/object-detection-on-grazpedwri-dx)](https://paperswithcode.com/sota/object-detection-on-grazpedwri-dx?p=yolov8-am-yolov8-with-attention-mechanisms)
-- Journal Version: [YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2402.09329), Under Review.
+- Journal Version: [YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2402.09329), Under Review
 - Integrate attention module into YOLOv8
 - SOTA performance on GRAZPEDWRI-DX dataset
 </div>
@@ -114,32 +114,32 @@ International Conference on Neural Information Processing, Auckland, New Zealand
 
 Scientific Reports, 2023
 
-[**GitHub**](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) [**HTML**](https://www.nature.com/articles/s41598-023-47460-7)
+[**GitHub**](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) [**Journal**](https://www.nature.com/articles/s41598-023-47460-7)
 - First to use YOLOv8 for pediatric wrist fracture detection
 - Perform as Computer-assisted diagnosis (CAD) tools
 </div>
 </div>
 
-- ``Electronics Letters'24`` [YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](https://arxiv.org/pdf/2403.11249), Chun-Tse Chien, **Rui-Yang Ju**, et al., Electronics Letters, 2024.
+- ``Electronics Letters'24`` [YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](https://arxiv.org/pdf/2403.11249), Chun-Tse Chien, **Rui-Yang Ju**, et al., Electronics Letters, 2024
 
 ## Layer & Block Connection Strategy
-- ``MTA'23`` [Resolution Enhancement Processing on Low Quality Images Using Swin Transformer Based on Interval Dense Connection Strategy](https://arxiv.org/pdf/2303.09190), **Rui-Yang Ju**, Chih-Chia Chen, et al., Multimedia Tools and Applications, 2023.
-- ``JRTIP'23`` [Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification](https://arxiv.org/pdf/2204.00943), **Rui-Yang Ju**, Ting-Yu Lin, et al., Journal of Real-Time Image Processing, 2023.
-- ``ISPACS'22`` [Connection Reduction of DenseNet for Image Recognition](https://arxiv.org/pdf/2208.01424), **Rui-Yang Ju**, Jen-Shiun Chiang, et al., International Symposium on Intelligent Signal Processing and Communication Systems, Penang, Malaysia, 2022.
-- ``IEEE Access'22`` [ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections](https://arxiv.org/pdf/2201.03013), **Rui-Yang Ju**, Ting-Yu Lin, et al., IEEE Access, 2022.
+- ``MTA'23`` [Resolution Enhancement Processing on Low Quality Images Using Swin Transformer Based on Interval Dense Connection Strategy](https://arxiv.org/pdf/2303.09190), **Rui-Yang Ju**, Chih-Chia Chen, et al., Multimedia Tools and Applications, 2023
+- ``JRTIP'23`` [Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification](https://arxiv.org/pdf/2204.00943), **Rui-Yang Ju**, Ting-Yu Lin, et al., Journal of Real-Time Image Processing, 2023
+- ``ISPACS'22`` [Connection Reduction of DenseNet for Image Recognition](https://arxiv.org/pdf/2208.01424), **Rui-Yang Ju**, Jen-Shiun Chiang, et al., International Symposium on Intelligent Signal Processing and Communication Systems, Penang, Malaysia, 2022
+- ``IEEE Access'22`` [ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections](https://arxiv.org/pdf/2201.03013), **Rui-Yang Ju**, Ting-Yu Lin, et al., IEEE Access, 2022
 
 # 📄 Patents
-- ``TW Patent`` [Dust-sucking loading device](https://patents.google.com/patent/TWM595589U/en), Rui-Yang Ju, TWM595589U, 2020.
-- ``TW Patent`` [Cigarette box capable of keeping cigarette butts](https://patents.google.com/patent/TWM576794U/en), Rui-Yang Ju, TWM576794U, 2019.
+- ``TW Patent`` [Dust-sucking loading device](https://patents.google.com/patent/TWM595589U/en), Rui-Yang Ju, TWM595589U, 2020
+- ``TW Patent`` [Cigarette box capable of keeping cigarette butts](https://patents.google.com/patent/TWM576794U/en), Rui-Yang Ju, TWM576794U, 2019
 
 # 🎖 Honors
-- *2024.11*: NTU Scholarship, TWD9,000.
-- *2024.05*: NTU Scholarship, TWD8,000.
-- *2023.11*: NTU Scholarship, TWD8,000.
-- *2022.12*: TKU Scholarship (Top 1%), TWD10,000.
-- *2022.05*: TKU Academic Award.
-- *2021.05*: TKU Scholarship (Top 1%), TWD10,000.
+- *2024.11*: NTU Scholarship, TWD9,000
+- *2024.05*: NTU Scholarship, TWD8,000
+- *2023.11*: NTU Scholarship, TWD8,000
+- *2022.12*: TKU Scholarship (Top 1%), TWD10,000
+- *2022.05*: TKU Academic Award
+- *2021.05*: TKU Scholarship (Top 1%), TWD10,000
 
 # 📖 Educations
-- *2023.09 - 2025.06*, Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei City. 
-- *2019.09 - 2023.06*, Electrical and Computer Engineering, Tamkang University, New Taipei City. 
+- *2023.09 - 2025.06*, Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei City
+- *2019.09 - 2023.06*, Electrical and Computer Engineering, Tamkang University, New Taipei City
