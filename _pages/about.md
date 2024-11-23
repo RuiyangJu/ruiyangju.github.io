@@ -137,7 +137,7 @@ Scientific Reports, 2023
 - *2024.05*: NTU Scholarship, TWD8,000
 - *2023.11*: NTU Scholarship, TWD8,000
 - *2022.12*: TKU Scholarship (Top 1%), TWD10,000
-- *2022.05*: TKU Academic Award
+- *2022.05*: TKU Academic Award (Top 5%, College of Engineer)
 - *2021.05*: TKU Scholarship (Top 1%), TWD10,000
 
 # 📖 Educations
