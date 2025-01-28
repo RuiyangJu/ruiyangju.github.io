@@ -67,17 +67,16 @@ Knowledge-Based System, 2024
 
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-h-dibco-2018)](https://paperswithcode.com/sota/binarization-on-h-dibco-2018?p=three-stage-binarization-of-color-document) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-dibco-2017)](https://paperswithcode.com/sota/binarization-on-dibco-2017?p=three-stage-binarization-of-color-document)
 - Focus on color degraded document images
-- SOTA performance on DIBCO dataset
 </div>
 </div>
 
-## Medical Image Processing
+## Fracture Detection
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPACS'24</div><img src='https://ruiyangju.github.io/images/Figure/FCE-YOLOv8.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2407.03163)
 
-**Rui-Yang Ju**, Chun-Tse Chien, et al.
+**Rui-Yang Ju**, Chun-Tse Chien, [Yanlin Jin](https://www.neiljin.site/), et al.
 
 International Symposium on Intelligent Signal Processing and Communication Systems, Kaohsiung, Taiwan, 2024
 
