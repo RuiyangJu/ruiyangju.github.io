@@ -59,7 +59,7 @@ arXiv preprint, 2024
 
 [Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/pdf/2211.16098)
 
-**Rui-Yang Ju**, Yu-Shian Lin, et al.
+**Rui-Yang Ju**, Yu-Shian Lin, [Yanlin Jin](https://www.neiljin.site/), et al.
 
 Knowledge-Based System, 2024
 
