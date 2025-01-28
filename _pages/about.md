@@ -127,9 +127,6 @@ Scientific Reports, 2023
 ## Layer & Block Connection Strategy
 - ``MTA'23`` [Resolution Enhancement Processing on Low Quality Images Using Swin Transformer Based on Interval Dense Connection Strategy](https://arxiv.org/pdf/2303.09190), **Rui-Yang Ju**, Chih-Chia Chen, et al., Multimedia Tools and Applications, 2023
 - ``JRTIP'23`` [Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification](https://arxiv.org/pdf/2204.00943), **Rui-Yang Ju**, Ting-Yu Lin, et al., Journal of Real-Time Image Processing, 2023
-<!--
-- ``ISPACS'22`` [Connection Reduction of DenseNet for Image Recognition](https://arxiv.org/pdf/2208.01424), **Rui-Yang Ju**, Jen-Shiun Chiang, et al., International Symposium on Intelligent Signal Processing and Communication Systems, Penang, Malaysia, 2022
--->
 - ``IEEE Access'22`` [ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections](https://arxiv.org/pdf/2201.03013), **Rui-Yang Ju**, Ting-Yu Lin, et al., IEEE Access, 2022
 
 # 📄 Patents
