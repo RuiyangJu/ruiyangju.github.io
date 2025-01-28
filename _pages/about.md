@@ -103,9 +103,6 @@ International Conference on Neural Information Processing, Auckland, New Zealand
 [**GitHub**](https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8)
 
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/yolov8-am-yolov8-with-attention-mechanisms/object-detection-on-grazpedwri-dx)](https://paperswithcode.com/sota/object-detection-on-grazpedwri-dx?p=yolov8-am-yolov8-with-attention-mechanisms)
-<!--
-- Journal Version: [YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2402.09329), Under Review
--->
 - Integrate attention modules into YOLOv8
 </div>
 </div>
