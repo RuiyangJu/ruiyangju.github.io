@@ -118,6 +118,7 @@ Scientific Reports, 2023
 
 [**GitHub**](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) [**Journal**](https://www.nature.com/articles/s41598-023-47460-7) [**Dataset**](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/)
 - First to use YOLOv8 for pediatric wrist fracture detection
+- Our split GRAZPEDWRI-DX dataset can be downloaded [here](https://1drv.ms/u/s!Ap6uuRvdVcJWbXtfIFYUvzOMKXQ)
 - Perform as Computer-assisted diagnosis (CAD) tools
 </div>
 </div>
