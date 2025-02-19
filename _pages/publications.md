@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: compress
 title: "Publications"
 permalink: /publications/
 ---
