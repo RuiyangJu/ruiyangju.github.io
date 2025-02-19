@@ -33,7 +33,7 @@ Further details about my background can be found in my resume (available in both
 - *2025.01*: Our split GRAZPEDWRI-DX dataset is now [avaliable](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/).
 - *2024.09*: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2).
 
-# 📝 Publications
+# 📝 [Publications](/publications/) 
 ## Document Image Processing
 
 <!--

@@ -3,11 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Research"
-    url: "/research/"
-    
+  - title: "News"
+    url: "/#-news"
+
   - title: "Publications"
     url: "/publications/"
 
-  - title: "Dataset"
-    url: "/GRAZPEDWRI-DX_JU/"
+  - title: "Patents"
+    url: "/#-patents"
+
+  - title: "Honors"
+    url: "/#-honors"
+
+  - title: "Educations"
+    url: "/#-educations"
