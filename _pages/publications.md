@@ -1,11 +1,7 @@
 ---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
+layout: page
+title: "Publications"
+permalink: /publications/
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
