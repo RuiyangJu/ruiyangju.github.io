@@ -35,7 +35,7 @@ Further details about my background can be found in my resume (available in both
 
 # Research
 ## Document Binarization
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 The efficient extraction of text information from the background in degraded color document images is an important challenge. The imperfect preservation of some manuscripts has led to different types of degradation over time, such as page yellowing, staining, and ink bleeding, seriously affecting the results of document image binarization. 
