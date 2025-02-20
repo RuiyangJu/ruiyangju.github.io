@@ -6,11 +6,14 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Research"
+    url: "/#-research"
+    
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Patents"
-    url: "/#-patents"
+  - title: "Professional Services"
+    url: "/#-professional-services"
 
   - title: "Honors"
     url: "/#-honors"
