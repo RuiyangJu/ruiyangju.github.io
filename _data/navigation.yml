@@ -7,16 +7,16 @@ main:
     url: "/#news"
 
   - title: "Research"
-    url: "/#-research"
+    url: "/#research"
     
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Professional Services"
-    url: "/#-professional-services"
+    url: "/#professional-services"
 
   - title: "Honors"
-    url: "/#-honors"
+    url: "/#honors"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
