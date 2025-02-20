@@ -28,12 +28,12 @@ My primary research areas include Deep Learning (DL), Neural Networks (NN), Comp
 Further details about my background can be found in my resume (available in both 
 <a href='https://ruiyangju.github.io/images/CV_English.pdf'><img src='https://img.shields.io/badge/Resume-English-white?color=green'></a> and <a href='https://ruiyangju.github.io/images/CV_Chinese.pdf'><img src='https://img.shields.io/badge/Resume-Chinese-white?color=blue'></a>).
 
-# **News**
+# News
 - *2025.01*: One paper is accepted by <strong>ICRA 2025</strong>.
 - *2025.01*: Our split GRAZPEDWRI-DX dataset is now [avaliable](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/).
 - *2024.09*: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2).
 
-# Publications
+# Research
 ## Document Image Processing
 
 <!--
@@ -129,6 +129,12 @@ Scientific Reports, 2023
 - ``MTA'23`` [Resolution Enhancement Processing on Low Quality Images Using Swin Transformer Based on Interval Dense Connection Strategy](https://arxiv.org/pdf/2303.09190), **Rui-Yang Ju**, Chih-Chia Chen, Jen-Shiun Chiang, et al., Multimedia Tools and Applications, 2023
 - ``JRTIP'23`` [Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification](https://arxiv.org/pdf/2204.00943), **Rui-Yang Ju**, Ting-Yu Lin, Jia-Hao Jian, et al., Journal of Real-Time Image Processing, 2023
 - ``IEEE Access'22`` [ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections](https://arxiv.org/pdf/2201.03013), **Rui-Yang Ju**, Ting-Yu Lin, Jia-Hao Jian, et al., IEEE Access, 2022
+
+# Publications
+123
+
+# Professional Services
+123
 
 # Honors
 - *2024.11*: NTU Scholarship, TWD9,000
