@@ -34,7 +34,7 @@ Further details about my background can be found in my resume (available in both
 - *2024.09*: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2).
 
 # Research
-### Document Binarization
+## Document Binarization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -53,20 +53,14 @@ We propose a three-stage network method based on generative adversarial networks
 
 [YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2409.18826)
 
-**Rui-Yang Ju**, Chun-Tse Chien, Jen-Shiun Chiang
-
-International Conference on Neural Information Processing, Auckland, New Zealand, 2024
-
-[**GitHub**](https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8)
-
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/yolov8-rescbam-yolov8-based-on-an-effective/fracture-detection-on-grazpedwri-dx)](https://paperswithcode.com/sota/fracture-detection-on-grazpedwri-dx?p=yolov8-rescbam-yolov8-based-on-an-effective)
-- Integrate attention modules into YOLOv8
 </div>
 </div>
 
 ## ORB-SfMLearner
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='https://ruiyangju.github.io/images/Figure/ORB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
 Deep visual odometry, despite extensive research, still faces limitations in accuracy and generalizability that prevent its broader application. To address these challenges, we propose an Oriented FAST and Rotated BRIEF (ORB)-guided visual odometry with selective online adaptation named ORB-SfMLearner. We present a novel use of ORB features for learning-based ego-motion estimation, leading to more robust and accurate results. 
   
 - [Webpage](https://www.neiljin.site/projects/orbsfm/)
