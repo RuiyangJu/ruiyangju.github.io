@@ -34,7 +34,7 @@ Further details about my background can be found in my resume (available in both
 - *2024.09*: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2).
 
 # Research
-### Document Binarization
+## Document Binarization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -46,7 +46,7 @@ We propose a three-stage network method based on generative adversarial networks
 </div>
 </div>
 
-### Fracture Detection
+## Fracture Detection
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='https://ruiyangju.github.io/images/Figure/fracture-detection.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,7 +58,7 @@ Hospital emergency departments frequently receive lots of bone fracture cases, w
 </div>
 </div>
 
-### ORB-SfMLearner
+## ORB-SfMLearner
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='https://ruiyangju.github.io/images/Figure/ORB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -69,17 +69,26 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 </div>
 
 # Publications
-### 2025
+## 2025
+### Conference
 - Yanlin Jin, <u>Rui-Yang Ju</u>, Haojun Liu, Yuzhong Zhong, “[ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://arxiv.org/abs/2409.11692)”, **IEEE International Conference on Robotics and Automation (ICRA)**, Atlanta, USA, 2025.
 
 <details>
 <summary>View more</summary>
   
-### 2024
-- <u>Rui-Yang Ju</u>, KokSheik Wong, Jen-Shiun Chiang, “[Efficient GANs for Document Image Binarization Based on DWT and Normalization](https://arxiv.org/abs/2407.04231)”, arXiv preprint, 2024.
-- <u>Rui-Yang Ju</u>, Chun-Tse Chien, Enkaer Xieerke, Jen-Shiun Chiang, “[Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images](https://arxiv.org/abs/2410.01031)”, arXiv preprint, 2024.
-- Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang, “[YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection](https://arxiv.org/abs/2402.09329)”, arXiv preprint, 2024.
-- Yanbing Bai, Zihao Yang, Jinze Yu, <u>Rui-Yang Ju</u>, Bin Yang, Erick Mas, Shunichi Koshimura, “[Flood Data Analysis on SpaceNet 8 Using Apache Sedona](https://arxiv.org/abs/2404.18235)”, arXiv preprint, 2024.
+## 2024
+### Journal
+- <u>Rui-Yang Ju</u>, Yu-Shian Lin, Yanlin Jin, Chih-Chia Chen, Chun-Tse Chien, Jen-Shiun Chiang, “[Three-stage Binarization of Color Document Images Based on Discrete Wavelet Transform and Generative Adversarial Networks](https://doi.org/10.1016/j.knosys.2024.112542)”, **Knowledge-Based Systems**, 2024.
+- Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Jen-Shiun Chiang, “[YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](http://dx.doi.org/10.1049/ell2.13248)”, **Electronics Letters**, 2024.
+
+### Conference
+- <u>Rui-Yang Ju</u>, Chun-Tse Chien, Chia-Min Lin, Jen-Shiun Chiang, “Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection”, International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS), Kaohsiung, Taiwan, 2024.
+
+### arXiv
+- <u>Rui-Yang Ju</u>, KokSheik Wong, Jen-Shiun Chiang, “Efficient GANs for Document Image Binarization Based on DWT and Normalization”, arXiv preprint, 2024.
+- <u>Rui-Yang Ju</u>, Chun-Tse Chien, Enkaer Xieerke, Jen-Shiun Chiang, “Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images”, arXiv preprint, 2024.
+- Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang, “YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection”, arXiv preprint, 2024.
+- Yanbing Bai, Zihao Yang, Jinze Yu, <u>Rui-Yang Ju</u>, Bin Yang, Erick Mas, Shunichi Koshimura, “Flood Data Analysis on SpaceNet 8 Using Apache Sedona”, arXiv preprint, 2024.
 </details>
 
 # Professional Services
