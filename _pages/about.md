@@ -107,7 +107,27 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 </ul>
 </details>
 
+## 2023
+<details>
+<summary>View more</summary>
+<h3>Journal</h3>
+<ul>
+  <li><u>Rui-Yang Ju</u>, Weiming Cai, <a href="https://doi.org/10.1038/s41598-023-47460-7">“Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm”</a>, <strong>Scientific Reports</strong>, 2023.
+  </li>
+  <li><u>Rui-Yang Ju</u>* , Chih-Chia Chen* , Jen-Shiun Chiang, Yu-Shian Lin, Wei-Han Chen (*=equal contribution), <a href="https://doi.org/10.1007/s11042-023-16088-0">“Resolution Enhancement Processing on Low Quality Images Using Swin Transformer Based on Interval Dense Connection Strategy”</a>, <strong>Multimedia Tools and Applications (MTA)</strong>, 2023.
+  </li>
+  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang, <a href="https://doi.org/10.1007/s11554-023-01271-1">“Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification”</a>, <strong>Journal of Real-Time Image Processing (JRTIP)</strong>, 2023.
+  </li>
+</ul>
 
+<h3>Conference</h3>
+<ul>
+  <li><u>Rui-Yang Ju</u>, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien, <a href="https://doi.org/10.1007/978-981-99-7019-3_19">“CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization”</a>, <strong>Pacific Rim International Conferences on Artificial Intelligence (PRICAI)</strong>, Jakarta, Indonesia, 2023.
+  </li>
+</ul>
+</details>
+
+  
 # Professional Services
 ## Journal Reviewer
 <details>
