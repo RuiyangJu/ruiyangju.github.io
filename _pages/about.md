@@ -102,8 +102,6 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
   </li>
   <li>Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang, “YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection”, arXiv preprint, 2024.
   </li>
-  <li>Yanbing Bai, Zihao Yang, Jinze Yu, <u>Rui-Yang Ju</u>, Bin Yang, Erick Mas, Shunichi Koshimura, “Flood Data Analysis on SpaceNet 8 Using Apache Sedona”, arXiv preprint, 2024.
-  </li>
 </ul>
 </details>
 
@@ -127,6 +125,14 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 </ul>
 </details>
 
+## 2022
+<details>
+<summary>View more</summary>
+<h3>Journal</h3>
+- <u>Rui-Yang Ju</u>, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang, Wei-Bin Yang, “[ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections](https://doi.org/10.1109/ACCESS.2022.3196492)”, IEEE Access, 2022.
+
+<h3>Conference</h3>
+- 
   
 # Professional Services
 ## Journal Reviewer
