@@ -153,6 +153,7 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
   <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/TAAI54685.2021.00028">“New Pruning Method Based on DenseNet Network for Image Classification”</a>, <strong>International Conference on Technologies and Applications of Artificial Intelligence (TAAI)</strong>, Taichung, Taiwan, 2021.
   </li>
 </ul>
+</details>
 
 # Professional Services
 ## Journal Reviewer
