@@ -98,20 +98,20 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 ## Journal Reviewer
 <details>
 <summary>View more</summary>
-  
-- Cognitive Computation.
-- Telecommunication Systems.
-- International Journal of Computational Intelligence Systems.
-- Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization.
-- International Journal of Multimedia Information Retrieval.
-- Scientific Reports.
-- Plos One.
-- Signal, Image and Video Processing.
-- The Journal of Supercomputing.
-- Frontiers in Computer Science.
-- International Journal of Machine Learning and Cybernetics.
-- Knowledge-based Systems.
-
+<ul>
+  <li>Cognitive Computation.</li>
+  <li>Telecommunication Systems.</li>
+  <li>International Journal of Computational Intelligence Systems.</li>
+  <li>Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization.</li>
+  <li>International Journal of Multimedia Information Retrieval.</li>
+  <li>Scientific Reports.</li>
+  <li>Plos One.</li>
+  <li>Signal, Image and Video Processing.</li>
+  <li>The Journal of Supercomputing.</li>
+  <li>Frontiers in Computer Science.</li>
+  <li>International Journal of Machine Learning and Cybernetics.</li>
+  <li>Knowledge-based Systems.</li>
+</ul>
 </details>
 
 ## Conference Committee
