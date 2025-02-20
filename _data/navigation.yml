@@ -7,10 +7,10 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/publications/"
+    url: "/#-publications"
 
   - title: "Patents"
-    url: "/patents/"
+    url: "/#-patents"
 
   - title: "Honors"
     url: "/#-honors"
