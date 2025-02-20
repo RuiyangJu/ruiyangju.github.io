@@ -34,7 +34,7 @@ Further details about my background can be found in my resume (available in both
 - *2024.09*: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2).
 
 # Research
-## Document Binarization
+### Document Binarization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
