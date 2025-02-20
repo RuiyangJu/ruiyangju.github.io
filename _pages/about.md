@@ -82,7 +82,9 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 - Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Jen-Shiun Chiang, “[YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](http://dx.doi.org/10.1049/ell2.13248)”, **Electronics Letters**, 2024.
 
 ### Conference
-- <u>Rui-Yang Ju</u>, Chun-Tse Chien, Chia-Min Lin, Jen-Shiun Chiang, “Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection”, International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS), Kaohsiung, Taiwan, 2024.
+- <u>Rui-Yang Ju</u>, Chun-Tse Chien, Jen-Shiun Chiang, “YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection”, **International Conference on Neural Information Processing (ICONIP)**, Auckland, New Zealand, 2024.
+- <u>Rui-Yang Ju</u>, Chun-Tse Chien, Chia-Min Lin, Jen-Shiun Chiang, “[Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection](https://doi.org/10.1109/ISPACS62486.2024.10869064)”, **International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)**, Kaohsiung, Taiwan, 2024.
+- Yanbing Bai, Siao Li, <u>Rui-Yang Ju</u>, Zihao Yang, Jinze Yu, Jen-Shiun Chiang, “[FAD-SAR: A Novel Fishing Activity Detection System via Synthetic Aperture Radar Images Based on Deep Learning Method](https://doi.org/10.1109/ISPACS62486.2024.10869003)”, **International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)**, Kaohsiung, Taiwan, 2024.
 
 ### arXiv
 - <u>Rui-Yang Ju</u>, KokSheik Wong, Jen-Shiun Chiang, “Efficient GANs for Document Image Binarization Based on DWT and Normalization”, arXiv preprint, 2024.
