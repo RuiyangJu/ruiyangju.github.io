@@ -95,7 +95,11 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 </details>
 
 # Professional Services
-123
+## Conference Committee
+- International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025, **Reviewer**.
+- IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, **Reviewer**.
+- Pacific Rim International Conference on Artificial Intelligence (PRICAI), Kyoto, Japan, 2024, **Program Committee**.
+- Pacific Rim International Conference on Artificial Intelligence (PRICAI), Jakarta, Indonesia, 2023, **Program Committee**.
 
 # Honors
 - *2024.11*: NTU Scholarship, TWD9,000
