@@ -34,7 +34,7 @@ Further details about my background can be found in my resume (available in both
 - *2024.09*: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2).
 
 # Research
-## Document Binarization
+### Document Binarization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -46,7 +46,7 @@ We propose a three-stage network method based on generative adversarial networks
 </div>
 </div>
 
-## Fracture Detection
+### Fracture Detection
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='https://ruiyangju.github.io/images/Figure/fracture-detection.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,7 +58,7 @@ Hospital emergency departments frequently receive lots of bone fracture cases, w
 </div>
 </div>
 
-## ORB-SfMLearner
+### ORB-SfMLearner
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='https://ruiyangju.github.io/images/Figure/ORB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -69,7 +69,8 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 </div>
 
 # Publications
-123
+### 2025
+- Yanlin Jin, Rui-Yang Ju, Haojun Liu, Yuzhong Zhong, “ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation”, IEEE International Conference on Robotics and Automation (ICRA), Atlanta, USA, 2025.
 
 # Professional Services
 123
