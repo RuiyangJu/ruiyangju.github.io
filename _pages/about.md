@@ -70,7 +70,7 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 
 # Publications
 ### 2025
-- Yanlin Jin, <u>Rui-Yang Ju</u>, Haojun Liu, Yuzhong Zhong, “[ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://arxiv.org/abs/2409.11692)”, IEEE International Conference on Robotics and Automation (ICRA), Atlanta, USA, 2025.
+- Yanlin Jin, <u>Rui-Yang Ju</u>, Haojun Liu, Yuzhong Zhong, “[ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://arxiv.org/abs/2409.11692)”, **IEEE International Conference on Robotics and Automation (ICRA)**, Atlanta, USA, 2025.
 
 ### 2024
 - <u>Rui-Yang Ju</u>, KokSheik Wong, Jen-Shiun Chiang, “[Efficient GANs for Document Image Binarization Based on DWT and Normalization](https://arxiv.org/abs/2407.04231)”, arXiv preprint, 2024.
