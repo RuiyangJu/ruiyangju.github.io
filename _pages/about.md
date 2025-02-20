@@ -129,11 +129,31 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 <details>
 <summary>View more</summary>
 <h3>Journal</h3>
-- <u>Rui-Yang Ju</u>, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang, Wei-Bin Yang, “[ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections](https://doi.org/10.1109/ACCESS.2022.3196492)”, IEEE Access, 2022.
+<ul>
+  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang, Wei-Bin Yang, <a href="https://doi.org/10.1109/ACCESS.2022.3196492">“ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections”</a>, <strong>IEEE Access</strong>, 2022.
+  </li>
+</ul>
 
 <h3>Conference</h3>
-- 
-  
+<ul>
+  <li><u>Rui-Yang Ju</u>, Jen-Shiun Chiang, Chih-Chia Chen, Yu-Shian Lin, <a href="https://doi.org/10.1109/ISPACS57703.2022.10082842">“Connection Reduction of DenseNet for Image Recognition”</a>, <strong>International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)</strong>, Penang, Malaysia, 2022.
+  </li>
+  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/IET-ICETA56553.2022.9971625">“TripleNet: A Low-Parameter Network for Low Computing Power Platform”</a>, <strong>IET International Conference on Engineering Technologies and Applications (IET-ICETA)</strong>, Changhua, Taiwan, 2022.
+  </li>
+  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jen-Shiun Chiang, Jia-Hao Jian, Yu-Shian Lin, Liu-Rui-Yi Huang, <a href="https://doi.org/10.1109/ICCE-Taiwan55306.2022.9869242">“Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions”</a>, <strong>IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)</strong>, Taipei, Taiwan, 2022.
+  </li>
+</ul>
+</details>
+
+## 2021
+<details>
+<summary>View more</summary>
+<h3>Conference</h3>
+<ul>
+  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/TAAI54685.2021.00028">“New Pruning Method Based on DenseNet Network for Image Classification”</a>, International Conference on Technologies and Applications of Artificial Intelligence (TAAI), Taichung, Taiwan, 2021.
+  </li>
+</ul>
+
 # Professional Services
 ## Journal Reviewer
 <details>
