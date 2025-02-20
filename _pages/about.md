@@ -35,7 +35,6 @@ Further details about my background can be found in my resume (available in both
 
 # Research
 ## Document Image Processing
-
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://ruiyangju.github.io/images/Figure/Efficient-Binarization.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,7 +53,7 @@ arXiv preprint, 2024
 </div>
 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS'24</div><img src='https://ruiyangju.github.io/images/Figure/Three-Stage.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='https://ruiyangju.github.io/images/Figure/Three-Stage.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/pdf/2211.16098)
