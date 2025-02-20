@@ -54,7 +54,8 @@ We propose a three-stage network method based on generative adversarial networks
 [YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2409.18826)
 
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fce-yolov8-yolov8-with-feature-context/fracture-detection-on-grazpedwri-dx)](https://paperswithcode.com/sota/fracture-detection-on-grazpedwri-dx?p=fce-yolov8-yolov8-with-feature-context)
-- Our split [dataset](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/)
+- [Our split dataset](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/)
+- [Our web application](https://fracture-detection-yolo.streamlit.app/)
 </div>
 </div>
 
