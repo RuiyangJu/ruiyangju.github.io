@@ -79,6 +79,7 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 - <u>Rui-Yang Ju</u>, KokSheik Wong, Jen-Shiun Chiang, “[Efficient GANs for Document Image Binarization Based on DWT and Normalization](https://arxiv.org/abs/2407.04231)”, arXiv preprint, 2024.
 - <u>Rui-Yang Ju</u>, Chun-Tse Chien, Enkaer Xieerke, Jen-Shiun Chiang, “[Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images](https://arxiv.org/abs/2410.01031)”, arXiv preprint, 2024.
 - Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang, “[YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection](https://arxiv.org/abs/2402.09329)”, arXiv preprint, 2024.
+- Yanbing Bai, Zihao Yang, Jinze Yu, <u>Rui-Yang Ju</u>, Bin Yang, Erick Mas, Shunichi Koshimura, “[Flood Data Analysis on SpaceNet 8 Using Apache Sedona](https://arxiv.org/abs/2404.18235)”, arXiv preprint, 2024.
 </details>
 
 # Professional Services
