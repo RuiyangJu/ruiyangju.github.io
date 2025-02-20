@@ -48,7 +48,7 @@ We propose a three-stage network method based on generative adversarial networks
 </div>
 
 ## Fracture Detection
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP'24</div><img src='https://ruiyangju.github.io/images/Figure/YOLOv8-AM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='https://ruiyangju.github.io/images/Figure/fracture-detection.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection](https://arxiv.org/pdf/2409.18826)
