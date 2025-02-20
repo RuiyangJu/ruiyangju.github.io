@@ -35,25 +35,7 @@ Further details about my background can be found in my resume (available in both
 
 # Research
 ## Document Image Processing
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://ruiyangju.github.io/images/Figure/Efficient-Binarization.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Efficient GANs for Document Image Binarization Based on DWT and Normalization](https://arxiv.org/pdf/2407.04231)
-
-**Rui-Yang Ju**, KokSheik Wong, Jen-Shiun Chiang
-
-arXiv preprint, 2024
-
-[**GitHub**](https://github.com/RuiyangJu/Efficient_Document_Image_Binarization)
-- Maintain performance compared to [SOTA method](https://arxiv.org/pdf/2211.16098)
-- 10%↓ in training time compared to [SOTA method](https://arxiv.org/pdf/2211.16098)
-- 26%↓ in inference time compared to [SOTA method](https://arxiv.org/pdf/2211.16098)
-</div>
-</div>
--->
-
-<div class='paper-box'><div class='paper-box-image'><img src='https://ruiyangju.github.io/images/Figure/Three-Stage.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='https://ruiyangju.github.io/images/Figure/document-binarization.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/pdf/2211.16098)
