@@ -73,26 +73,40 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 ### Conference
 - Yanlin Jin, <u>Rui-Yang Ju</u>, Haojun Liu, Yuzhong Zhong, “[ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://arxiv.org/abs/2409.11692)”, **IEEE International Conference on Robotics and Automation (ICRA)**, Atlanta, USA, 2025.
 
+## 2024
 <details>
 <summary>View more</summary>
-  
-## 2024
-### Journal
-- <u>Rui-Yang Ju</u>, Yu-Shian Lin, Yanlin Jin, Chih-Chia Chen, Chun-Tse Chien, Jen-Shiun Chiang, “[Three-stage Binarization of Color Document Images Based on Discrete Wavelet Transform and Generative Adversarial Networks](https://doi.org/10.1016/j.knosys.2024.112542)”, **Knowledge-Based Systems**, 2024.
-- Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Jen-Shiun Chiang, “[YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](http://dx.doi.org/10.1049/ell2.13248)”, **Electronics Letters**, 2024.
+<h3>Journal</h3>
+<ul>
+  <li><u>Rui-Yang Ju</u>, Yu-Shian Lin, Yanlin Jin, Chih-Chia Chen, Chun-Tse Chien, Jen-Shiun Chiang, <a href="https://doi.org/10.1016/j.knosys.2024.112542">“Three-stage Binarization of Color Document Images Based on Discrete Wavelet Transform and Generative Adversarial Networks”</a>, <strong>Knowledge-Based Systems</strong>, 2024.
+  </li>
+  <li>Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Jen-Shiun Chiang, <a href="http://dx.doi.org/10.1049/ell2.13248">“YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images”</a>, <strong>Electronics Letters</strong>, 2024.
+  </li>
+</ul>
 
-### Conference
-- <u>Rui-Yang Ju</u>, Chun-Tse Chien, Jen-Shiun Chiang, “YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection”, **International Conference on Neural Information Processing (ICONIP)**, Auckland, New Zealand, 2024.
-- <u>Rui-Yang Ju</u>, Chun-Tse Chien, Chia-Min Lin, Jen-Shiun Chiang, “[Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection](https://doi.org/10.1109/ISPACS62486.2024.10869064)”, **International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)**, Kaohsiung, Taiwan, 2024.
-- Yanbing Bai, Siao Li, <u>Rui-Yang Ju</u>, Zihao Yang, Jinze Yu, Jen-Shiun Chiang, “[FAD-SAR: A Novel Fishing Activity Detection System via Synthetic Aperture Radar Images Based on Deep Learning Method](https://doi.org/10.1109/ISPACS62486.2024.10869003)”, **International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)**, Kaohsiung, Taiwan, 2024.
+<h3>Conference</h3>
+<ul>
+  <li><u>Rui-Yang Ju</u>, Chun-Tse Chien, Jen-Shiun Chiang, “YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection”, <strong>International Conference on Neural Information Processing (ICONIP)</strong>, Auckland, New Zealand, 2024.
+  </li>
+  <li><u>Rui-Yang Ju</u>, Chun-Tse Chien, Chia-Min Lin, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/ISPACS62486.2024.10869064">“Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection”</a>, <strong>International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)</strong>, Kaohsiung, Taiwan, 2024.
+  </li>
+  <li>Yanbing Bai, Siao Li, <u>Rui-Yang Ju</u>, Zihao Yang, Jinze Yu, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/ISPACS62486.2024.10869003">“FAD-SAR: A Novel Fishing Activity Detection System via Synthetic Aperture Radar Images Based on Deep Learning Method”</a>, <strong>International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)</strong>, Kaohsiung, Taiwan, 2024.
+  </li>
+</ul>
 
-### arXiv
-- <u>Rui-Yang Ju</u>, KokSheik Wong, Jen-Shiun Chiang, “Efficient GANs for Document Image Binarization Based on DWT and Normalization”, arXiv preprint, 2024.
-- <u>Rui-Yang Ju</u>, Chun-Tse Chien, Enkaer Xieerke, Jen-Shiun Chiang, “Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images”, arXiv preprint, 2024.
-- Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang, “YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection”, arXiv preprint, 2024.
-- Yanbing Bai, Zihao Yang, Jinze Yu, <u>Rui-Yang Ju</u>, Bin Yang, Erick Mas, Shunichi Koshimura, “Flood Data Analysis on SpaceNet 8 Using Apache Sedona”, arXiv preprint, 2024.
-
+<h3>arXiv</h3>
+<ul>
+  <li><u>Rui-Yang Ju</u>, KokSheik Wong, Jen-Shiun Chiang, “Efficient GANs for Document Image Binarization Based on DWT and Normalization”, arXiv preprint, 2024.
+  </li>
+  <li><u>Rui-Yang Ju</u>, Chun-Tse Chien, Enkaer Xieerke, Jen-Shiun Chiang, “Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images”, arXiv preprint, 2024.
+  </li>
+  <li>Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang, “YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection”, arXiv preprint, 2024.
+  </li>
+  <li>Yanbing Bai, Zihao Yang, Jinze Yu, <u>Rui-Yang Ju</u>, Bin Yang, Erick Mas, Shunichi Koshimura, “Flood Data Analysis on SpaceNet 8 Using Apache Sedona”, arXiv preprint, 2024.
+  </li>
+</ul>
 </details>
+
 
 # Professional Services
 ## Journal Reviewer
