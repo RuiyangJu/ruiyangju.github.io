@@ -181,7 +181,7 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 - *2024.05*: NTU Scholarship, TWD8,000
 - *2023.11*: NTU Scholarship, TWD8,000
 - *2022.12*: TKU Scholarship (Top 1%), TWD10,000
-- *2022.05*: TKU Academic Award (Top 5%, College of Engineer)
+- *2022.05*: TKU Academic Award (Top 5% in College of Engineering)
 - *2021.05*: TKU Scholarship (Top 1%), TWD10,000
 
 # Educations
