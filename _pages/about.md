@@ -83,6 +83,16 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
   <li>Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Jen-Shiun Chiang, <a href="http://dx.doi.org/10.1049/ell2.13248">“YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images”</a>, <strong>Electronics Letters</strong>, 2024.
   </li>
 </ul>
+
+<h3>Conference</h3>
+<ul>
+  <li><u>Rui-Yang Ju</u>, Chun-Tse Chien, Jen-Shiun Chiang, “YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection”, <strong>International Conference on Neural Information Processing (ICONIP)</strong>, Auckland, New Zealand, 2024.
+  </li>
+  <li><u>Rui-Yang Ju</u>, Chun-Tse Chien, Chia-Min Lin, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/ISPACS62486.2024.10869064">“Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection”</a>, <strong>International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)</strong>, Kaohsiung, Taiwan, 2024.
+  </li>
+  <li>Yanbing Bai, Siao Li, <u>Rui-Yang Ju</u>, Zihao Yang, Jinze Yu, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/ISPACS62486.2024.10869003">“FAD-SAR: A Novel Fishing Activity Detection System via Synthetic Aperture Radar Images Based on Deep Learning Method”</a>, <strong>International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)</strong>, Kaohsiung, Taiwan, 2024.
+  </li>
+</ul>
 </details>
 
 ## 2023
