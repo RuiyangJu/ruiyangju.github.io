@@ -150,6 +150,7 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 <details>
 <summary>View more</summary>
 <ul>
+  <li>IEEE Signal Processing Letters.</li>
   <li>Cognitive Computation.</li>
   <li>Telecommunication Systems.</li>
   <li>International Journal of Computational Intelligence Systems.</li>
