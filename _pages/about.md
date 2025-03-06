@@ -179,7 +179,7 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 </ul>
 </details>
 
-# Honors
+# Honors and Scholarships
 - *2024.11*: NTU Scholarship, TWD9,000
 - *2024.05*: NTU Scholarship, TWD8,000
 - *2023.11*: NTU Scholarship, TWD8,000
