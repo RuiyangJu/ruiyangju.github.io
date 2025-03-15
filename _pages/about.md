@@ -181,6 +181,16 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 
 # Honors and Scholarships
 <span class='anchor' id='honors-and-scholarships'></span>
+## Honors
+<details>
+<summary>View more</summary>
+<ul>
+  <li>Silver Medal (Top 4%), Google Universal Image Embedding Challenge, ECCV 2022 Competition, 2022.10.</li>
+  <li>Excellent Academic Performance Award, Tamkang University, 2022.05.</li>
+  <li>The Innovation and Entrepreneurship Competition Excellent Award, Tamkang University, 2021.05.</li>
+</ul>
+</details>
+
 ## Scholarships
 <details>
 <summary>View more</summary>
