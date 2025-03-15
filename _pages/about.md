@@ -86,20 +86,15 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 <summary>View more</summary>
 <h3>Journal</h3>
 <ul>
-  <li><u>Rui-Yang Ju</u>, Yu-Shian Lin, Yanlin Jin, Chih-Chia Chen, Chun-Tse Chien, Jen-Shiun Chiang, <a href="https://doi.org/10.1016/j.knosys.2024.112542">“Three-stage Binarization of Color Document Images Based on Discrete Wavelet Transform and Generative Adversarial Networks”</a>, <strong>Knowledge-Based Systems</strong>, 2024.
-  </li>
-  <li>Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Jen-Shiun Chiang, <a href="http://dx.doi.org/10.1049/ell2.13248">“YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images”</a>, <strong>Electronics Letters</strong>, 2024.
-  </li>
+  <li><u>Rui-Yang Ju</u>, Yu-Shian Lin, Yanlin Jin, Chih-Chia Chen, Chun-Tse Chien, Jen-Shiun Chiang, <a href="https://doi.org/10.1016/j.knosys.2024.112542">“Three-stage Binarization of Color Document Images Based on Discrete Wavelet Transform and Generative Adversarial Networks”</a>, <strong>Knowledge-Based Systems</strong>, 2024.</li>
+  <li>Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Jen-Shiun Chiang, <a href="http://dx.doi.org/10.1049/ell2.13248">“YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images”</a>, <strong>Electronics Letters</strong>, 2024.</li>
 </ul>
 
 <h3>Conference</h3>
 <ul>
-  <li><u>Rui-Yang Ju</u>, Chun-Tse Chien, Jen-Shiun Chiang, “YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection”, <strong>International Conference on Neural Information Processing (ICONIP)</strong>, Auckland, New Zealand, 2024.
-  </li>
-  <li><u>Rui-Yang Ju</u>, Chun-Tse Chien, Chia-Min Lin, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/ISPACS62486.2024.10869064">“Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection”</a>, <strong>International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)</strong>, Kaohsiung, Taiwan, 2024.
-  </li>
-  <li>Yanbing Bai, Siao Li, <u>Rui-Yang Ju</u>, Zihao Yang, Jinze Yu, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/ISPACS62486.2024.10869003">“FAD-SAR: A Novel Fishing Activity Detection System via Synthetic Aperture Radar Images Based on Deep Learning Method”</a>, <strong>International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)</strong>, Kaohsiung, Taiwan, 2024.
-  </li>
+  <li><u>Rui-Yang Ju</u>, Chun-Tse Chien, Jen-Shiun Chiang, “YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection”, <strong>International Conference on Neural Information Processing (ICONIP)</strong>, Auckland, New Zealand, 2024.</li>
+  <li><u>Rui-Yang Ju</u>, Chun-Tse Chien, Chia-Min Lin, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/ISPACS62486.2024.10869064">“Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection”</a>, <strong>International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)</strong>, Kaohsiung, Taiwan, 2024.</li>
+  <li>Yanbing Bai, Siao Li, <u>Rui-Yang Ju</u>, Zihao Yang, Jinze Yu, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/ISPACS62486.2024.10869003">“FAD-SAR: A Novel Fishing Activity Detection System via Synthetic Aperture Radar Images Based on Deep Learning Method”</a>, <strong>International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)</strong>, Kaohsiung, Taiwan, 2024.</li>
 </ul>
 </details>
 
@@ -108,18 +103,14 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 <summary>View more</summary>
 <h3>Journal</h3>
 <ul>
-  <li><u>Rui-Yang Ju</u>, Weiming Cai, <a href="https://doi.org/10.1038/s41598-023-47460-7">“Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm”</a>, <strong>Scientific Reports</strong>, 2023.
-  </li>
-  <li><u>Rui-Yang Ju</u>* , Chih-Chia Chen* , Jen-Shiun Chiang, Yu-Shian Lin, Wei-Han Chen (*=equal contribution), <a href="https://doi.org/10.1007/s11042-023-16088-0">“Resolution Enhancement Processing on Low Quality Images Using Swin Transformer Based on Interval Dense Connection Strategy”</a>, <strong>Multimedia Tools and Applications (MTA)</strong>, 2023.
-  </li>
-  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang, <a href="https://doi.org/10.1007/s11554-023-01271-1">“Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification”</a>, <strong>Journal of Real-Time Image Processing (JRTIP)</strong>, 2023.
-  </li>
+  <li><u>Rui-Yang Ju</u>, Weiming Cai, <a href="https://doi.org/10.1038/s41598-023-47460-7">“Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm”</a>, <strong>Scientific Reports</strong>, 2023.</li>
+  <li><u>Rui-Yang Ju</u>* , Chih-Chia Chen* , Jen-Shiun Chiang, Yu-Shian Lin, Wei-Han Chen (*=equal contribution), <a href="https://doi.org/10.1007/s11042-023-16088-0">“Resolution Enhancement Processing on Low Quality Images Using Swin Transformer Based on Interval Dense Connection Strategy”</a>, <strong>Multimedia Tools and Applications (MTA)</strong>, 2023.</li>
+  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang, <a href="https://doi.org/10.1007/s11554-023-01271-1">“Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification”</a>, <strong>Journal of Real-Time Image Processing (JRTIP)</strong>, 2023.</li>
 </ul>
 
 <h3>Conference</h3>
 <ul>
-  <li><u>Rui-Yang Ju</u>, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien, <a href="https://doi.org/10.1007/978-981-99-7019-3_19">“CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization”</a>, <strong>Pacific Rim International Conferences on Artificial Intelligence (PRICAI)</strong>, Jakarta, Indonesia, 2023.
-  </li>
+  <li><u>Rui-Yang Ju</u>, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien, <a href="https://doi.org/10.1007/978-981-99-7019-3_19">“CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization”</a>, <strong>Pacific Rim International Conferences on Artificial Intelligence (PRICAI)</strong>, Jakarta, Indonesia, 2023.</li>
 </ul>
 </details>
 
@@ -128,18 +119,14 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 <summary>View more</summary>
 <h3>Journal</h3>
 <ul>
-  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang, Wei-Bin Yang, <a href="https://doi.org/10.1109/ACCESS.2022.3196492">“ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections”</a>, <strong>IEEE Access</strong>, 2022.
-  </li>
+  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang, Wei-Bin Yang, <a href="https://doi.org/10.1109/ACCESS.2022.3196492">“ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections”</a>, <strong>IEEE Access</strong>, 2022.</li>
 </ul>
 
 <h3>Conference</h3>
 <ul>
-  <li><u>Rui-Yang Ju</u>, Jen-Shiun Chiang, Chih-Chia Chen, Yu-Shian Lin, <a href="https://doi.org/10.1109/ISPACS57703.2022.10082842">“Connection Reduction of DenseNet for Image Recognition”</a>, <strong>International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)</strong>, Penang, Malaysia, 2022.
-  </li>
-  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/IET-ICETA56553.2022.9971625">“TripleNet: A Low-Parameter Network for Low Computing Power Platform”</a>, <strong>IET International Conference on Engineering Technologies and Applications (IET-ICETA)</strong>, Changhua, Taiwan, 2022.
-  </li>
-  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jen-Shiun Chiang, Jia-Hao Jian, Yu-Shian Lin, Liu-Rui-Yi Huang, <a href="https://doi.org/10.1109/ICCE-Taiwan55306.2022.9869242">“Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions”</a>, <strong>IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)</strong>, Taipei, Taiwan, 2022.
-  </li>
+  <li><u>Rui-Yang Ju</u>, Jen-Shiun Chiang, Chih-Chia Chen, Yu-Shian Lin, <a href="https://doi.org/10.1109/ISPACS57703.2022.10082842">“Connection Reduction of DenseNet for Image Recognition”</a>, <strong>International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)</strong>, Penang, Malaysia, 2022.</li>
+  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/IET-ICETA56553.2022.9971625">“TripleNet: A Low-Parameter Network for Low Computing Power Platform”</a>, <strong>IET International Conference on Engineering Technologies and Applications (IET-ICETA)</strong>, Changhua, Taiwan, 2022.</li>
+  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jen-Shiun Chiang, Jia-Hao Jian, Yu-Shian Lin, Liu-Rui-Yi Huang, <a href="https://doi.org/10.1109/ICCE-Taiwan55306.2022.9869242">“Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions”</a>, <strong>IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)</strong>, Taipei, Taiwan, 2022.</li>
 </ul>
 </details>
 
