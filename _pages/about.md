@@ -77,6 +77,7 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
   <li>Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang, <a href="https://ieeexplore.ieee.org/document/10918980">“YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection”</a>, <strong>IEEE Access</strong>, 2025.</li>
 </ul>
 <h3>Conference</h3>
+<ul>
   <li>Yanlin Jin, <u>Rui-Yang Ju</u>, Haojun Liu, Yuzhong Zhong, “ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation”, <strong>IEEE International Conference on Robotics and Automation (ICRA)</strong>, Atlanta, USA, 2025.</li>
 </ul>
 </details>
@@ -135,8 +136,7 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 <summary>View more</summary>
 <h3>Conference</h3>
 <ul>
-  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/TAAI54685.2021.00028">“New Pruning Method Based on DenseNet Network for Image Classification”</a>, <strong>International Conference on Technologies and Applications of Artificial Intelligence (TAAI)</strong>, Taichung, Taiwan, 2021.
-  </li>
+  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/TAAI54685.2021.00028">“New Pruning Method Based on DenseNet Network for Image Classification”</a>, <strong>International Conference on Technologies and Applications of Artificial Intelligence (TAAI)</strong>, Taichung, Taiwan, 2021.</li>
 </ul>
 </details>
 
