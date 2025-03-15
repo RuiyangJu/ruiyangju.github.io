@@ -181,12 +181,11 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 
 # Honors and Scholarships
 <span class='anchor' id='honors-and-scholarships'></span>
-- *2024.11*: NTU Scholarship, TWD9,000
-- *2024.05*: NTU Scholarship, TWD8,000
-- *2023.11*: NTU Scholarship, TWD8,000
-- *2022.12*: TKU Scholarship (Top 1%), TWD10,000
-- *2022.05*: TKU Academic Award (Top 5% in College of Engineering)
-- *2021.05*: TKU Scholarship (Top 1%), TWD10,000
+- National Taiwan University Scholarship, 2023 – 2025, Total: NT$25,000
+- National Taiwan University (imLab) Scholarship, 2024, Total: NT$36,000
+- Sino International Business Innovation Association (SIBIA) Scholarship, 2021, 2022, 2024, Total: US$900
+- Tamkang University Research Scholarship, 2021 – 2022, Total: NT$48,000
+- Tamkang University Scholarship (Top 1%), 2021, 2022, Total: NT$20,000.
 
 # Educations
 - *2023.09 - 2025.06*, Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei City
