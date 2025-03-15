@@ -70,10 +70,16 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 
 # Publications
 ## 2025
-### Journal
-- Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang, <a href="https://ieeexplore.ieee.org/document/10918980">“YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection”</a>, **IEEE Access**, 2025.
-### Conference
-- Yanlin Jin, <u>Rui-Yang Ju</u>, Haojun Liu, Yuzhong Zhong, “ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation”, **IEEE International Conference on Robotics and Automation (ICRA)**, Atlanta, USA, 2025.
+<details>
+<summary>View more</summary>
+<h3>Journal</h3>
+<ul>
+  <li>Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang, <a href="https://ieeexplore.ieee.org/document/10918980">“YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection”</a>, <strong>IEEE Access</strong>, 2025.</li>
+</ul>
+<h3>Conference</h3>
+  <li>Yanlin Jin, <u>Rui-Yang Ju</u>, Haojun Liu, Yuzhong Zhong, “ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation”, <strong>IEEE International Conference on Robotics and Automation (ICRA)</strong>, Atlanta, USA, 2025.</li>
+</ul>
+</details>
 
 ## 2024
 <details>
