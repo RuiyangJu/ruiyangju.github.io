@@ -29,7 +29,7 @@ Further details about my background can be found in my resume (available in both
 <a href='https://ruiyangju.github.io/images/CV_English.pdf'><img src='https://img.shields.io/badge/Resume-English-white?color=green'></a> and <a href='https://ruiyangju.github.io/images/CV_Chinese.pdf'><img src='https://img.shields.io/badge/Resume-Chinese-white?color=blue'></a>).
 
 # News
-- *2025.01*: One paper is accepted by <strong>ICRA 2025</strong> ([Webpage](https://www.neiljin.site/projects/orbsfm/)).
+- *2025.01*: One paper is accepted by <strong>ICRA 2025</strong> ([Project](https://www.neiljin.site/projects/orbsfm/)).
 - *2025.01*: Our split GRAZPEDWRI-DX dataset is now [avaliable](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/).
 - *2024.09*: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2).
 
@@ -64,7 +64,7 @@ Hospital emergency departments frequently receive lots of bone fracture cases, w
   
 Deep visual odometry, despite extensive research, still faces limitations in accuracy and generalizability that prevent its broader application. To address these challenges, we propose an Oriented FAST and Rotated BRIEF (ORB)-guided visual odometry with selective online adaptation named ORB-SfMLearner. We present a novel use of ORB features for learning-based ego-motion estimation, leading to more robust and accurate results. 
   
-- [Webpage](https://www.neiljin.site/projects/orbsfm/)
+- [Project](https://www.neiljin.site/projects/orbsfm/)
 </div>
 </div>
 
