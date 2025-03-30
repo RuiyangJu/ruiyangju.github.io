@@ -31,7 +31,7 @@ Further details about my background can be found in my resume (available in both
 # News
 - *2025.01*: One paper is accepted by <strong>ICRA 2025</strong> ([Project](https://www.neiljin.site/projects/orbsfm/)).
 - *2025.01*: Our split GRAZPEDWRI-DX dataset is now available ([Project](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/)).
-- *2024.09*: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2).
+- *2024.09*: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2) ([GitHub](https://github.com/abcpp12383/ThreeStageBinarization)).
 
 # Research
 ## Document Binarization
