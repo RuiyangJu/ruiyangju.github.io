@@ -188,7 +188,7 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 <details>
 <summary>View more</summary>
 <ul>
-  <li>National Taiwan University Scholarship, 2023 – 2025, Total: NT$25,000</li>
+  <li>National Taiwan University Scholarship, 2023 – 2025, Total: NT$32,000</li>
   <li>National Taiwan University (imLab) Scholarship, 2024, Total: NT$36,000</li>
   <li>Sino International Business Innovation Association (SIBIA) Scholarship, 2021, 2022, 2024, Total: US$900</li>
   <li>Tamkang University Research Scholarship, 2021 – 2022, Total: NT$48,000</li>
