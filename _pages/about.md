@@ -162,10 +162,11 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 </ul>
 </details>
 
-## Conference Committee
+## Conference Committee and Reviewer
 <details>
 <summary>View more</summary>
 <ul>
+  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Wellington, New Zealand, 2025, Program Committee.</li>
   <li>International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025, Reviewer.</li>
   <li>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, Reviewer.</li>
   <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Kyoto, Japan, 2024, Program Committee.</li>
