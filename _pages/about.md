@@ -145,19 +145,20 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 <details>
 <summary>View more</summary>
 <ul>
+  <li>Pattern Recognition.</li>
+  <li>Knowledge-based Systems.</li>
   <li>IEEE Signal Processing Letters.</li>
-  <li>Cognitive Computation.</li>
-  <li>Telecommunication Systems.</li>
-  <li>International Journal of Computational Intelligence Systems.</li>
-  <li>Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization.</li>
-  <li>International Journal of Multimedia Information Retrieval.</li>
   <li>Scientific Reports.</li>
+  <li>Cognitive Computation.</li>
+  <li>International Journal of Multimedia Information Retrieval.</li>
+  <li>International Journal of Machine Learning and Cybernetics.</li>
   <li>Plos One.</li>
-  <li>Signal, Image and Video Processing.</li>
+  <li>International Journal of Computational Intelligence Systems.</li>
   <li>The Journal of Supercomputing.</li>
   <li>Frontiers in Computer Science.</li>
-  <li>International Journal of Machine Learning and Cybernetics.</li>
-  <li>Knowledge-based Systems.</li>
+  <li>Signal, Image and Video Processing.</li>
+  <li>Telecommunication Systems.</li>
+  <li>Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization.</li>
 </ul>
 </details>
 
