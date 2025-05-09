@@ -153,6 +153,7 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
   <li>International Journal of Multimedia Information Retrieval.</li>
   <li>International Journal of Machine Learning and Cybernetics.</li>
   <li>Plos One.</li>
+  <li>Journal of Real-Time Image Processing.</li>
   <li>International Journal of Computational Intelligence Systems.</li>
   <li>The Journal of Supercomputing.</li>
   <li>Frontiers in Computer Science.</li>
