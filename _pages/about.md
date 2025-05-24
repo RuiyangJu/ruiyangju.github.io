@@ -159,6 +159,7 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
   <li>Frontiers in Computer Science.</li>
   <li>Signal, Image and Video Processing.</li>
   <li>Telecommunication Systems.</li>
+  <li>Journal of Engineering.</li>
   <li>Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization.</li>
 </ul>
 </details>
