@@ -34,6 +34,19 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 # Research
 ## Document Binarization
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+With the advancement of 3D head reconstruction technologies, individuals are now able to personalize unique avatars for telepresence and virtual/augmented reality (VR/AR) applications, which serve as an essential foundation for the rise of the metaverse.
+Considering user preferences and privacy concerns, the creation of stylized avatars is an important topic that merits further investigation. 
+Toonify is a StyleGAN‑based method for stylizing 2D facial images. 
+In contrast to photo-realistic 3D head avatars, stylized 3D avatars emphasize the expression of personal identity and the faithful transfer of target styles.
+To extend Toonify for synthesizing diverse stylized 3D head avatars using Gaussian blendshapes, we propose an efficient two-stage framework.
+
+</div>
+</div>
+
+## Document Binarization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
