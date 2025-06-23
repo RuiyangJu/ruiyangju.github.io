@@ -48,19 +48,23 @@ Further details about my background are available in <a href='https://ruiyangju.
 </div>
 
 ## Document Binarization
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports 2023</div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems 2024</div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
+[Three-stage Binarization of Color Document Images Based on Discrete Wavelet Transform and Generative Adversarial Networks](https://doi.org/10.1016/j.knosys.2024.112542) \\
+**Rui-Yang Ju**, Yu-Shian Lin, Yanlin Jin, Chih-Chia Chen, Chun-Tse Chien, Jen-Shiun Chiang
+- <details>
+  <summary>Abstract</summary>
 The efficient extraction of text information from the background in degraded color document images is an important challenge. The imperfect preservation of some manuscripts has led to different types of degradation over time, such as page yellowing, staining, and ink bleeding, seriously affecting the results of document image binarization. 
 We propose a three-stage network method based on generative adversarial networks (GANs) to perform document image enhancement and binarization.
-
+  </details>
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-h-dibco-2018)](https://paperswithcode.com/sota/binarization-on-h-dibco-2018?p=three-stage-binarization-of-color-document)
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-h-dibco-2014)](https://paperswithcode.com/sota/binarization-on-h-dibco-2014?p=three-stage-binarization-of-color-document)
 </div>
 </div>
 
 ## Fracture Detection
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='https://ruiyangju.github.io/images/Figure/fracture-detection.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports 2023</div><img src='https://ruiyangju.github.io/images/Figure/fracture-detection.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Hospital emergency departments frequently receive lots of bone fracture cases, with pediatric wrist trauma fracture accounting for the majority of them. Before pediatric surgeons perform surgery, they need to ask patients how the fracture occurred and analyze the fracture situation by interpreting X-ray images. The interpretation of X-ray images often requires a combination of techniques from radiologists and surgeons, which requires time-consuming specialized training. With the rise of deep learning in the field of computer vision, network models applying for fracture detection has become an important research topic. 
@@ -100,7 +104,6 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 <summary>View more</summary>
 <h3>Journal</h3>
 <ul>
-  <li><u>Rui-Yang Ju</u>, Yu-Shian Lin, Yanlin Jin, Chih-Chia Chen, Chun-Tse Chien, Jen-Shiun Chiang, <a href="https://doi.org/10.1016/j.knosys.2024.112542">“Three-stage Binarization of Color Document Images Based on Discrete Wavelet Transform and Generative Adversarial Networks”</a>, <strong>Knowledge-Based Systems</strong>, 2024.</li>
   <li>Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Jen-Shiun Chiang, <a href="http://dx.doi.org/10.1049/ell2.13248">“YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images”</a>, <strong>Electronics Letters</strong>, 2024.</li>
 </ul>
 
@@ -125,31 +128,6 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 <h3>Conference</h3>
 <ul>
   <li><u>Rui-Yang Ju</u>, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien, <a href="https://doi.org/10.1007/978-981-99-7019-3_19">“CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization”</a>, <strong>Pacific Rim International Conferences on Artificial Intelligence (PRICAI)</strong>, Jakarta, Indonesia, 2023.</li>
-</ul>
-</details>
-
-## 2022
-<details>
-<summary>View more</summary>
-<h3>Journal</h3>
-<ul>
-  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang, Wei-Bin Yang, <a href="https://doi.org/10.1109/ACCESS.2022.3196492">“ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections”</a>, <strong>IEEE Access</strong>, 2022.</li>
-</ul>
-
-<h3>Conference</h3>
-<ul>
-  <li><u>Rui-Yang Ju</u>, Jen-Shiun Chiang, Chih-Chia Chen, Yu-Shian Lin, <a href="https://doi.org/10.1109/ISPACS57703.2022.10082842">“Connection Reduction of DenseNet for Image Recognition”</a>, <strong>International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)</strong>, Penang, Malaysia, 2022.</li>
-  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/IET-ICETA56553.2022.9971625">“TripleNet: A Low-Parameter Network for Low Computing Power Platform”</a>, <strong>IET International Conference on Engineering Technologies and Applications (IET-ICETA)</strong>, Changhua, Taiwan, 2022.</li>
-  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jen-Shiun Chiang, Jia-Hao Jian, Yu-Shian Lin, Liu-Rui-Yi Huang, <a href="https://doi.org/10.1109/ICCE-Taiwan55306.2022.9869242">“Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions”</a>, <strong>IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)</strong>, Taipei, Taiwan, 2022.</li>
-</ul>
-</details>
-
-## 2021
-<details>
-<summary>View more</summary>
-<h3>Conference</h3>
-<ul>
-  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/TAAI54685.2021.00028">“New Pruning Method Based on DenseNet Network for Image Classification”</a>, <strong>International Conference on Technologies and Applications of Artificial Intelligence (TAAI)</strong>, Taichung, Taiwan, 2021.</li>
 </ul>
 </details>
 
