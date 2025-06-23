@@ -100,6 +100,20 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 </div>
 </div>
 
+## Super Resolution 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Tools and Applications 2023</div><img src='https://ruiyangju.github.io/images/Figure/SwinOIR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Resolution enhancement processing on low quality images using swin transformer based on interval dense connection strategy](https://doi.org/10.1007/s11042-023-16088-0) \\
+**Rui-Yang Ju**, Chih-Chia Chen, Jen-Shiun Chiang, Yu-Shian Lin, Wei-Han Chen, Chun-Tse Chien
+<details>
+<summary>Abstract</summary>
+The Transformer-based method has demonstrated remarkable performance for image super-resolution in comparison to the method based on the convolutional neural networks (CNNs). However, using the self-attention mechanism like SwinIR (Image Restoration Using Swin Transformer) to extract feature information from images needs a significant amount of computational resources, which limits its application on low computing power platforms. To improve the model feature reuse, this research work proposes the Interval Dense Connection Strategy, which connects different blocks according to the newly designed algorithm. We apply this strategy to SwinIR and present a new model, which named SwinOIR (Object Image Restoration Using Swin Transformer). For image super-resolution, an ablation study is conducted to demonstrate the positive effect of the Interval Dense Connection Strategy on the model performance. Furthermore, we evaluate our model on various popular benchmark datasets, and compare it with other state-of-the-art (SOTA) lightweight models. For example, SwinOIR obtains a PSNR of 26.62 dB for x4 upscaling image super-resolution on Urban100 dataset, which is 0.15 dB higher than the SOTA model SwinIR. For real-life application, this work applies the lastest version of You Only Look Once (YOLOv8) model and the proposed model to perform object detection and real-life image super-resolution on low-quality images.
+</details>
+- [GitHub](https://github.com/Rubbbbbbbbby/SwinOIR)
+</div>
+</div>
+
 # Professional Services
 ## Journal Reviewer
 <details>
