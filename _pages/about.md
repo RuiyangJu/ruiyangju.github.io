@@ -34,7 +34,6 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 # Research
 ## 3D stylized Head Avatar
-###
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
