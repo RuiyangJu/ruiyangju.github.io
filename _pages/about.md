@@ -36,7 +36,10 @@ Further details about my background are available in <a href='https://ruiyangju.
 ## 3D stylized Head Avatar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
+[ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://arxiv.org/abs/2505.10072) \\
+**Rui-Yang Ju**, Sheng-Yen Huang, Yi-Ping Hung
+
 With the advancement of 3D head reconstruction technologies, individuals are now able to personalize unique avatars for telepresence and virtual/augmented reality (VR/AR) applications, which serve as an essential foundation for the rise of the metaverse.
 Considering user preferences and privacy concerns, the creation of stylized avatars is an important topic that merits further investigation. 
 In contrast to photo-realistic 3D head avatars, stylized 3D avatars emphasize the expression of personal identity and the faithful transfer of target styles.
