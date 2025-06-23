@@ -61,8 +61,8 @@ Further details about my background are available in <a href='https://ruiyangju.
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-h-dibco-2014)](https://paperswithcode.com/sota/binarization-on-h-dibco-2014?p=three-stage-binarization-of-color-document)
 </div>
 </div>
-
 - ``PRICAI 2023`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://doi.org/10.1007/978-981-99-7019-3_19), **Rui-Yang Ju**, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien.
+
 
 ## Fracture Detection
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports 2023</div><img src='https://ruiyangju.github.io/images/Figure/fracture-detection.gif' alt="sym" width="100%"></div></div>
