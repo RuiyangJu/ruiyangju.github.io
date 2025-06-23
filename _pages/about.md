@@ -139,26 +139,16 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 # Honors and Scholarships
 <span class='anchor' id='honors-and-scholarships'></span>
 ## Honors
-<details>
-<summary>View more</summary>
-<ul>
-  <li>Silver Medal (Top 4%), Google Universal Image Embedding Challenge, ECCV 2022 Competition, 2022.10.</li>
-  <li>Excellent Academic Performance Award, Tamkang University, 2022.05.</li>
-  <li>The Innovation and Entrepreneurship Competition Excellent Award, Tamkang University, 2021.05.</li>
-</ul>
-</details>
+- Silver Medal (Top 4%), Google Universal Image Embedding Challenge, ECCV 2022 Competition, 2022.10.
+- Excellent Academic Performance Award, Tamkang University, 2022.05.
+- The Innovation and Entrepreneurship Competition Excellent Award, Tamkang University, 2021.05.
 
 ## Scholarships
-<details>
-<summary>View more</summary>
-<ul>
-  <li>National Taiwan University Scholarship, 2023 – 2025, Total: NT$32,000</li>
-  <li>National Taiwan University (imLab) Scholarship, 2024, Total: NT$36,000</li>
-  <li>Sino International Business Innovation Association (SIBIA) Scholarship, 2021, 2022, 2024, Total: US$900</li>
-  <li>Tamkang University Research Scholarship, 2021 – 2022, Total: NT$48,000</li>
-  <li>Tamkang University Scholarship (Top 1%), 2021, 2022, Total: NT$20,000</li>
-</ul>
-</details>
+- National Taiwan University Scholarship, 2023 – 2025, Total: NT$32,000
+- National Taiwan University (imLab) Scholarship, 2024, Total: NT$36,000
+- Sino International Business Innovation Association (SIBIA) Scholarship, 2021, 2022, 2024, Total: US$900
+- Tamkang University Research Scholarship, 2021 – 2022, Total: NT$48,000
+- Tamkang University Scholarship (Top 1%), 2021, 2022, Total: NT$20,000
 
 # Educations
 - *2023.09 - 2025.06*, Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei City
