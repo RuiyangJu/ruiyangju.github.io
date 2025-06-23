@@ -62,6 +62,8 @@ Further details about my background are available in <a href='https://ruiyangju.
 </div>
 </div>
 
+- ``PRICAI 2023`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://doi.org/10.1007/978-981-99-7019-3_19), **Rui-Yang Ju**, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien.
+
 ## Fracture Detection
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports 2023</div><img src='https://ruiyangju.github.io/images/Figure/fracture-detection.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -123,12 +125,6 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
   <li><u>Rui-Yang Ju</u>* , Chih-Chia Chen* , Jen-Shiun Chiang, Yu-Shian Lin, Wei-Han Chen (*=equal contribution), <a href="https://doi.org/10.1007/s11042-023-16088-0">“Resolution Enhancement Processing on Low Quality Images Using Swin Transformer Based on Interval Dense Connection Strategy”</a>, <strong>Multimedia Tools and Applications (MTA)</strong>, 2023.</li>
   <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang, <a href="https://doi.org/10.1007/s11554-023-01271-1">“Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification”</a>, <strong>Journal of Real-Time Image Processing (JRTIP)</strong>, 2023.</li>
 </ul>
-
-<h3>Conference</h3>
-<ul>
-  <li><u>Rui-Yang Ju</u>, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien, <a href="https://doi.org/10.1007/978-981-99-7019-3_19">“CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization”</a>, <strong>Pacific Rim International Conferences on Artificial Intelligence (PRICAI)</strong>, Jakarta, Indonesia, 2023.</li>
-</ul>
-</details>
 
 # Professional Services
 ## Journal Reviewer
