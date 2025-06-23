@@ -49,7 +49,6 @@ Further details about my background are available in <a href='https://ruiyangju.
 </div>
 
 ## Document Binarization
-###
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems 2024</div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,21 +63,25 @@ Further details about my background are available in <a href='https://ruiyangju.
 </div>
 </div>
 
-###
 - ``PRICAI 2023`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://doi.org/10.1007/978-981-99-7019-3_19), **Rui-Yang Ju**, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien.
-
 
 ## Fracture Detection
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports 2023</div><img src='https://ruiyangju.github.io/images/Figure/fracture-detection.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm](https://doi.org/10.1038/s41598-023-47460-7) \\
+**Rui-Yang Ju**, Weiming Cai
 
-Hospital emergency departments frequently receive lots of bone fracture cases, with pediatric wrist trauma fracture accounting for the majority of them. Before pediatric surgeons perform surgery, they need to ask patients how the fracture occurred and analyze the fracture situation by interpreting X-ray images. The interpretation of X-ray images often requires a combination of techniques from radiologists and surgeons, which requires time-consuming specialized training. With the rise of deep learning in the field of computer vision, network models applying for fracture detection has become an important research topic. 
-
+- <details>
+  <summary>Abstract</summary>
+  Hospital emergency departments frequently receive lots of bone fracture cases, with pediatric wrist trauma fracture accounting for the majority of them. Before pediatric surgeons perform surgery, they need to ask patients how the fracture occurred and analyze the fracture situation by interpreting X-ray images. The interpretation of X-ray images often requires a combination of techniques from radiologists and surgeons, which requires time-consuming specialized training. With the rise of deep learning in the field of computer vision, network models applying for fracture detection has become an important research topic. In this paper, we use data augmentation to improve the model performance of YOLOv8 algorithm (the latest version of You Only Look Once) on a pediatric wrist trauma X-ray dataset (GRAZPEDWRI-DX), which is a public dataset. The experimental results show that our model has reached the state-of-the-art (SOTA) mean average precision (mAP 50). Specifically, mAP 50 of our model is 0.638, which is significantly higher than the 0.634 and 0.636 of the improved YOLOv7 and original YOLOv8 models. To enable surgeons to use our model for fracture detection on pediatric wrist trauma X-ray images, we have designed the application “Fracture Detection Using YOLOv8 App” to assist surgeons in diagnosing fractures, reducing the probability of error analysis, and providing more useful information for surgery.
+  </details>
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fce-yolov8-yolov8-with-feature-context/fracture-detection-on-grazpedwri-dx)](https://paperswithcode.com/sota/fracture-detection-on-grazpedwri-dx?p=fce-yolov8-yolov8-with-feature-context)
 - [Our split dataset](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/)
 - [Our web application](https://fracture-detection-yolo.streamlit.app/)
 </div>
 </div>
+
+
 
 ## ORB-SfMLearner
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='https://ruiyangju.github.io/images/Figure/ORB.gif' alt="sym" width="100%"></div></div>
@@ -115,20 +118,8 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 <h3>Conference</h3>
 <ul>
   <li><u>Rui-Yang Ju</u>, Chun-Tse Chien, Jen-Shiun Chiang, “YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection”, <strong>International Conference on Neural Information Processing (ICONIP)</strong>, Auckland, New Zealand, 2024.</li>
-  <li><u>Rui-Yang Ju</u>, Chun-Tse Chien, Chia-Min Lin, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/ISPACS62486.2024.10869064">“Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection”</a>, <strong>International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)</strong>, Kaohsiung, Taiwan, 2024.</li>
-  <li>Yanbing Bai, Siao Li, <u>Rui-Yang Ju</u>, Zihao Yang, Jinze Yu, Jen-Shiun Chiang, <a href="https://doi.org/10.1109/ISPACS62486.2024.10869003">“FAD-SAR: A Novel Fishing Activity Detection System via Synthetic Aperture Radar Images Based on Deep Learning Method”</a>, <strong>International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)</strong>, Kaohsiung, Taiwan, 2024.</li>
 </ul>
 </details>
-
-## 2023
-<details>
-<summary>View more</summary>
-<h3>Journal</h3>
-<ul>
-  <li><u>Rui-Yang Ju</u>, Weiming Cai, <a href="https://doi.org/10.1038/s41598-023-47460-7">“Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm”</a>, <strong>Scientific Reports</strong>, 2023.</li>
-  <li><u>Rui-Yang Ju</u>* , Chih-Chia Chen* , Jen-Shiun Chiang, Yu-Shian Lin, Wei-Han Chen (*=equal contribution), <a href="https://doi.org/10.1007/s11042-023-16088-0">“Resolution Enhancement Processing on Low Quality Images Using Swin Transformer Based on Interval Dense Connection Strategy”</a>, <strong>Multimedia Tools and Applications (MTA)</strong>, 2023.</li>
-  <li><u>Rui-Yang Ju</u>, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang, <a href="https://doi.org/10.1007/s11554-023-01271-1">“Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification”</a>, <strong>Journal of Real-Time Image Processing (JRTIP)</strong>, 2023.</li>
-</ul>
 
 # Professional Services
 ## Journal Reviewer
