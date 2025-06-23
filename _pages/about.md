@@ -81,45 +81,23 @@ Further details about my background are available in <a href='https://ruiyangju.
 </div>
 </div>
 
+- ``IEEE Access 2025`` [YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection](https://ieeexplore.ieee.org/document/10918980), Chun-Tse Chien, **Rui-Yang Ju**, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang.
+- ``Electronics Letters 2024`` [YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](http://dx.doi.org/10.1049/ell2.13248), Chun-Tse Chien, **Rui-Yang Ju**, Kuang-Yi Chou, Jen-Shiun Chiang.
 - ``ICONIP 2024`` [YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection](https://arxiv.org/abs/2409.18826), **Rui-Yang Ju**, Chun-Tse Chien, Jen-Shiun Chiang.
 
 ## ORB-SfMLearner
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='https://ruiyangju.github.io/images/Figure/ORB.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='https://ruiyangju.github.io/images/Figure/ORB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-Deep visual odometry, despite extensive research, still faces limitations in accuracy and generalizability that prevent its broader application. To address these challenges, we propose an Oriented FAST and Rotated BRIEF (ORB)-guided visual odometry with selective online adaptation named ORB-SfMLearner. We present a novel use of ORB features for learning-based ego-motion estimation, leading to more robust and accurate results. 
-  
+
+[ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://arxiv.org/abs/2409.11692) \\
+Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong
+- <details>
+  <summary>Abstract</summary>
+  Deep visual odometry, despite extensive research, still faces limitations in accuracy and generalizability that prevent its broader application. To address these challenges, we propose an Oriented FAST and Rotated BRIEF (ORB)-guided visual odometry with selective online adaptation named ORB-SfMLearner. We present a novel use of ORB features for learning-based ego-motion estimation, leading to more robust and accurate results. We also introduce the cross-attention mechanism to enhance the explainability of PoseNet and have revealed that driving direction of the vehicle can be explained through the attention weights. To improve generalizability, our selective online adaptation allows the network to rapidly and selectively adjust to the optimal parameters across different domains. Experimental results on KITTI and vKITTI datasets show that our method outperforms previous state-of-the-art deep visual odometry methods in terms of ego-motion accuracy and generalizability.
+  </details>
 - [Project](https://www.neiljin.site/projects/orbsfm/)
 </div>
 </div>
-
-# Publications
-## 2025
-<details>
-<summary>View more</summary>
-<h3>Journal</h3>
-<ul>
-  <li>Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang, <a href="https://ieeexplore.ieee.org/document/10918980">“YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection”</a>, <strong>IEEE Access</strong>, 2025.</li>
-</ul>
-<h3>Conference</h3>
-<ul>
-  <li>Yanlin Jin, <u>Rui-Yang Ju</u>, Haojun Liu, Yuzhong Zhong, “ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation”, <strong>IEEE International Conference on Robotics and Automation (ICRA)</strong>, Atlanta, USA, 2025.</li>
-</ul>
-</details>
-
-## 2024
-<details>
-<summary>View more</summary>
-<h3>Journal</h3>
-<ul>
-  <li>Chun-Tse Chien, <u>Rui-Yang Ju</u>, Kuang-Yi Chou, Jen-Shiun Chiang, <a href="http://dx.doi.org/10.1049/ell2.13248">“YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images”</a>, <strong>Electronics Letters</strong>, 2024.</li>
-</ul>
-
-<h3>Conference</h3>
-<ul>
-  <li><u>Rui-Yang Ju</u>, Chun-Tse Chien, Jen-Shiun Chiang, “YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection”, <strong>International Conference on Neural Information Processing (ICONIP)</strong>, Auckland, New Zealand, 2024.</li>
-</ul>
-</details>
 
 # Professional Services
 ## Journal Reviewer
