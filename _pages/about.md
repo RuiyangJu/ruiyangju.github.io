@@ -41,17 +41,14 @@ Further details about my background are available in <a href='https://ruiyangju.
 **Rui-Yang Ju**, Sheng-Yen Huang, Yi-Ping Hung
 - <details>
 <summary>Abstract</summary>
-With the advancement of 3D head reconstruction technologies, individuals are now able to personalize unique avatars for telepresence and virtual/augmented reality (VR/AR) applications, which serve as an essential foundation for the rise of the metaverse.
-Considering user preferences and privacy concerns, the creation of stylized avatars is an important topic that merits further investigation. 
-In contrast to photo-realistic 3D head avatars, stylized 3D avatars emphasize the expression of personal identity and the faithful transfer of target styles.
-To extend Toonify for synthesizing diverse stylized 3D head avatars using Gaussian blendshapes, we propose an efficient two-stage framework.
+The introduction of 3D Gaussian blendshapes has enabled the real-time reconstruction of animatable head avatars from monocular video. Toonify, a StyleGAN-based framework, has become widely used for facial image stylization. To extend Toonify for synthesizing diverse stylized 3D head avatars using Gaussian blendshapes, we propose an efficient two-stage framework, ToonifyGB. In Stage 1 (stylized video generation), we employ an improved StyleGAN to generate the stylized video from the input video frames, which addresses the limitation of cropping aligned faces at a fixed resolution as preprocessing for normal StyleGAN. This process provides a more stable video, which enables Gaussian blendshapes to better capture the high-frequency details of the video frames, and efficiently generate high-quality animation in the next stage. In Stage 2 (Gaussian blendshapes synthesis), we learn a stylized neutral head model and a set of expression blendshapes from the generated video. By combining the neutral head model with expression blendshapes, ToonifyGB can efficiently render stylized avatars with arbitrary expressions. We validate the effectiveness of ToonifyGB on the benchmark dataset using two styles: Arcane and Pixar.
 </details>
 
 </div>
 </div>
 
 ## Document Binarization
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports 2023</div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 The efficient extraction of text information from the background in degraded color document images is an important challenge. The imperfect preservation of some manuscripts has led to different types of degradation over time, such as page yellowing, staining, and ink bleeding, seriously affecting the results of document image binarization. 
