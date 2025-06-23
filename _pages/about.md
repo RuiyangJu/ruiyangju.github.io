@@ -39,11 +39,13 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 [ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://arxiv.org/abs/2505.10072) \\
 **Rui-Yang Ju**, Sheng-Yen Huang, Yi-Ping Hung
-
+- <details>
+<summary>Abstract</summary>
 With the advancement of 3D head reconstruction technologies, individuals are now able to personalize unique avatars for telepresence and virtual/augmented reality (VR/AR) applications, which serve as an essential foundation for the rise of the metaverse.
 Considering user preferences and privacy concerns, the creation of stylized avatars is an important topic that merits further investigation. 
 In contrast to photo-realistic 3D head avatars, stylized 3D avatars emphasize the expression of personal identity and the faithful transfer of target styles.
 To extend Toonify for synthesizing diverse stylized 3D head avatars using Gaussian blendshapes, we propose an efficient two-stage framework.
+</details>
 
 </div>
 </div>
