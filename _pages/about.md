@@ -81,7 +81,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 </div>
 </div>
 
-
+- ``ICONIP 2024`` YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection, **Rui-Yang Ju**, Chun-Tse Chien, Jen-Shiun Chiang.
 
 ## ORB-SfMLearner
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='https://ruiyangju.github.io/images/Figure/ORB.gif' alt="sym" width="100%"></div></div>
