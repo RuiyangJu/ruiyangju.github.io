@@ -121,6 +121,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 <ul>
   <li>Pattern Recognition.</li>
   <li>Knowledge-based Systems.</li>
+  <li>Neurocomputing.</li>
   <li>IEEE Signal Processing Letters.</li>
   <li>Scientific Reports.</li>
   <li>Cognitive Computation.</li>
