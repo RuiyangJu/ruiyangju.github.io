@@ -123,6 +123,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
   <li>Knowledge-based Systems.</li>
   <li>Neurocomputing.</li>
   <li>IEEE Signal Processing Letters.</li>
+  <li>Engineering Applications of Artificial Intelligence.</li>
   <li>Scientific Reports.</li>
   <li>Cognitive Computation.</li>
   <li>International Journal of Multimedia Information Retrieval.</li>
