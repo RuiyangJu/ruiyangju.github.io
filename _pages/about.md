@@ -28,7 +28,7 @@ My primary research areas include Deep Learning (DL), Neural Networks (NN), Comp
 Further details about my background are available in <a href='https://ruiyangju.github.io/images/CV_English.pdf'><img src='https://img.shields.io/badge/Resume-English-white?color=green'></a> (updated in July 2025).
 
 # News
-- *2025.06*: I receive an offer for a PhD at Kyoto University.
+- *2025.06*: I receive an offer for a PhD student at Kyoto University, Japan.
 - *2025.01*: One paper is accepted by <strong>ICRA 2025</strong> ([Project](https://www.neiljin.site/projects/orbsfm/)).
 - *2025.01*: Our split GRAZPEDWRI-DX dataset is now available ([Project](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/)).
 - *2024.09*: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2) ([GitHub](https://github.com/abcpp12383/ThreeStageBinarization)).
