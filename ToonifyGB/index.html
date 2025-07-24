@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="GRAZPEDWRI-DX Dataset (Split By Ju)">
+  <meta name="keywords" content="GRAZPEDWRI-DX, Dataset, Ju">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GRAZPEDWRI-DX Dataset (Split By Ju)</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <!-- <link rel="icon" href="./static/images/favicon.svg"> -->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+</nav>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title" style="font-weight: 600;">GRAZPEDWRI-DX Dataset (Split By Ju)</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://ruiyangju.github.io/">Rui-Yang Ju</a>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">National Taiwan University</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="pdf\SR.pdf"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2304.05071"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+              <span class="link-block">
+                <a href="https://1drv.ms/u/s!Ap6uuRvdVcJWbXtfIFYUvzOMKXQ"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-download"></i>
+                  </span>
+                  <span>Dataset</span>
+                  </a>
+              </span>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Original Dataset. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <div class="content has-text-centered">
+          <img src="./images/intro.png" class="center">
+          <h5 class="subtitle has-text-centered" style="margin-top: 15px">
+            The left side is the original X-ray image and the right side is the image from the expert's manual labelling.
+          </h5>
+        </div>
+        <h2 class="title is-3">Original Dataset</h2>
+        <div class="content has-text-justified">
+          <p>
+            GRAZPEDWRI-DX [Nagy et al. 2022] is a public dataset of 20,327 pediatric wrist 
+            trauma X-ray images released by the University of Medicine of Graz. 
+            These X-ray images were collected by multiple pediatric radiologists 
+            at the Department for Pediatric Surgery of the University Hospital Graz 
+            between 2008 and 2018, involving 6,091 patients and a total of 10,643 
+            studies. This dataset is annotated with 74,459 image labels, featuring 
+            a total of 67,771 labeled objects. You can find the original GRAZPEDWRI-DX dataset 
+            <a href="https://figshare.com/articles/dataset/GRAZPEDWRI-DX/14825193" target="_blank"><strong>here</strong></a> (unsplit).
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--/ Original Dataset. -->
+
+    <!-- Splitting Strategy. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Splitting Strategy</h2>
+        <div class="content has-text-justified">
+          <p>
+            In our study [Ju et al. 2023], we first divided the GRAZPEDWRI-DX dataset randomly into three sets: training set, 
+            validation set, and test set. The sizes of these sets are approximately 70%, 
+            20%, and 10% of the original dataset, respectively. Specifically, our training 
+            set consists of 14,204 images (69.88%), our validation set consists of 4,094 
+            images (20.14%), and our test set consists of 2,029 images (9.98%). 
+            In the later studies [Ju et al. 2024][Chien et al. 2024a][Chien et al. 2024b], 
+            we all followed to use this dataset.
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--/ Splitting Strategy. -->
+
+    <!-- Application. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Application</h2>
+        <div class="content has-text-justified">
+          <p>
+            You can access our web application <a href="https://fracture-detection-yolo.streamlit.app/" target="_blank"><strong>here</strong></a>.
+            This website is hosted by Streamlit. In addition, we have also designed the Graphical User Interface, 
+            more information about this you can find <a href="https://github.com/RuiyangJu/Fracture-Detection-App" target="_blank"><strong>here</strong></a>.
+          </p>
+          <img src="./images/application.png" class="center">
+        </div>
+      </div>
+    </div>
+    <!--/ Application. -->
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full-width">
+        <h2 class="title is-3">Reference</h2>
+        <!-- Prop. -->
+        <div class="content has-text-justified">
+          <p>
+            [Nagy et al. 2022] Eszter Nagy, Michael Janisch, Franko Hržić, Erich Sorantin, Sebastian Tschauner. 2022.
+            A pediatric wrist trauma X-ray dataset (GRAZPEDWRI-DX) for machine learning. Scientific Data.
+          </p>
+          <p>
+            [Ju et al. 2023] Rui-Yang Ju, Weiming Cai. 2023.
+            Fracture detection in pediatric wrist trauma X-ray images using YOLOv8 algorithm. Scientific Reports.
+          </p>
+            [Ju et al. 2024] Rui-Yang Ju, Chun-Tse Chien, Enkaer Xieerke, Jen-Shiun Chiang. 2024.
+            Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images. arXiv preprint.
+          </p>
+          <p>
+            [Chien et al. 2024a] Chun-Tse Chien, Rui-Yang Ju, Kuang-Yi Chou, Jen-Shiun Chiang. 2024.
+            YOLOv9 for fracture detection in pediatric wrist trauma X-ray images. Electronics Letters.
+          </p>
+          <p>
+            [Chien et al. 2024b] Chun-Tse Chien, Rui-Yang Ju, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang. 2024.
+            YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection. arXiv preprint.
+          </p>
+        </div>
+      </div>
+    </div>
+
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <strong>If you use our split dataset, please cite some of the papers below:</strong>
+    
+    <pre><code>
+  @article{ju2023fracture,
+    title={Fracture detection in pediatric wrist trauma X-ray images using YOLOv8 algorithm},
+    author={Ju, Rui-Yang and Cai, Weiming},
+    journal={Scientific Reports},
+    volume={13},
+    number={1},
+    pages={20077},
+    year={2023}
+  }
+    
+  @article{chien2024yolov9,
+    title={YOLOv9 for fracture detection in pediatric wrist trauma X-ray images},
+    author={Chien, Chun-Tse and Ju, Rui-Yang and Chou, Kuang-Yi and Chiang, Jen-Shiun},
+    journal={Electronics Letters},
+    volume={60},
+    number={11},
+    pages={e13248},
+    year={2024}
+  }
+
+  @article{chien2025yolov8,
+    title={YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection},
+    author={Chien, Chun-Tse and Ju, Rui-Yang and Chou, Kuang-Yi and Xieerke, Enkaer and Chiang, Jen-Shiun},
+    journal={IEEE Access},
+    volume={13},
+    pages={52461-52477},
+    year={2025},
+    publisher={IEEE}
+  }
+
+  @article{ju2024pediatric,
+    title={Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images},
+    author={Ju, Rui-Yang and Chien, Chun-Tse and Xieerke, Enkaer and Chiang, Jen-Shiun},
+    journal={arXiv preprint arXiv:2410.01031},
+    year={2024}
+  }
+    </code></pre>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+            This webpage template is from <a href="https://github.com/nerfies/nerfies.github.io">Nerfies</a>. 
+          </p>
+          <p>
+            If you have any questions, you can contact me via my <a href="https://ruiyangju.github.io/">homepage</a>.
+          </p>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
