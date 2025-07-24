@@ -21,7 +21,7 @@ I am currently pursuing a Ph.D. at the [Graduate School of Informatics](https://
 
 I graduated from the [Graduate Institute of Networking and Multimedia](https://www.inm.ntu.edu.tw/), [National Taiwan University](https://www.ntu.edu.tw/), Taipei, Taiwan, with a Master of Science (M.S.) degree. I was a member of [NTU imLab](https://ntuimlab.tw/), and my master’s thesis focused on 3D Gaussian Splatting (3DGS).
 
-I received my Bachelor of Science (B.S.) degree in [Electrical and Computer Engineering](http://www.ee.tku.edu.tw/) from [Tamkang University](https://www.tku.edu.tw/), New Taipei City, Taiwan, in 2023, where I ranked first in my department. From 2020 to 2023, I conducted research in the Advanced Mixed-Operation System Laboratory (AMOS Lab.) at Tamkang University, focusing on Image Processing and Computer Vision.
+I received my Bachelor of Science (B.S.) degree in [Electrical and Computer Engineering](http://www.ee.tku.edu.tw/) from [Tamkang University](https://www.tku.edu.tw/), New Taipei City, Taiwan, where I ranked first in my department. I conducted research in the Advanced Mixed-Operation System Laboratory (AMOS Lab.) at Tamkang University, focusing on Image Processing and Computer Vision.
 
 My primary research areas include Deep Learning (DL), Neural Networks (NN), Computer Vision (CV), and Natural Language Processing (NLP). I have published 20+ papers <a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international journals or conferences.
 
