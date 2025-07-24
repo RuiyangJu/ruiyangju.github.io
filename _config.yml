@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rui-Yang Ju (鞠睿阳)"
-description              : "Focusing on Deep Learning, Computer Vision and Image Processing."
+description              : "Focusing on Computer Vision and Natural language processing"
 repository               : "ruiyangju/ruiyangju.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Rui-Yang Ju (鞠睿阳)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Master Student in National Taiwan University"
-  location         : "Taipei, Taiwan"
+  bio              : "PhD Student in Kyoto University"
+  location         : "Kyoto, Japan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=r8F35p8AAAAJ"
