@@ -40,7 +40,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 <div class='paper-box-text' markdown="1">
 
 [ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://arxiv.org/abs/2505.10072) \\
-**Rui-Yang Ju**, Sheng-Yen Huang, Yi-Ping Hung
+**Rui-Yang Ju**, Sheng-Yen Huang, Yi-Ping Hung \\
 [Project](https://ruiyangju.github.io/ToonifyGB)｜[GitHub](https://github.com/RuiyangJu/ToonifyGB)
 <details>
 <summary>Abstract</summary>
@@ -55,7 +55,7 @@ The introduction of 3D Gaussian blendshapes has enabled the real-time reconstruc
 <div class='paper-box-text' markdown="1">
 
 [Three-stage Binarization of Color Document Images Based on Discrete Wavelet Transform and Generative Adversarial Networks](https://doi.org/10.1016/j.knosys.2024.112542) \\
-**Rui-Yang Ju**, Yu-Shian Lin, Yanlin Jin, Chih-Chia Chen, Chun-Tse Chien, Jen-Shiun Chiang
+**Rui-Yang Ju**, Yu-Shian Lin, Yanlin Jin, Chih-Chia Chen, Chun-Tse Chien, Jen-Shiun Chiang \\
 [GitHub](https://github.com/abcpp12383/ThreeStageBinarization)
 <details>
 <summary>Abstract</summary>
@@ -72,7 +72,7 @@ The efficient extraction of text information from the background in degraded col
 <div class='paper-box-text' markdown="1">
 
 [Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm](https://doi.org/10.1038/s41598-023-47460-7) \\
-**Rui-Yang Ju**, Weiming Cai
+**Rui-Yang Ju**, Weiming Cai \\
 [Project](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/)|[Application](https://fracture-detection-yolo.streamlit.app/)
 <details>
 <summary>Abstract</summary>
@@ -91,7 +91,7 @@ Hospital emergency departments frequently receive lots of bone fracture cases, w
 <div class='paper-box-text' markdown="1">
 
 [ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://arxiv.org/abs/2409.11692) \\
-Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong
+Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong \\
 [Project](https://www.neiljin.site/projects/orbsfm/)
 <details>
 <summary>Abstract</summary>
@@ -106,7 +106,7 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 <div class='paper-box-text' markdown="1">
 
 [Resolution enhancement processing on low quality images using swin transformer based on interval dense connection strategy](https://doi.org/10.1007/s11042-023-16088-0) \\
-**Rui-Yang Ju**, Chih-Chia Chen, Jen-Shiun Chiang, Yu-Shian Lin, Wei-Han Chen, Chun-Tse Chien
+**Rui-Yang Ju**, Chih-Chia Chen, Jen-Shiun Chiang, Yu-Shian Lin, Wei-Han Chen, Chun-Tse Chien \\
 [GitHub](https://github.com/Rubbbbbbbbby/SwinOIR)
 <details>
 <summary>Abstract</summary>
