@@ -172,5 +172,6 @@ The Transformer-based method has demonstrated remarkable performance for image s
 - Tamkang University Scholarship (Top 1%), 2021, 2022, Total: NT$20,000
 
 # Educations
-- *2023.09 - 2025.06*, Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei City
-- *2019.09 - 2023.06*, Electrical and Computer Engineering, Tamkang University, New Taipei City
+- *2025.10 - 2028.09*, Graduate School of Informatics, Kyoto University, Kyoto, Japan
+- *2023.09 - 2025.06*, Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei, Taiwan
+- *2019.09 - 2023.06*, Electrical and Computer Engineering, Tamkang University, New Taipei, Taiwan
