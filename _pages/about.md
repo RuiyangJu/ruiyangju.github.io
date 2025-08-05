@@ -42,7 +42,6 @@ Further details about my background are available in <a href='https://ruiyangju.
 [ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://arxiv.org/abs/2505.10072) \\
 **Rui-Yang Ju**, Sheng-Yen Huang, Yi-Ping Hung
 [Project](https://ruiyangju.github.io/ToonifyGB)｜[GitHub](https://github.com/RuiyangJu/ToonifyGB)
-
 <details>
 <summary>Abstract</summary>
 The introduction of 3D Gaussian blendshapes has enabled the real-time reconstruction of animatable head avatars from monocular video. Toonify, a StyleGAN-based framework, has become widely used for facial image stylization. To extend Toonify for synthesizing diverse stylized 3D head avatars using Gaussian blendshapes, we propose an efficient two-stage framework, ToonifyGB. In Stage 1 (stylized video generation), we employ an improved StyleGAN to generate the stylized video from the input video frames, which addresses the limitation of cropping aligned faces at a fixed resolution as preprocessing for normal StyleGAN. This process provides a more stable video, which enables Gaussian blendshapes to better capture the high-frequency details of the video frames, and efficiently generate high-quality animation in the next stage. In Stage 2 (Gaussian blendshapes synthesis), we learn a stylized neutral head model and a set of expression blendshapes from the generated video. By combining the neutral head model with expression blendshapes, ToonifyGB can efficiently render stylized avatars with arbitrary expressions. We validate the effectiveness of ToonifyGB on the benchmark dataset using two styles: Arcane and Pixar.
@@ -57,13 +56,12 @@ The introduction of 3D Gaussian blendshapes has enabled the real-time reconstruc
 
 [Three-stage Binarization of Color Document Images Based on Discrete Wavelet Transform and Generative Adversarial Networks](https://doi.org/10.1016/j.knosys.2024.112542) \\
 **Rui-Yang Ju**, Yu-Shian Lin, Yanlin Jin, Chih-Chia Chen, Chun-Tse Chien, Jen-Shiun Chiang
+[GitHub](https://github.com/abcpp12383/ThreeStageBinarization)
 <details>
 <summary>Abstract</summary>
 The efficient extraction of text information from the background in degraded color document images is an important challenge in the preservation of ancient manuscripts. The imperfect preservation of ancient manuscripts has led to different types of degradation over time, such as page yellowing, staining, and ink bleeding, seriously affecting the results of document image binarization. This work proposes an effective three-stage network method to image enhancement and binarization of degraded documents using generative adversarial networks (GANs). Specifically, in Stage-1, we first split the input images into multiple patches, and then split these patches into four single-channel patch images (gray, red, green, and blue). Then, three single-channel patch images (red, green, and blue) are processed by the discrete wavelet transform (DWT) with normalization. In Stage-2, we use four independent generators to separately train GAN models based on the four channels on the processed patch images to extract color foreground information. Finally, in Stage-3, we train two independent GAN models on the outputs of Stage-2 and the resized original input images (512 × 512) as the local and global predictions to obtain the final outputs. The experimental results show that the Avg-Score metrics of the proposed method are 77.64, 77.95, 79.05, 76.38, 75.34, and 77.00 on the (H)-DIBCO 2011, 2013, 2014, 2016, 2017, and 2018 datasets, which are at the state-of-the-art level.
 </details>
-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-h-dibco-2018)](https://paperswithcode.com/sota/binarization-on-h-dibco-2018?p=three-stage-binarization-of-color-document)
-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/three-stage-binarization-of-color-document/binarization-on-h-dibco-2014)](https://paperswithcode.com/sota/binarization-on-h-dibco-2014?p=three-stage-binarization-of-color-document)
-- [GitHub](https://github.com/abcpp12383/ThreeStageBinarization)
+
 </div>
 </div>
 
