@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<!--
 I am currently pursuing a Ph.D. at the [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/), [Kyoto University](https://www.kyoto-u.ac.jp/), Japan. I am working at the [LSTA Lab.](https://www.lsta.media.kyoto-u.ac.jp/), where I conduct research on document and text analysis, recognition, and processing. If you are interested in any form of academic collaboration, please feel free to email me.
+-->
 
 I graduated from the [Graduate Institute of Networking and Multimedia](https://www.inm.ntu.edu.tw/), [National Taiwan University](https://www.ntu.edu.tw/), Taipei, Taiwan, with a Master of Science (M.S.) degree. I was a member of [NTU imLab](https://ntuimlab.tw/), and my master’s thesis focused on 3D Gaussian Splatting (3DGS).
 
