@@ -32,11 +32,11 @@ Further details about my background are available in <a href='https://ruiyangju.
 -->
 
 # News
-- *2025.06*: I receive an offer for a PhD student at Kyoto University, Japan.
-- *2025.06*: My master's thesis project, ToonifyGB, is now available ([Project](https://ruiyangju.github.io/ToonifyGB)).
-- *2025.01*: One paper is accepted by <strong>ICRA 2025</strong> ([Project](https://www.neiljin.site/projects/orbsfm/)).
-- *2025.01*: Our split GRAZPEDWRI-DX dataset is now available ([Project](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/)).
-- *2024.09*: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2) ([GitHub](https://github.com/abcpp12383/ThreeStageBinarization)).
+- 2025.06: I receive an offer for a PhD student at Kyoto University, Japan.
+- 2025.06: My master's thesis project, ToonifyGB, is now available ([Project](https://ruiyangju.github.io/ToonifyGB)).
+- 2025.01: One paper is accepted by <strong>ICRA 2025</strong> ([Project](https://www.neiljin.site/projects/orbsfm/)).
+- 2025.01: Our split GRAZPEDWRI-DX dataset is now available ([Project](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/)).
+- 2024.09: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2) ([GitHub](https://github.com/abcpp12383/ThreeStageBinarization)).
 
 # Publication
 ## 3D stylized Head Avatar
@@ -171,7 +171,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 
 # Education
 <!--
-- *2025.10 - 2028.09*, Graduate School of Informatics, Kyoto University, Kyoto, Japan.
+- 2025.10 - 2028.09, Graduate School of Informatics, Kyoto University, Kyoto, Japan.
 -->
-- *2023.09 - 2025.06*, Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei, Taiwan.
-- *2019.09 - 2023.06*, Electrical and Computer Engineering, Tamkang University, New Taipei, Taiwan.
+- 2023.09 - 2025.06, Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei, Taiwan.
+- 2019.09 - 2023.06, Electrical and Computer Engineering, Tamkang University, New Taipei, Taiwan.
