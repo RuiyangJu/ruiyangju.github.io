@@ -162,7 +162,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 </details>
 
 # Scholarship
-<span class='anchor' id='honors-and-scholarships'></span>
+<span class='anchor' id='scholarship'></span>
 - National Taiwan University Scholarship, Total: NT$32,000, 2023 – 2025.
 - National Taiwan University (imLab) Scholarship, Total: NT$36,000, 2024.
 - Sino International Business Innovation Association (SIBIA) Scholarship, Total: US$900, 2021, 2022, 2024.
