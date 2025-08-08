@@ -36,7 +36,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 # Publications
 ## 3D stylized Head Avatar
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://arxiv.org/abs/2505.10072) \\
@@ -165,11 +165,11 @@ The Transformer-based method has demonstrated remarkable performance for image s
 - The Innovation and Entrepreneurship Competition Excellent Award, Tamkang University, 2021.05.
 
 ## Scholarships
-- National Taiwan University Scholarship, 2023 – 2025, Total: NT$32,000
-- National Taiwan University (imLab) Scholarship, 2024, Total: NT$36,000
-- Sino International Business Innovation Association (SIBIA) Scholarship, 2021, 2022, 2024, Total: US$900
-- Tamkang University Research Scholarship, 2021 – 2022, Total: NT$48,000
-- Tamkang University Scholarship (Top 1%), 2021, 2022, Total: NT$20,000
+- National Taiwan University Scholarship, Total: NT$32,000, 2023 – 2025.
+- National Taiwan University (imLab) Scholarship, Total: NT$36,000, 2024.
+- Sino International Business Innovation Association (SIBIA) Scholarship, Total: US$900, 2021, 2022, 2024.
+- Tamkang University Research Scholarship, Total: NT$48,000, 2021 – 2022.
+- Tamkang University Scholarship (Top 1%), Total: NT$20,000, 2021, 2022.
 
 # Educations
 - *2025.10 - 2028.09*, Graduate School of Informatics, Kyoto University, Kyoto, Japan
