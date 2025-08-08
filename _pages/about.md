@@ -38,7 +38,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 - *2025.01*: Our split GRAZPEDWRI-DX dataset is now available ([Project](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/)).
 - *2024.09*: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2) ([GitHub](https://github.com/abcpp12383/ThreeStageBinarization)).
 
-# Publications
+# Publication
 ## 3D stylized Head Avatar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -120,7 +120,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 </div>
 </div>
 
-# Professional Services
+# Professional Service
 ## Journal Reviewer
 <details>
 <summary>View more</summary>
@@ -161,21 +161,15 @@ The Transformer-based method has demonstrated remarkable performance for image s
 </ul>
 </details>
 
-# Honors and Scholarships
+# Scholarship
 <span class='anchor' id='honors-and-scholarships'></span>
-## Honors
-- Silver Medal (Top 4%), Google Universal Image Embedding Challenge, ECCV 2022 Competition, 2022.10.
-- Excellent Academic Performance Award, Tamkang University, 2022.05.
-- The Innovation and Entrepreneurship Competition Excellent Award, Tamkang University, 2021.05.
-
-## Scholarships
 - National Taiwan University Scholarship, Total: NT$32,000, 2023 – 2025.
 - National Taiwan University (imLab) Scholarship, Total: NT$36,000, 2024.
 - Sino International Business Innovation Association (SIBIA) Scholarship, Total: US$900, 2021, 2022, 2024.
 - Tamkang University Research Scholarship, Total: NT$48,000, 2021 – 2022.
 - Tamkang University Scholarship (Top 1%), Total: NT$20,000, 2021, 2022.
 
-# Educations
+# Education
 <!--
 - *2025.10 - 2028.09*, Graduate School of Informatics, Kyoto University, Kyoto, Japan.
 -->
