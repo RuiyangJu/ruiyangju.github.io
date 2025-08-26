@@ -31,12 +31,12 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 # News
 <div style="height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF; padding: 5px; border-radius: 6px; border: 1px solid #ccc;">
-  <ul>
-    <li>2025.06: I receive an offer for a PhD student at Kyoto University, Japan.</li>
-    <li>2025.06: My master's thesis project, ToonifyGB, is now available (<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a>).</li>
-    <li>2025.01: One paper is accepted by <strong>ICRA 2025</strong> (<a href="https://www.neiljin.site/projects/orbsfm/" target="_blank">Project</a>).</li>
-    <li>2025.01: Our split GRAZPEDWRI-DX dataset is now available (<a href="https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/" target="_blank">Project</a>).</li>
-    <li>2024.09: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2) (<a href="https://github.com/abcpp12383/ThreeStageBinarization" target="_blank">GitHub</a>).</li>
+<ul>
+  <li>2025.06: I receive an offer for a PhD student at Kyoto University, Japan.</li>
+  <li>2025.06: My master's thesis project, ToonifyGB, is now available (<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a>).</li>
+  <li>2025.01: One paper is accepted by <strong>ICRA 2025</strong> (<a href="https://www.neiljin.site/projects/orbsfm/" target="_blank">Project</a>).</li>
+  <li>2025.01: Our split GRAZPEDWRI-DX dataset is now available (<a href="https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/" target="_blank">Project</a>).</li>
+  <li>2024.09: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2) (<a href="https://github.com/abcpp12383/ThreeStageBinarization" target="_blank">GitHub</a>).</li>
     <li>2024.08: One paper is accepted by <strong>ICONIP 2024</strong>.</li>
     <li>2024.07: I become the PC member of <strong>PRICAI 2024</strong> and reviewing papers.</li>
     <li>2024.05: One paper is accepted by <strong>Electronics Letters</strong>.</li>
