@@ -46,8 +46,8 @@ Further details about my background are available in <a href='https://ruiyangju.
   <li>2022.11: One paper is accepted by <strong>Journal of Real-Time Image Processing</strong> (IF=3.0) (<a href="https://github.com/RuiyangJu/TripleNet" target="_blank">GitHub</a>).</li>
   <li>2022.10: <strong>ECCV 2022</strong> Competition - Google Universal Image Embedding Challenge <strong>Silver Medal</strong>.</li>
   <li>2022.07: One paper is accepted by <strong>IEEE Access</strong> (IF=3.6) (<a href="https://github.com/RuiyangJu/ThreshNet" target="_blank">GitHub</a>).</li>
-  <li>2021.07: My research project receives a grant from <strong>Tamkang University (TKU)</strong>.</li>
-  <li>2020.12: I join <strong>Advanced Mixed-Operation System Laboratory (AMOS Lab.)</strong> of <strong>Tamkang University (TKU)</strong>.</li>
+  <li>2021.07: My research project receives a grant from Tamkang University (TKU).</li>
+  <li>2020.12: I join Advanced Mixed-Operation System Laboratory (AMOS Lab.) of Tamkang University (TKU).</li>
 </ul>
 </div>
 
