@@ -34,7 +34,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 <ul>
   <li>2025.08: One paper is accepted by <storng>ADMA 2025</storng> (CCF-C).</li>
   <li>2025.06: I receive an offer for a PhD student at Kyoto University, Japan.</li>
-  <li>2025.06: My master's thesis project, ToonifyGB, is now available (<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a>) (<a href="https://github.com/RuiyangJu/ToonifyGB" target="_blank">GitHub</a>).</li>
+  <li>2025.06: My master's thesis project, <strong>ToonifyGB</strong>, is now available (<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a>) (<a href="https://github.com/RuiyangJu/ToonifyGB" target="_blank">GitHub</a>).</li>
   <li>2025.03: One paper is accepted by <strong>IEEE Access</strong> (IF=3.6) (<a href="https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8" target="_blank">GitHub</a>).</li>
   <li>2025.01: One paper is accepted by <strong>ICRA 2025</strong> (CCF-B) (<a href="https://www.neiljin.site/projects/orbsfm" target="_blank">Project</a>).</li>
   <li>2025.01: Our split GRAZPEDWRI-DX dataset is now available (<a href="https://ruiyangju.github.io/GRAZPEDWRI-DX_JU" target="_blank">Project</a>).</li>
