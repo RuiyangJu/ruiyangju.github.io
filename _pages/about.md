@@ -30,11 +30,30 @@ Further details about my background are available in <a href='https://ruiyangju.
 -->
 
 # News
-- 2025.06: I receive an offer for a PhD student at Kyoto University, Japan.
-- 2025.06: My master's thesis project, ToonifyGB, is now available ([Project](https://ruiyangju.github.io/ToonifyGB)).
-- 2025.01: One paper is accepted by <strong>ICRA 2025</strong> ([Project](https://www.neiljin.site/projects/orbsfm/)).
-- 2025.01: Our split GRAZPEDWRI-DX dataset is now available ([Project](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/)).
-- 2024.09: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2) ([GitHub](https://github.com/abcpp12383/ThreeStageBinarization)).
+<div class="news-container">
+  <h2>News</h2>
+  <ul>
+    <li>2025.06: I receive an offer for a PhD student at Kyoto University, Japan.</li>
+    <li>2025.06: My master's thesis project, ToonifyGB, is now available (<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a>).</li>
+    <li>2025.01: One paper is accepted by <strong>ICRA 2025</strong> (<a href="https://www.neiljin.site/projects/orbsfm/" target="_blank">Project</a>).</li>
+    <li>2025.01: Our split GRAZPEDWRI-DX dataset is now available (<a href="https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/" target="_blank">Project</a>).</li>
+    <li>2024.09: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2) (<a href="https://github.com/abcpp12383/ThreeStageBinarization" target="_blank">GitHub</a>).</li>
+  </ul>
+</div>
+
+<style>
+.news-container {
+  max-height: 200px; 
+  overflow-y: auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+.news-container ul {
+  margin: 0;
+  padding-left: 20px;
+}
+</style>
 
 # Publication
 ## 3D stylized Head Avatar
