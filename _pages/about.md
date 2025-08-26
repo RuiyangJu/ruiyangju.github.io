@@ -30,10 +30,9 @@ Further details about my background are available in <a href='https://ruiyangju.
 -->
 
 # News
-<h2 style="color: #1974D2;">News & Updates</h2>
 <hr style="border: 1px solid #1974D2; margin-top: 0;">
 <ul>
-<div style="height:400px;width:fit-content;overflow:auto;background:#FFFFFF;">
+<div style="height:200px;width:fit-content;overflow:auto;background:#FFFFFF;">
 <li> <p>[2024/10] Two papers are accepted by <strong>ISPACS 2024</strong>.</p> </li>
 <li> <p>[2024/09] One paper is accepted by <strong>Knowledge-Based Systems</strong>.</p> </li>
 <li> <p>[2024/08] One paper is accepted by <strong>ICONIP 2024</strong>.</p> </li>
@@ -62,30 +61,6 @@ Further details about my background are available in <a href='https://ruiyangju.
 <li> <p>[2020/12] I join <strong>Advanced Mixed-Operation System Laboratory (AMOS Lab.)</strong> of <strong>Tamkang University (TKU)</strong>. </li>
 </div>
 </ul>	
- 
-<div class="news-container">
-<ul>
-<li>2025.06: I receive an offer for a PhD student at Kyoto University, Japan.</li>
-<li>2025.06: My master's thesis project, ToonifyGB, is now available (<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a>).</li>
-<li>2025.01: One paper is accepted by <strong>ICRA 2025</strong> (<a href="https://www.neiljin.site/projects/orbsfm/" target="_blank">Project</a>).</li>
-<li>2025.01: Our split GRAZPEDWRI-DX dataset is now available (<a href="https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/" target="_blank">Project</a>).</li>
-<li>2024.09: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2) (<a href="https://github.com/abcpp12383/ThreeStageBinarization" target="_blank">GitHub</a>).</li>
-</ul>
-</div>
-
-<style>
-.news-container {
-  max-height: 200px; 
-  overflow-y: auto;
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-}
-.news-container ul {
-  margin: 0;
-  padding-left: 20px;
-}
-</style>
 
 # Publication
 ## 3D stylized Head Avatar
