@@ -30,37 +30,39 @@ Further details about my background are available in <a href='https://ruiyangju.
 -->
 
 # News
-<hr style="border: 1px solid #1974D2; margin-top: 0;">
-<ul>
-<div style="height:200px;width:fit-content;overflow:auto;background:#FFFFFF;">
-<li> <p>[2024/10] Two papers are accepted by <strong>ISPACS 2024</strong>.</p> </li>
-<li> <p>[2024/09] One paper is accepted by <strong>Knowledge-Based Systems</strong>.</p> </li>
-<li> <p>[2024/08] One paper is accepted by <strong>ICONIP 2024</strong>.</p> </li>
-<li> <p>[2024/07] I become the PC member of <strong>PRICAI 2024</strong> and reviewing papers.</p> </li>
-<li> <p>[2024/05] One paper is accepted by <strong>Electronics Letters</strong>.</p> </li>
-<li> <p>[2024/04] I become <strong>IET Member (MIET)</strong>.</p> </li>
-<li> <p>[2023/11] One paper is accepted by <strong>Scientific Reports</strong>.</p> </li>
-<li> <p>[2023/09] I become <strong>IEEE Graduate Student Member</strong>.</p> </li>
-<li> <p>[2023/09] I join <strong>imLab</strong> of <strong>National Taiwan University (NTU)</strong>.</p> </li>		
-<li> <p>[2023/08] One paper is accepted by <strong>PRICAI 2023</strong> (Main Track).</p> </li>
-<li> <p>[2023/08] Our research team’s research project receives a grant from <strong>National Science and Technology Council (NSTC)</strong>.</p> </li>
-<li> <p>[2023/07] I become the PC member of <strong>PRICAI 2023</strong> and reviewing papers on AI-Impact Track.</p> </li>
-<li> <p>[2023/06] One paper is accepted by <strong>Multimedia Tools and Applications</strong>.</p> </li>
-<li> <p>[2022/11] One paper is accepted by <strong>Journal of Real-Time Image Processing</strong>.</p> </li>
-<li> <p>[2022/10] <strong>ECCV 2022</strong> Competition - Google Universal Image Embedding Challenge <strong>Silver Medal</strong>.</p> </li>
-<li> <p>[2022/09] One paper is accepted by <strong>ISPACS 2022</strong>, <strong>Best Paper Award Nomination</strong>.</p> </li>
-<li> <p>[2022/08] One paper is accepted by <strong>IET-ICETA 2022</strong>.</p> </li>
-<li> <p>[2022/07] Our research team’s research project receives a grant from <strong>National Science and Technology Council (NSTC)</strong>.</p> </li>
-<li> <p>[2022/07] One paper is accepted by <strong>IEEE Access</strong>.</p> </li>
-<li> <p>[2022/06] I become <strong>IEEE Student Member</strong> and <strong>IET Student Member</strong>.</p> </li>
-<li> <p>[2022/04] One paper is accepted by <strong>ICCE-TW 2022</strong>.</p> </li>
-<li> <p>[2022/03] I submit my research result report to <strong>Tamkang University (TKU)</strong>.</p> </li>
-<li> <p>[2021/09] One paper is accepted by <strong>TAAI 2021</strong>.</p> </li>
-<li> <p>[2021/07] My research project receives a grant from <strong>Tamkang University (TKU)</strong>.</p> </li>
-<li> <p>[2021/06] I participate in the course "An introduction to AI ethics and society" of <strong>University of Cambridge</strong>.</p> </li>
-<li> <p>[2020/12] I join <strong>Advanced Mixed-Operation System Laboratory (AMOS Lab.)</strong> of <strong>Tamkang University (TKU)</strong>. </li>
+<div style="height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF; padding: 5px; border-radius: 6px; border: 1px solid #ccc;">
+  <ul>
+    <li>2025.06: I receive an offer for a PhD student at Kyoto University, Japan.</li>
+    <li>2025.06: My master's thesis project, ToonifyGB, is now available (<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a>).</li>
+    <li>2025.01: One paper is accepted by <strong>ICRA 2025</strong> (<a href="https://www.neiljin.site/projects/orbsfm/" target="_blank">Project</a>).</li>
+    <li>2025.01: Our split GRAZPEDWRI-DX dataset is now available (<a href="https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/" target="_blank">Project</a>).</li>
+    <li>2024.09: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2) (<a href="https://github.com/abcpp12383/ThreeStageBinarization" target="_blank">GitHub</a>).</li>
+    <li>2024.08: One paper is accepted by <strong>ICONIP 2024</strong>.</li>
+    <li>2024.07: I become the PC member of <strong>PRICAI 2024</strong> and reviewing papers.</li>
+    <li>2024.05: One paper is accepted by <strong>Electronics Letters</strong>.</li>
+    <li>2024.04: I become <strong>IET Member (MIET)</strong>.</li>
+    <li>2023.11: One paper is accepted by <strong>Scientific Reports</strong>.</li>
+    <li>2023.09: I become <strong>IEEE Graduate Student Member</strong>.</li>
+    <li>2023.09: I join <strong>imLab</strong> of <strong>National Taiwan University (NTU)</strong>.</li>
+    <li>2023.08: One paper is accepted by <strong>PRICAI 2023</strong> (Main Track).</li>
+    <li>2023.08: Our research team’s research project receives a grant from <strong>National Science and Technology Council (NSTC)</strong>.</li>
+    <li>2023.07: I become the PC member of <strong>PRICAI 2023</strong> and reviewing papers on AI-Impact Track.</li>
+    <li>2023.06: One paper is accepted by <strong>Multimedia Tools and Applications</strong>.</li>
+    <li>2022.11: One paper is accepted by <strong>Journal of Real-Time Image Processing</strong>.</li>
+    <li>2022.10: <strong>ECCV 2022</strong> Competition - Google Universal Image Embedding Challenge <strong>Silver Medal</strong>.</li>
+    <li>2022.09: One paper is accepted by <strong>ISPACS 2022</strong>, <strong>Best Paper Award Nomination</strong>.</li>
+    <li>2022.08: One paper is accepted by <strong>IET-ICETA 2022</strong>.</li>
+    <li>2022.07: Our research team’s research project receives a grant from <strong>National Science and Technology Council (NSTC)</strong>.</li>
+    <li>2022.07: One paper is accepted by <strong>IEEE Access</strong>.</li>
+    <li>2022.06: I become <strong>IEEE Student Member</strong> and <strong>IET Student Member</strong>.</li>
+    <li>2022.04: One paper is accepted by <strong>ICCE-TW 2022</strong>.</li>
+    <li>2022.03: I submit my research result report to <strong>Tamkang University (TKU)</strong>.</li>
+    <li>2021.09: One paper is accepted by <strong>TAAI 2021</strong>.</li>
+    <li>2021.07: My research project receives a grant from <strong>Tamkang University (TKU)</strong>.</li>
+    <li>2021.06: I participate in the course "An introduction to AI ethics and society" of <strong>University of Cambridge</strong>.</li>
+    <li>2020.12: I join <strong>Advanced Mixed-Operation System Laboratory (AMOS Lab.)</strong> of <strong>Tamkang University (TKU)</strong>.</li>
+  </ul>
 </div>
-</ul>	
 
 # Publication
 ## 3D stylized Head Avatar
