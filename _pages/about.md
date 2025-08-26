@@ -42,24 +42,13 @@ Further details about my background are available in <a href='https://ruiyangju.
   <li>2023.11: One paper is accepted by <strong>Scientific Reports</strong> (IF=3.9) (<a href="https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8" target="_blank">GitHub</a>).</li>
   <li>2023.08: One paper is accepted by <strong>PRICAI 2023</strong> (CCF-C) (<a href="https://github.com/RuiyangJu/ThreeStageBinarization" target="_blank">GitHub</a>).</li>
   <li>2023.07: I receive an offer for a Master student at National Taiwan University, Taiwan.</li>
-
-
-    <li>2023.07: I become the PC member of <strong>PRICAI 2023</strong> and reviewing papers on AI-Impact Track.</li>
-    <li>2023.06: One paper is accepted by <strong>Multimedia Tools and Applications</strong>.</li>
-    <li>2022.11: One paper is accepted by <strong>Journal of Real-Time Image Processing</strong>.</li>
-    <li>2022.10: <strong>ECCV 2022</strong> Competition - Google Universal Image Embedding Challenge <strong>Silver Medal</strong>.</li>
-    <li>2022.09: One paper is accepted by <strong>ISPACS 2022</strong>, <strong>Best Paper Award Nomination</strong>.</li>
-    <li>2022.08: One paper is accepted by <strong>IET-ICETA 2022</strong>.</li>
-    <li>2022.07: Our research team’s research project receives a grant from <strong>National Science and Technology Council (NSTC)</strong>.</li>
-    <li>2022.07: One paper is accepted by <strong>IEEE Access</strong>.</li>
-    <li>2022.06: I become <strong>IEEE Student Member</strong> and <strong>IET Student Member</strong>.</li>
-    <li>2022.04: One paper is accepted by <strong>ICCE-TW 2022</strong>.</li>
-    <li>2022.03: I submit my research result report to <strong>Tamkang University (TKU)</strong>.</li>
-    <li>2021.09: One paper is accepted by <strong>TAAI 2021</strong>.</li>
-    <li>2021.07: My research project receives a grant from <strong>Tamkang University (TKU)</strong>.</li>
-    <li>2021.06: I participate in the course "An introduction to AI ethics and society" of <strong>University of Cambridge</strong>.</li>
-    <li>2020.12: I join <strong>Advanced Mixed-Operation System Laboratory (AMOS Lab.)</strong> of <strong>Tamkang University (TKU)</strong>.</li>
-  </ul>
+  <li>2023.06: One paper is accepted by <strong>Multimedia Tools and Applications</strong>.</li>
+  <li>2022.11: One paper is accepted by <strong>Journal of Real-Time Image Processing</strong>.</li>
+  <li>2022.10: <strong>ECCV 2022</strong> Competition - Google Universal Image Embedding Challenge <strong>Silver Medal</strong>.</li>
+  <li>2022.07: One paper is accepted by <strong>IEEE Access</strong>.</li>
+  <li>2021.07: My research project receives a grant from <strong>Tamkang University (TKU)</strong>.</li>
+  <li>2020.12: I join <strong>Advanced Mixed-Operation System Laboratory (AMOS Lab.)</strong> of <strong>Tamkang University (TKU)</strong>.</li>
+</ul>
 </div>
 
 # Publication
