@@ -31,7 +31,6 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 # News
 <div class="news-container">
-<h2>News</h2>
 <ul>
 <li>2025.06: I receive an offer for a PhD student at Kyoto University, Japan.</li>
 <li>2025.06: My master's thesis project, ToonifyGB, is now available (<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a>).</li>
