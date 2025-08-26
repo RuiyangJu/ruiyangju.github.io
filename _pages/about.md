@@ -33,18 +33,17 @@ Further details about my background are available in <a href='https://ruiyangju.
 <div style="height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF; padding: 5px; border-radius: 6px; border: 1px solid #ccc;">
 <ul>
   <li>2025.06: I receive an offer for a PhD student at Kyoto University, Japan.</li>
-  <li>2025.06: My master's thesis project, ToonifyGB, is now available (<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a>) (<a href="https://github.com/RuiyangJu/ToonifyGB" target="_blank">Project</a>).</li>
+  <li>2025.06: My master's thesis project, ToonifyGB, is now available (<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a>) (<a href="https://github.com/RuiyangJu/ToonifyGB" target="_blank">GitHub</a>).</li>
   <li>2025.01: One paper is accepted by <strong>ICRA 2025</strong> (<a href="https://www.neiljin.site/projects/orbsfm" target="_blank">Project</a>).</li>
   <li>2025.01: Our split GRAZPEDWRI-DX dataset is now available (<a href="https://ruiyangju.github.io/GRAZPEDWRI-DX_JU" target="_blank">Project</a>).</li>
   <li>2024.09: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2) (<a href="https://github.com/abcpp12383/ThreeStageBinarization" target="_blank">GitHub</a>).</li>
   <li>2024.08: One paper is accepted by <strong>ICONIP 2024</strong> (CCF-C) (<a href="https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8" target="_blank">GitHub</a>).</li>
-  <li>2024.05: One paper is accepted by <strong>Electronics Letters</strong> (<a href="https://github.com/RuiyangJu/YOLOv9-Fracture-Detection" target="_blank">GitHub</a>).</li>
-    <li>2024.04: I become <strong>IET Member (MIET)</strong>.</li>
-    <li>2023.11: One paper is accepted by <strong>Scientific Reports</strong>.</li>
-    <li>2023.09: I become <strong>IEEE Graduate Student Member</strong>.</li>
-    <li>2023.09: I join <strong>imLab</strong> of <strong>National Taiwan University (NTU)</strong>.</li>
-    <li>2023.08: One paper is accepted by <strong>PRICAI 2023</strong> (Main Track).</li>
-    <li>2023.08: Our research team’s research project receives a grant from <strong>National Science and Technology Council (NSTC)</strong>.</li>
+  <li>2024.05: One paper is accepted by <strong>Electronics Letters</strong> (IF=0.8) (<a href="https://github.com/RuiyangJu/YOLOv9-Fracture-Detection" target="_blank">GitHub</a>).</li>
+  <li>2023.11: One paper is accepted by <strong>Scientific Reports</strong> (IF=3.9) (<a href="https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8" target="_blank">GitHub</a>).</li>
+  <li>2023.08: One paper is accepted by <strong>PRICAI 2023</strong> (CCF-C) (<a href="https://github.com/RuiyangJu/ThreeStageBinarization" target="_blank">GitHub</a>).</li>
+  <li>2023.07: I receive an offer for a Master student at National Taiwan University, Taiwan.</li>
+
+
     <li>2023.07: I become the PC member of <strong>PRICAI 2023</strong> and reviewing papers on AI-Impact Track.</li>
     <li>2023.06: One paper is accepted by <strong>Multimedia Tools and Applications</strong>.</li>
     <li>2022.11: One paper is accepted by <strong>Journal of Real-Time Image Processing</strong>.</li>
