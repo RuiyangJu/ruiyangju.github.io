@@ -32,7 +32,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 # News
 <div style="height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF; padding: 5px; border-radius: 6px; border: 1px solid #ccc;">
 <ul>
-  <li>2025.08: One paper is accepted by <storng>ADMA 2025</storng> (CCF-C).</li>
+  <li>2025.08: One paper is accepted by <strong>ADMA 2025</strong> (CCF-C).</li>
   <li>2025.06: I receive an offer for a PhD student at Kyoto University, Japan.</li>
   <li>2025.06: My master's thesis project, <strong>ToonifyGB</strong>, is now available (<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a>) (<a href="https://github.com/RuiyangJu/ToonifyGB" target="_blank">GitHub</a>).</li>
   <li>2025.03: One paper is accepted by <strong>IEEE Access</strong> (IF=3.6) (<a href="https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8" target="_blank">GitHub</a>).</li>
