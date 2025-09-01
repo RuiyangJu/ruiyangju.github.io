@@ -149,6 +149,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
   <li>Engineering Applications of Artificial Intelligence.</li>
   <li>Multimedia Tools and Applications.</li>
   <li>Scientific Reports.</li>
+  <li>npj Heritage Science.</li>
   <li>Cognitive Computation.</li>
   <li>International Journal of Multimedia Information Retrieval.</li>
   <li>International Journal of Machine Learning and Cybernetics.</li>
