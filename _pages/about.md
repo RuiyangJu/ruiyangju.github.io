@@ -109,7 +109,7 @@ Hospital emergency departments frequently receive lots of bone fracture cases, w
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='https://ruiyangju.github.io/images/Figure/ORB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://arxiv.org/abs/2409.11692) \\
+[ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://doi.org/10.1109/ICRA55743.2025.11127848) \\
 Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong \\
 [Project](https://www.neiljin.site/projects/orbsfm/)
 <details>
