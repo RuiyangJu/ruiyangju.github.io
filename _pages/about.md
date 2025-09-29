@@ -182,11 +182,11 @@ The Transformer-based method has demonstrated remarkable performance for image s
 
 # Scholarship
 <span class='anchor' id='scholarship'></span>
-- National Taiwan University Academic Scholarship, Total: NT$32,000, 2023 – 2025.
-- National Taiwan University Research Scholarship, Total: NT$36,000, 2024.
-- Sino International Business Innovation Association (SIBIA) Scholarship, Total: US$900, 2021, 2022, 2024.
-- Tamkang University Research Scholarship, Total: NT$48,000, 2021 – 2022.
-- Tamkang University Academic Scholarship (Top 1%), Total: NT$20,000, 2021, 2022.
+- National Taiwan University Scholarship, 2023 – 2025.
+- National Taiwan University Graduate Research Fellowship, 2024.
+- Sino International Business Innovation Association (SIBIA) Scholarship, 2021, 2022, 2024.
+- Tamkang University Undergraduate Research Fellowship, 2021 – 2022.
+- Tamkang University Scholarship (Top 1% Ranking), 2021, 2022.
 
 # Education
 - 2025.10 - 2028.09, Graduate School of Informatics, Kyoto University, Kyoto, Japan.
