@@ -180,10 +180,10 @@ The Transformer-based method has demonstrated remarkable performance for image s
 </ul>
 </details>
 
-# Scholarship
+# Funding
 <span class='anchor' id='scholarship'></span>
+- National Taiwan University Graduate Research Assistantship, 2024 - 2025.
 - National Taiwan University Scholarship, 2023 – 2025.
-- National Taiwan University Graduate Research Fellowship, 2024.
 - Sino International Business Innovation Association (SIBIA) Scholarship, 2021, 2022, 2024.
 - Tamkang University Undergraduate Research Fellowship, 2021 – 2022.
 - Tamkang University Scholarship (Top 1% Ranking), 2021, 2022.
