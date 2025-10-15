@@ -147,6 +147,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
   <li>Neural Networks.</li>
   <li>IEEE Signal Processing Letters.</li>
   <li>Engineering Applications of Artificial Intelligence.</li>
+  <li>Computer Vision and Image Understanding.</li>
   <li>Multimedia Tools and Applications.</li>
   <li>Scientific Reports.</li>
   <li>npj Heritage Science.</li>
@@ -170,6 +171,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 <details>
 <summary>View more</summary>
 <ul>
+  <li>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026, Reviewer.</li>
   <li>AAAI Conference on Artificial Intelligence (AAAI), Singapore, 2026, Reviwer.</li>
   <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Wellington, New Zealand, 2025, Program Committee.</li>
   <li>International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025, Reviewer.</li>
