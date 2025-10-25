@@ -125,7 +125,6 @@
 
 <section class="section">
   <div class="container is-max-desktop">
-    <!-- Original Dataset. -->
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
         <div class="content has-text-centered">
@@ -134,17 +133,13 @@
             DKDS dataset is the first collection of degraded ancient Japanese document images specifically designed to address the challenge of Kuzushiji characters overlapping with seals. Based on the dataset, we define two benchmark tracks: Text and Seal Detection and Document Binarization.
           </h5>
         </div>
-        <h2 class="title is-3">Original Dataset</h2>
+        <h2 class="title is-3">Motivation</h2>
         <div class="content has-text-justified">
           <p>
-            GRAZPEDWRI-DX [Nagy et al. 2022] is a public dataset of 20,327 pediatric wrist 
-            trauma X-ray images released by the University of Medicine of Graz. 
-            These X-ray images were collected by multiple pediatric radiologists 
-            at the Department for Pediatric Surgery of the University Hospital Graz 
-            between 2008 and 2018, involving 6,091 patients and a total of 10,643 
-            studies. This dataset is annotated with 74,459 image labels, featuring 
-            a total of 67,771 labeled objects. You can find the original GRAZPEDWRI-DX dataset 
-            <a href="https://figshare.com/articles/dataset/GRAZPEDWRI-DX/14825193" target="_blank"><strong>here</strong></a> (unsplit).
+            Within ancient Japanese documents, seals appear as red marks that frequently overlap with Kuzushiji characters.
+            This overlap can blur character boundaries and significantly reduce OCR accuracy. 
+            From left to right, the observed OCR errors include: recognition of extra characters, incorrect character recognition, and misidentification of seal carvings as text. 
+            OCR was conducted using the “miwo” application [1], and binarization was performed according to the method proposed by Ju et al. [2].
           </p>
         </div>
       </div>
