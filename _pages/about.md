@@ -140,6 +140,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 <details>
 <summary>View more</summary>
 <ul>
+  <li>IEEE Transactions on Visualization and Computer Graphics.</li>
   <li>Pattern Recognition.</li>
   <li>Knowledge-based Systems.</li>
   <li>Neurocomputing.</li>
