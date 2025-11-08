@@ -144,10 +144,10 @@ The Transformer-based method has demonstrated remarkable performance for image s
   <li>Pattern Recognition.</li>
   <li>Knowledge-based Systems.</li>
   <li>Neurocomputing.</li>
-  <li>Alexandria Engineering Journal.</li>
   <li>Neural Networks.</li>
   <li>IEEE Signal Processing Letters.</li>
   <li>Engineering Applications of Artificial Intelligence.</li>
+  <li>Alexandria Engineering Journal.</li>
   <li>Computer Vision and Image Understanding.</li>
   <li>Multimedia Tools and Applications.</li>
   <li>Scientific Reports.</li>
