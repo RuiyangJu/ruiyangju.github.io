@@ -40,16 +40,16 @@ Further details about my background are available in <a href='https://ruiyangju.
   <li>2025.01: Our split GRAZPEDWRI-DX dataset is now available (<a href="https://ruiyangju.github.io/GRAZPEDWRI-DX_JU" target="_blank">Project</a>).</li>
   <li>2024.09: One paper is accepted by <strong>Knowledge-Based Systems</strong> (IF=7.2) (<a href="https://github.com/abcpp12383/ThreeStageBinarization" target="_blank">GitHub</a>).</li>
   <li>2024.08: One paper is accepted by <strong>ICONIP 2024</strong> (CCF-C) (<a href="https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8" target="_blank">GitHub</a>).</li>
-  <li>2024.05: One paper is accepted by <strong>Electronics Letters</strong> (IF=0.8) (<a href="https://github.com/RuiyangJu/YOLOv9-Fracture-Detection" target="_blank">GitHub</a>).</li>
-  <li>2023.11: One paper is accepted by <strong>Scientific Reports</strong> (IF=3.9) (<a href="https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8" target="_blank">GitHub</a>).</li>
-  <li>2023.08: One paper is accepted by <strong>PRICAI 2023</strong> (CCF-C) (<a href="https://github.com/RuiyangJu/ThreeStageBinarization" target="_blank">GitHub</a>).</li>
+  <li>2024.05: One paper is accepted by <strong>Electronics Letters</strong> (<a href="https://github.com/RuiyangJu/YOLOv9-Fracture-Detection" target="_blank">GitHub</a>).</li>
+  <li>2023.11: One paper is accepted by <strong>Scientific Reports</strong> (<a href="https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8" target="_blank">GitHub</a>).</li>
+  <li>2023.08: One paper is accepted by <strong>PRICAI 2023</strong> [Oral] (<a href="https://github.com/RuiyangJu/ThreeStageBinarization" target="_blank">GitHub</a>).</li>
   <li>2023.07: I receive an offer for a Master student at National Taiwan University, Taiwan.</li>
-  <li>2023.06: One paper is accepted by <strong>Multimedia Tools and Applications</strong> (IF=3.0) (<a href="https://github.com/Rubbbbbbbbby/SwinOIR" target="_blank">GitHub</a>).</li>
-  <li>2022.11: One paper is accepted by <strong>Journal of Real-Time Image Processing</strong> (IF=3.0) (<a href="https://github.com/RuiyangJu/TripleNet" target="_blank">GitHub</a>).</li>
+  <li>2023.06: One paper is accepted by <strong>Multimedia Tools and Applications</strong> (<a href="https://github.com/Rubbbbbbbbby/SwinOIR" target="_blank">GitHub</a>).</li>
+  <li>2022.11: One paper is accepted by <strong>Journal of Real-Time Image Processing</strong> (<a href="https://github.com/RuiyangJu/TripleNet" target="_blank">GitHub</a>).</li>
   <li>2022.10: <strong>ECCV 2022</strong> Competition - Google Universal Image Embedding Challenge <strong>Silver Medal</strong>.</li>
-  <li>2022.07: One paper is accepted by <strong>IEEE Access</strong> (IF=3.6) (<a href="https://github.com/RuiyangJu/ThreshNet" target="_blank">GitHub</a>).</li>
-  <li>2021.07: My research project receives a grant from Tamkang University (TKU).</li>
-  <li>2020.12: I join Advanced Mixed-Operation System Laboratory (AMOS Lab.) of Tamkang University (TKU).</li>
+  <li>2022.07: One paper is accepted by <strong>IEEE Access</strong> (<a href="https://github.com/RuiyangJu/ThreshNet" target="_blank">GitHub</a>).</li>
+  <li>2021.07: My research project receives a grant from Tamkang University.</li>
+  <li>2020.12: I join Advanced Mixed-Operation System Laboratory (AMOS Lab.) of Tamkang University.</li>
 </ul>
 </div>
 
