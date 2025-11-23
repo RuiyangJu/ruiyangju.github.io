@@ -84,6 +84,7 @@ The efficient extraction of text information from the background in degraded col
 - ``PRICAI 2023`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://doi.org/10.1007/978-981-99-7019-3_19), **Rui-Yang Ju**, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien.
 
 </div>
+</div>
 
 ## Fracture Detection
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports 2023</div><img src='https://ruiyangju.github.io/images/Figure/fracture-detection.gif' alt="sym" width="100%"></div></div>
@@ -102,6 +103,7 @@ Hospital emergency departments frequently receive lots of bone fracture cases, w
 - ``ICONIP 2024`` [YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection](https://doi.org/10.1007/978-981-96-6972-1_28), **Rui-Yang Ju**, Chun-Tse Chien, Jen-Shiun Chiang.
 
 </div>
+</div>
 
 ## ORB-SfMLearner
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='https://ruiyangju.github.io/images/Figure/ORB.gif' alt="sym" width="100%"></div></div>
@@ -116,6 +118,7 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 </details>
 
 </div>
+</div>
 
 ## Super Resolution 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Tools and Applications 2023</div><img src='https://ruiyangju.github.io/images/Figure/SwinOIR.gif' alt="sym" width="100%"></div></div>
@@ -129,6 +132,7 @@ Deep visual odometry, despite extensive research, still faces limitations in acc
 The Transformer-based method has demonstrated remarkable performance for image super-resolution in comparison to the method based on the convolutional neural networks (CNNs). However, using the self-attention mechanism like SwinIR (Image Restoration Using Swin Transformer) to extract feature information from images needs a significant amount of computational resources, which limits its application on low computing power platforms. To improve the model feature reuse, this research work proposes the Interval Dense Connection Strategy, which connects different blocks according to the newly designed algorithm. We apply this strategy to SwinIR and present a new model, which named SwinOIR (Object Image Restoration Using Swin Transformer). For image super-resolution, an ablation study is conducted to demonstrate the positive effect of the Interval Dense Connection Strategy on the model performance. Furthermore, we evaluate our model on various popular benchmark datasets, and compare it with other state-of-the-art (SOTA) lightweight models. For example, SwinOIR obtains a PSNR of 26.62 dB for x4 upscaling image super-resolution on Urban100 dataset, which is 0.15 dB higher than the SOTA model SwinIR. For real-life application, this work applies the lastest version of You Only Look Once (YOLOv8) model and the proposed model to perform object detection and real-life image super-resolution on low-quality images.
 </details>
 
+</div>
 </div>
 
 # 🛠️ Professional Service
