@@ -81,9 +81,10 @@ The introduction of 3D Gaussian blendshapes has enabled the real-time reconstruc
 The efficient extraction of text information from the background in degraded color document images is an important challenge in the preservation of ancient manuscripts. The imperfect preservation of ancient manuscripts has led to different types of degradation over time, such as page yellowing, staining, and ink bleeding, seriously affecting the results of document image binarization. This work proposes an effective three-stage network method to image enhancement and binarization of degraded documents using generative adversarial networks (GANs). Specifically, in Stage-1, we first split the input images into multiple patches, and then split these patches into four single-channel patch images (gray, red, green, and blue). Then, three single-channel patch images (red, green, and blue) are processed by the discrete wavelet transform (DWT) with normalization. In Stage-2, we use four independent generators to separately train GAN models based on the four channels on the processed patch images to extract color foreground information. Finally, in Stage-3, we train two independent GAN models on the outputs of Stage-2 and the resized original input images (512 × 512) as the local and global predictions to obtain the final outputs. The experimental results show that the Avg-Score metrics of the proposed method are 77.64, 77.95, 79.05, 76.38, 75.34, and 77.00 on the (H)-DIBCO 2011, 2013, 2014, 2016, 2017, and 2018 datasets, which are at the state-of-the-art level.
 </details>
 
+</div>
+
 - ``PRICAI 2023`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://doi.org/10.1007/978-981-99-7019-3_19), **Rui-Yang Ju**, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien.
 
-</div>
 </div>
 
 ## Fracture Detection
@@ -98,11 +99,12 @@ The efficient extraction of text information from the background in degraded col
 Hospital emergency departments frequently receive lots of bone fracture cases, with pediatric wrist trauma fracture accounting for the majority of them. Before pediatric surgeons perform surgery, they need to ask patients how the fracture occurred and analyze the fracture situation by interpreting X-ray images. The interpretation of X-ray images often requires a combination of techniques from radiologists and surgeons, which requires time-consuming specialized training. With the rise of deep learning in the field of computer vision, network models applying for fracture detection has become an important research topic. In this paper, we use data augmentation to improve the model performance of YOLOv8 algorithm (the latest version of You Only Look Once) on a pediatric wrist trauma X-ray dataset (GRAZPEDWRI-DX), which is a public dataset. The experimental results show that our model has reached the state-of-the-art (SOTA) mean average precision (mAP 50). Specifically, mAP 50 of our model is 0.638, which is significantly higher than the 0.634 and 0.636 of the improved YOLOv7 and original YOLOv8 models. To enable surgeons to use our model for fracture detection on pediatric wrist trauma X-ray images, we have designed the application “Fracture Detection Using YOLOv8 App” to assist surgeons in diagnosing fractures, reducing the probability of error analysis, and providing more useful information for surgery.
 </details>
 
+</div>
+
 - ``IEEE Access 2025`` [YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection](https://ieeexplore.ieee.org/document/10918980), Chun-Tse Chien, **Rui-Yang Ju**, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang.
 - ``Electronics Letters 2024`` [YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](http://dx.doi.org/10.1049/ell2.13248), Chun-Tse Chien, **Rui-Yang Ju**, Kuang-Yi Chou, Jen-Shiun Chiang.
 - ``ICONIP 2024`` [YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection](https://doi.org/10.1007/978-981-96-6972-1_28), **Rui-Yang Ju**, Chun-Tse Chien, Jen-Shiun Chiang.
 
-</div>
 </div>
 
 ## ORB-SfMLearner
