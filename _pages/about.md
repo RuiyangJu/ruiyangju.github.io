@@ -82,9 +82,13 @@ The efficient extraction of text information from the background in degraded col
 </details>
 
 </div>
-</div>
+
+<div class="paper-box-related" markdown="1">
 
 - ``PRICAI 2023`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://doi.org/10.1007/978-981-99-7019-3_19), **Rui-Yang Ju**, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien.
+
+</div>
+</div>
 
 ## Fracture Detection
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports 2023</div><img src='https://ruiyangju.github.io/images/Figure/fracture-detection.gif' alt="sym" width="100%"></div></div>
