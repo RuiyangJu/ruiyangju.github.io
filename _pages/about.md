@@ -53,7 +53,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 </ul>
 </div>
 
-# Publication
+# 📄 Publication
 ## 3D stylized Head Avatar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -135,7 +135,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 </div>
 </div>
 
-# Professional Service
+# 🛠️ Professional Service
 ## Journal Reviewer
 <details>
 <summary>View more</summary>
@@ -183,7 +183,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 </ul>
 </details>
 
-# Funding
+# 💰 Funding
 <span class='anchor' id='scholarship'></span>
 - National Taiwan University Graduate Research Assistantship, 2024 - 2025.
 - National Taiwan University Scholarship, 2023, 2024, 2025.
@@ -191,7 +191,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 - Tamkang University Undergraduate Research Fellowship, 2021 - 2022.
 - Tamkang University Scholarship (Top 1% Ranking), 2021, 2022.
 
-# Education
+# 🎓 Education
 - 2025.10 - 2028.09, Graduate School of Informatics, Kyoto University, Kyoto, Japan.
 - 2023.09 - 2025.06, Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei, Taiwan.
 - 2019.09 - 2023.06, Electrical and Computer Engineering, Tamkang University, New Taipei, Taiwan.
