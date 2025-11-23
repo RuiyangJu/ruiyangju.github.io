@@ -29,7 +29,7 @@ My primary research interests include Natural Language Processing (Large Languag
 Further details about my background are available in <a href='https://ruiyangju.github.io/images/CV_English.pdf'><img src='https://img.shields.io/badge/Resume-English-white?color=green'></a> (updated in July 2025).
 -->
 
-# News
+# 📢 News
 <div style="height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF; padding: 5px; border-radius: 6px; border: 1px solid #ccc;">
 <ul>
   <li>2025.08: One paper is accepted by <strong>APSIPA ASC 2025</strong> [Oral].</li>
