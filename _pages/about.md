@@ -67,6 +67,7 @@ The introduction of 3D Gaussian blendshapes has enabled the real-time reconstruc
 </details>
 
 </div>
+</div>
 
 ## Document Binarization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems 2024</div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
