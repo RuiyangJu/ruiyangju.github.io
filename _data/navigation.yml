@@ -19,7 +19,6 @@ main:
     url: "/#education"
 
   - title: "Project"
-    url: "/#project"
     children:
       - title: "GRAZPEDWRI-DX_JU"
         url: "/GRAZPEDWRI-DX_JU"
