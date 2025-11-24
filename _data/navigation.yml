@@ -5,7 +5,7 @@ main:
 
   - title: "News"
     url: "/#news"
-    
+
   - title: "Publication"
     url: "/#publication"
 
@@ -18,14 +18,14 @@ main:
   - title: "Education"
     url: "/#education"
 
-  - title: "Project"
-    url: "/#publication"
-    children:
-      - title: "GRAZPEDWRI-DX_JU"
-        url: "/GRAZPEDWRI-DX_JU"
-      - title: "ToonifyGB"
-        url: "/ToonifyGB"
-      - title: "MFE-GAN"
-        url: "/MFE-GAN"
-      - title: "DKDS"
-        url: "/DKDS"
+  - title: "GRAZPEDWRI-DX_JU"
+    url: "/GRAZPEDWRI-DX_JU"
+
+  - title: "ToonifyGB"
+    url: "/ToonifyGB"
+    
+  - title: "MFE-GAN"
+    url: "/MFE-GAN"    
+
+  - title: "DKDS"
+    url: "/DKDS"
