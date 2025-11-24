@@ -30,6 +30,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 -->
 
 <span class="anchor" id="news"></span>
+
 # 📢 News
 <div style="height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF; padding: 5px; border-radius: 6px; border: 1px solid #ccc;">
 <ul>
@@ -160,6 +161,8 @@ The Transformer-based method has demonstrated remarkable performance for image s
 </div>
 </div>
 
+<span class="anchor" id="professional-service"></span>
+
 # 🛠️ Professional Service
 ## Journal Reviewer
 <details>
@@ -208,6 +211,8 @@ The Transformer-based method has demonstrated remarkable performance for image s
 </ul>
 </details>
 
+<span class="anchor" id="funding"></span>
+
 # 💰 Funding
 <span class='anchor' id='scholarship'></span>
 - National Taiwan University Graduate Research Assistantship, 2024 - 2025.
@@ -215,6 +220,8 @@ The Transformer-based method has demonstrated remarkable performance for image s
 - Sino International Business Innovation Association (SIBIA) Scholarship, 2021, 2022, 2024.
 - Tamkang University Undergraduate Research Fellowship, 2021 - 2022.
 - Tamkang University Scholarship (Top 1% Ranking), 2021, 2022.
+
+<span class="anchor" id="education"></span>
 
 # 🎓 Education
 - 2025.10 - 2028.09, Graduate School of Informatics, Kyoto University, Kyoto, Japan.
