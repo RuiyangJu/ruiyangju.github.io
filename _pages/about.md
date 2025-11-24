@@ -55,6 +55,8 @@ Further details about my background are available in <a href='https://ruiyangju.
 </ul>
 </div>
 
+<span class="anchor" id="publication"></span>
+
 # 📄 Publication
 ## Kuzushiji Character Recognition
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/DKDS.png' alt="sym" width="100%"></div></div>
