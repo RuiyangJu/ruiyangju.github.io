@@ -22,10 +22,10 @@ main:
     url: "/GRAZPEDWRI-DX_JU"
 
   - title: "ToonifyGB"
-    url: "/#education"
+    url: "/ToonifyGB"
     
-  - title: "Education"
-    url: "/#education"    
+  - title: "MFE-GAN"
+    url: "/MFE-GAN"    
 
-  - title: "Education"
-    url: "/#education"
+  - title: "DKDS"
+    url: "/DKDS"
