@@ -217,6 +217,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 
 # 💰 Funding
 <span class='anchor' id='scholarship'></span>
+- Kyoto University DoGS Spring Fellowship, 2025 - 2028.
 - National Taiwan University Graduate Research Assistantship, 2024 - 2025.
 - National Taiwan University Scholarship, 2023, 2024, 2025.
 - Sino International Business Innovation Association (SIBIA) Scholarship, 2021, 2022, 2024.
