@@ -34,7 +34,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 # 📢 News
 <div style="height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF; padding: 5px; border-radius: 6px; border: 1px solid #ccc;">
 <ul>
-  <li>2025.11. I receive the <strong>Kyoto University DoGS Spring Fellowship</strong> for my Phd studies.</li>
+  <li>2025.11. I receive the <strong>Kyoto University DoGS SPRING Fellowship</strong> for my Phd studies.</li>
   <li>2025.08: One paper is accepted by <strong>APSIPA ASC 2025</strong> [Oral].</li>
   <li>2025.08: One paper is accepted by <strong>ADMA 2025</strong> [Short Paper].</li>
   <li>2025.06: I receive an offer for a PhD student at <strong>Kyoto University</strong>, Japan.</li>
@@ -218,7 +218,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 
 # 💰 Funding
 <span class='anchor' id='scholarship'></span>
-- Kyoto University DoGS Spring Fellowship, 2025 - 2028.
+- Kyoto University DoGS SPRING Fellowship, 2025 - 2028.
 - National Taiwan University Graduate Research Assistantship, 2024 - 2025.
 - National Taiwan University Scholarship, 2023, 2024, 2025.
 - Sino International Business Innovation Association (SIBIA) Scholarship, 2021, 2022, 2024.
