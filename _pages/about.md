@@ -34,7 +34,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 # 📢 News
 <div style="height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF; padding: 5px; border-radius: 6px; border: 1px solid #ccc;">
 <ul>
-  <li>2025.11. I receive the Kyoto University DoGS Spring Fellowship for my Phd studies.</li>
+  <li>2025.11. I receive the <strong>Kyoto University DoGS Spring Fellowship</strong> for my Phd studies.</li>
   <li>2025.08: One paper is accepted by <strong>APSIPA ASC 2025</strong> [Oral].</li>
   <li>2025.08: One paper is accepted by <strong>ADMA 2025</strong> [Short Paper].</li>
   <li>2025.06: I receive an offer for a PhD student at <strong>Kyoto University</strong>, Japan.</li>
@@ -51,7 +51,7 @@ Further details about my background are available in <a href='https://ruiyangju.
   <li>2022.11: One paper is accepted by <strong>Journal of Real-Time Image Processing</strong> (<a href="https://github.com/RuiyangJu/TripleNet" target="_blank">GitHub</a>).</li>
   <li>2022.10: <strong>ECCV 2022</strong> Competition - Google Universal Image Embedding Challenge <strong>Silver Medal</strong>.</li>
   <li>2022.07: One paper is accepted by <strong>IEEE Access</strong> (<a href="https://github.com/RuiyangJu/ThreshNet" target="_blank">GitHub</a>).</li>
-  <li>2021.07: My research project receives a grant from Tamkang University.</li>
+  <li>2021.07: My research project receives a grant from <strong>Tamkang University</strong>.</li>
   <li>2020.12: I join Advanced Mixed-Operation System Laboratory (AMOS Lab.) of <strong>Tamkang University</strong>.</li>
 </ul>
 </div>
