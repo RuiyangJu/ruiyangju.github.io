@@ -35,7 +35,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 <div style="height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF; padding: 5px; border-radius: 6px; border: 1px solid #ccc;">
 <ul>
   <li>2025.11. I receive the <strong>Kyoto University DoGS SPRING Fellowship</strong> for my Phd studies.</li>
-  <li>2025.08: One paper is accepted by <strong>APSIPA ASC 2025</strong> [Oral].</li>
+  <li>2025.08: One paper is accepted by <strong>APSIPA ASC 2025</strong> [Oral] (<a href="https://github.com/RuiyangJu/Efficient_Document_Image_Binarization" target="_blank">GitHub</a>).</li>
   <li>2025.08: One paper is accepted by <strong>ADMA 2025</strong> [Short Paper].</li>
   <li>2025.06: I receive an offer for a PhD student at <strong>Kyoto University</strong>, Japan.</li>
   <li>2025.06: My master's thesis project, <strong>ToonifyGB</strong>, is now available (<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a>) (<a href="https://github.com/RuiyangJu/ToonifyGB" target="_blank">GitHub</a>).</li>
