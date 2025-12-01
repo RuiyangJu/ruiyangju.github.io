@@ -106,7 +106,7 @@ The efficient extraction of text information from the background in degraded col
 
 <div class="paper-box-related" markdown="1">
 
-- ``APSIPA ASC 2025`` Efficient Generative Adversarial Networks for Color Document Image Enhancement and Binarization Using Multi-scale Feature Extraction, **Rui-Yang Ju**, KokSheik Wong, Jen-Shiun Chiang.
+- ``APSIPA ASC 2025`` [Efficient Generative Adversarial Networks for Color Document Image Enhancement and Binarization Using Multi-scale Feature Extraction](https://ieeexplore.ieee.org/document/11249173), **Rui-Yang Ju**, KokSheik Wong, Jen-Shiun Chiang.
 - ``PRICAI 2023`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://doi.org/10.1007/978-981-99-7019-3_19), **Rui-Yang Ju**, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien.
 
 </div>
