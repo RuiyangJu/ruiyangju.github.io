@@ -182,6 +182,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
   <li>Alexandria Engineering Journal.</li>
   <li>Computer Vision and Image Understanding.</li>
   <li>Multimedia Tools and Applications.</li>
+  <li>The Visual Computer.</li>
   <li>Scientific Reports.</li>
   <li>npj Heritage Science.</li>
   <li>Cognitive Computation.</li>
