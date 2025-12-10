@@ -1,7 +1,7 @@
 name: Update ORCID Peer Review
 
 on:
-  workflow_dispatch: 
+  workflow_dispatch:
   schedule:
     - cron: '0 8 * * *'
   push:
@@ -25,15 +25,13 @@ jobs:
 
       - name: Count Peer Reviews
         run: |
-          COUNT=$(xmllint --xpath "count(//peer-review:peer-review-summary)" \
+          COUNT=$(xmllint --xpath "count(//*[local-name()='peer-review-summary'])" \
           peer_raw.xml 2>/dev/null || echo 0)
 
           echo "{ \"updated\": \"$(date -u +%Y-%m-%d)\", \"total\": $COUNT }" \
           > peer_review.json
 
           echo "Peer Review Count = $COUNT"
-          cat peer_review.json
-
           echo "COUNT=$COUNT" >> $GITHUB_ENV
 
       - name: Generate shields.io JSON
@@ -46,8 +44,6 @@ jobs:
             "color": "blue"
           }
           EOF
-
-          cat orcid_peer_review_shieldsio.json
 
       - name: Commit and push
         run: |
