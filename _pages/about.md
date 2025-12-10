@@ -17,15 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a Ph.D. at the [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/), [Kyoto University](https://www.kyoto-u.ac.jp/), Japan. I am working at the [LSTA Lab.](https://www.lsta.media.kyoto-u.ac.jp/), where I conduct research on document and text analysis, recognition, and processing. If you are interested in any form of academic collaboration, please feel free to email me.
+I am currently pursuing a Ph.D. at the [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/), [Kyoto University](https://www.kyoto-u.ac.jp/), Japan. 
+I am a member of the [LSTA Lab.](https://www.lsta.media.kyoto-u.ac.jp/), where I conduct research on document and text analysis, recognition, and processing. 
+If you are interested in any form of academic collaboration, please feel free to [email](mailto:jryjry1094791442@gmail.com) me.
 
-I graduated in 2025 from the [Graduate Institute of Networking and Multimedia](https://www.inm.ntu.edu.tw/), [National Taiwan University](https://www.ntu.edu.tw/), Taipei, Taiwan, with a Master of Science (M.S.) degree. I was a member of [NTU imLab](https://ntuimlab.tw/), and my master’s thesis focused on 3D Gaussian Splatting (3DGS).
+I received my Master of Science (M.S.) degree in 2025 from the [Graduate Institute of Networking and Multimedia](https://www.inm.ntu.edu.tw/), [National Taiwan University](https://www.ntu.edu.tw/), Taipei, Taiwan.
+I was a member of [NTU imLab](https://ntuimlab.tw/), and my master’s thesis focused on 3D Gaussian Splatting (3DGS) and 3D head avatar reconstruction.
 
-I received my Bachelor of Science (B.S.) degree in 2023 in [Electrical and Computer Engineering](http://www.ee.tku.edu.tw/) from [Tamkang University](https://www.tku.edu.tw/), New Taipei City, Taiwan, where I ranked first in my department. I conducted research in the Advanced Mixed-Operation System Laboratory (AMOS Lab.) at Tamkang University, focusing on Image Processing and Computer Vision.
+I obtained my Bachelor of Science (B.S.) degree in 2023 in [Electrical and Computer Engineering](http://www.ee.tku.edu.tw/) from [Tamkang University](https://www.tku.edu.tw/), New Taipei City, Taiwan, where I ranked first in my department. 
+I conducted my undergraduate research at the Advanced Mixed-Operation System Laboratory (AMOS Lab.) at Tamkang University, focusing on image processing and computer vision.
 
-My primary research interests include Natural Language Processing (Large Language Models), Computer Vision (Document Binarization, Image Generation, Super-Resolution, Object Detection, Optical Character Recognition), Computer Graphics (3D Gaussian Blendshapes). I have published 20+ papers <a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a> at the international journals or conferences.
+My primary research interests include Natural Language Processing (i.e., VLMs and LLMs), Computer Vision (i.e., document binarization, image generation, super-resolution, object detection, and optical character recognition), and Computer Graphics (3D Gaussian Blendshapes).
+I have published numerous papers <a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a> in international journals or conferences.
 
-I am very activate in international academic activities and serving as the reviewer for international journals <a href="https://orcid.org/0000-0003-2240-1377"><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ruiyangju/ruiyangju.github.io@main/orcid_peer_review_shieldsio.json&logo=ORCID&labelColor=f6f6f6&color=9cf&style=flat&label=Peer%20Reviews"></a> such as TVCG, PR, KBS, and NN, and servering as a reviewer for international conferences such as AAAI, ICASSP, and IJCNN.
+I am highly active in international academic activities and currently serve as a reviewer for several international journals <a href="https://orcid.org/0000-0003-2240-1377"><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ruiyangju/ruiyangju.github.io@main/orcid_peer_review_shieldsio.json&logo=ORCID&labelColor=f6f6f6&color=9cf&style=flat&label=Peer%20Reviews"></a>, including IEEE TVCG, PR, KBS, and NN, as well as for international conferences such as AAAI, ICASSP, and IJCNN.
 
 <!--
 Further details about my background are available in <a href='https://ruiyangju.github.io/images/CV_English.pdf'><img src='https://img.shields.io/badge/Resume-English-white?color=green'></a> (updated in July 2025).
