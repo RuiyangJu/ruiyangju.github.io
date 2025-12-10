@@ -1,6 +1,7 @@
 name: Update ORCID Peer Review
 
 on:
+  workflow_dispatch: 
   schedule:
     - cron: '0 8 * * *'
   push:
@@ -30,12 +31,28 @@ jobs:
           echo "{ \"updated\": \"$(date -u +%Y-%m-%d)\", \"total\": $COUNT }" \
           > peer_review.json
 
+          echo "Peer Review Count = $COUNT"
           cat peer_review.json
+
+          echo "COUNT=$COUNT" >> $GITHUB_ENV
+
+      - name: Generate shields.io JSON
+        run: |
+          cat > orcid_peer_review_shieldsio.json << EOF
+          {
+            "schemaVersion": 1,
+            "label": "peer reviews",
+            "message": "$COUNT",
+            "color": "blue"
+          }
+          EOF
+
+          cat orcid_peer_review_shieldsio.json
 
       - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add peer_review.json peer_raw.xml
+          git add peer_review.json peer_raw.xml orcid_peer_review_shieldsio.json
           git commit -m "Update ORCID peer review stats" || echo "No changes"
           git push
