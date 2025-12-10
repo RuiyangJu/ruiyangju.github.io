@@ -240,3 +240,13 @@ The Transformer-based method has demonstrated remarkable performance for image s
 - 2025.10 - 2028.09, Graduate School of Informatics, Kyoto University, Kyoto, Japan.
 - 2023.09 - 2025.06, Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei, Taiwan.
 - 2019.09 - 2023.06, Electrical and Computer Engineering, Tamkang University, New Taipei, Taiwan.
+
+
+<hr style="margin-top: 60px; margin-bottom: 20px;">
+
+<div style="text-align: center; font-size: 13px; color: #888; line-height: 1.8;">
+  © Copyright 2025 RuiYang Ju.  
+  Powered by <strong>RayeRen</strong>.  
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.  
+  Recommended to use <strong>Chrome</strong>.
+</div>
