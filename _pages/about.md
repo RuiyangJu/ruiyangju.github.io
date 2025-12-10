@@ -119,6 +119,8 @@ Document image enhancement and binarization are commonly performed before docume
 
 </div>
 
+<hr style="margin-top: 60px; margin-bottom: 20px;">
+
 ## Fracture Detection
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports 2023</div><img src='https://ruiyangju.github.io/images/Figure/fracture-detection.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -141,6 +143,8 @@ Hospital emergency departments frequently receive lots of bone fracture cases, w
 - ``ICONIP 2024`` [YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection](https://doi.org/10.1007/978-981-96-6972-1_28), **Rui-Yang Ju**, Chun-Tse Chien, Jen-Shiun Chiang.
 
 </div>
+
+<hr style="margin-top: 60px; margin-bottom: 20px;">
 
 ## Visual Odometry
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='https://ruiyangju.github.io/images/Figure/ORB.gif' alt="sym" width="100%"></div></div>
