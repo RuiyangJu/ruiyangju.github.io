@@ -119,7 +119,7 @@ Document image enhancement and binarization are commonly performed before docume
 
 </div>
 
-<hr style="margin-top: 60px; margin-bottom: 20px;">
+<hr style="margin-top: 20px; margin-bottom: 20px;">
 
 ## Fracture Detection
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports 2023</div><img src='https://ruiyangju.github.io/images/Figure/fracture-detection.gif' alt="sym" width="100%"></div></div>
@@ -144,7 +144,7 @@ Hospital emergency departments frequently receive lots of bone fracture cases, w
 
 </div>
 
-<hr style="margin-top: 60px; margin-bottom: 20px;">
+<hr style="margin-top: 20px; margin-bottom: 20px;">
 
 ## Visual Odometry
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='https://ruiyangju.github.io/images/Figure/ORB.gif' alt="sym" width="100%"></div></div>
@@ -246,7 +246,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 - 2019.09 - 2023.06, Electrical and Computer Engineering, Tamkang University, New Taipei, Taiwan.
 
 
-<hr style="margin-top: 60px; margin-bottom: 20px;">
+<hr style="margin-top: 40px; margin-bottom: 20px;">
 
 <div style="text-align: center; font-size: 13px; color: #888; line-height: 1.8;">
   © Copyright 2025 RuiYang Ju.  
