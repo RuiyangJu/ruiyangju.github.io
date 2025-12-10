@@ -246,7 +246,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 
 <div style="text-align: center; font-size: 13px; color: #888; line-height: 1.8;">
   © Copyright 2025 RuiYang Ju.  
-  Powered by <strong>RayeRen</strong>.  
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.  
-  Recommended to use <strong>Chrome</strong>.
+  Powered by RayeRen.  
+  Hosted by GitHub Pages.  
+  Recommended to use Chrome.
 </div>
