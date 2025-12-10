@@ -23,10 +23,10 @@ I graduated in 2025 from the [Graduate Institute of Networking and Multimedia](h
 
 I received my Bachelor of Science (B.S.) degree in 2023 in [Electrical and Computer Engineering](http://www.ee.tku.edu.tw/) from [Tamkang University](https://www.tku.edu.tw/), New Taipei City, Taiwan, where I ranked first in my department. I conducted research in the Advanced Mixed-Operation System Laboratory (AMOS Lab.) at Tamkang University, focusing on Image Processing and Computer Vision.
 
-My primary research interests include Natural Language Processing (Large Language Models), Computer Vision (Document Binarization, Image Generation, Super-Resolution, Object Detection, Optical Character Recognition), Computer Graphics (3D Gaussian Blendshapes). I have published 20+ papers <a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international journals or conferences.
+My primary research interests include Natural Language Processing (Large Language Models), Computer Vision (Document Binarization, Image Generation, Super-Resolution, Object Detection, Optical Character Recognition), Computer Graphics (3D Gaussian Blendshapes). I have published 20+ papers <a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a> at the international journals or conferences.
 
 <a href="https://orcid.org/0000-0003-2240-1377">
-  <img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ruiyangju/ruiyangju.github.io@main/orcid_peer_review_shieldsio.json&logo=ORCID&labelColor=f6f6f6&color=9cf&style=flat&label=peer%20reviews">
+  <img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ruiyangju/ruiyangju.github.io@main/orcid_peer_review_shieldsio.json&logo=ORCID&labelColor=f6f6f6&color=9cf&style=flat&label=Peer%20Reviews">
 </a>
 
 <!--
