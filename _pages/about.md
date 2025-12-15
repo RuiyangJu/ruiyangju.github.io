@@ -102,7 +102,7 @@ The introduction of 3D Gaussian blendshapes has enabled the real-time reconstruc
 <div class='paper-box-text' markdown="1">
 
 [MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction]() \\
-**Rui-Yang Ju**, KokSheik Wong, Jen-Shiun Chiang \\
+**Rui-Yang Ju**, KokSheik Wong, Yanlin Jin, Jen-Shiun Chiang \\
 [Project](https://ruiyangju.github.io/MFE-GAN) | [GitHub](https://github.com/RuiyangJu/Efficient_Document_Image_Binarization)
 <details>
 <summary>Abstract</summary>
