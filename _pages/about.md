@@ -82,7 +82,7 @@ Kuzushiji, a pre-modern Japanese cursive script, can currently be read and under
 </div>
 </div>
 
-## 3D stylized Head Avatar
+## 3D Head Reconstruction
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
