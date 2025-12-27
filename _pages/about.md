@@ -22,7 +22,7 @@ I am a member of the [LSTA Lab.](https://www.lsta.media.kyoto-u.ac.jp/), where I
 If you are interested in any form of academic collaboration, please feel free to [email](mailto:jryjry1094791442@gmail.com) me.
 
 I received my Master of Science (M.S.) degree in 2025 from the [Graduate Institute of Networking and Multimedia](https://www.inm.ntu.edu.tw/), [National Taiwan University](https://www.ntu.edu.tw/), Taipei, Taiwan.
-I was a member of [NTU imLab](https://ntuimlab.tw/), and my master’s thesis focused on 3D Gaussian Splatting (3DGS) and 3D head avatar reconstruction.
+I was a member of [NTU imLab](https://ntuimlab.tw/), and my master’s thesis focused on 3D Gaussian Splatting (3DGS) and 3D Head Reconstruction.
 
 I obtained my Bachelor of Science (B.S.) degree in 2023 in [Electrical and Computer Engineering](http://www.ee.tku.edu.tw/) from [Tamkang University](https://www.tku.edu.tw/), New Taipei City, Taiwan, where I ranked first in my department. 
 I conducted my undergraduate research at the Advanced Mixed-Operation System Laboratory (AMOS Lab.) at Tamkang University, focusing on image processing and computer vision.
