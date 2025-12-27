@@ -139,7 +139,7 @@ Hospital emergency departments frequently receive lots of bone fracture cases, w
 
 <div class="paper-box-related" markdown="1">
 
-- ``IET Image Processing 2025`` [Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images](https://arxiv.org/abs/2410.01031), **Rui-Yang Ju**, Chun-Tse Chien, Enkaer Xieerke, Jen-Shiun Chiang.
+- ``IET Image Processing 2025`` [Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images](https://doi.org/10.1049/ipr2.70269), **Rui-Yang Ju**, Chun-Tse Chien, Enkaer Xieerke, Jen-Shiun Chiang.
 - ``IEEE Access 2025`` [YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection](https://ieeexplore.ieee.org/document/10918980), Chun-Tse Chien, **Rui-Yang Ju**, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang.
 - ``Electronics Letters 2024`` [YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](http://dx.doi.org/10.1049/ell2.13248), Chun-Tse Chien, **Rui-Yang Ju**, Kuang-Yi Chou, Jen-Shiun Chiang.
 - ``ICONIP 2024`` [YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection](https://doi.org/10.1007/978-981-96-6972-1_28), **Rui-Yang Ju**, Chun-Tse Chien, Jen-Shiun Chiang.
