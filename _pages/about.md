@@ -48,7 +48,7 @@ Further details about my background are available in <a href='https://ruiyangju.
   <li>2025.06: I receive an offer for a PhD student at <strong>Kyoto University</strong>, Japan.</li>
   <li>2025.06: My master's thesis project, <strong>ToonifyGB</strong>, is now available (<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a>) (<a href="https://github.com/RuiyangJu/ToonifyGB" target="_blank">GitHub</a>).</li>
   <li>2025.03: One paper is accepted by <strong>IEEE Access</strong> (<a href="https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8" target="_blank">GitHub</a>).</li>
-  <li>2025.01: One paper is accepted by <strong>ICRA 2025</strong> [Oral] (<a href="https://www.neiljin.site/projects/orbsfm" target="_blank">Project</a>).</li>
+  <li>2025.01: One paper is accepted by <strong>ICRA 2025</strong> [Oral] (<a href="https://www.neiljin.site/projects/orbsfm" target="_blank">Project</a>) (<a href="https://github.com/PeaceNeil/ORB-SfMLearner" target="_blank">GitHub</a>) .</li>
   <li>2024.09: One paper is accepted by <strong>Knowledge-Based Systems</strong> (<a href="https://github.com/abcpp12383/ThreeStageBinarization" target="_blank">GitHub</a>).</li>
   <li>2024.08: One paper is accepted by <strong>ICONIP 2024</strong> [Oral] (<a href="https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8" target="_blank">GitHub</a>).</li>
   <li>2024.05: One paper is accepted by <strong>Electronics Letters</strong> (<a href="https://github.com/RuiyangJu/YOLOv9-Fracture-Detection" target="_blank">GitHub</a>).</li>
@@ -154,7 +154,7 @@ Hospital emergency departments frequently receive lots of bone fracture cases, w
 
 [ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://doi.org/10.1109/ICRA55743.2025.11127848) \\
 Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong \\
-[Project](https://www.neiljin.site/projects/orbsfm/)
+[Project](https://www.neiljin.site/projects/orbsfm/) | [GitHub](https://github.com/PeaceNeil/ORB-SfMLearner)
 <details>
 <summary>Abstract</summary>
 Deep visual odometry, despite extensive research, still faces limitations in accuracy and generalizability that prevent its broader application. To address these challenges, we propose an Oriented FAST and Rotated BRIEF (ORB)-guided visual odometry with selective online adaptation named ORB-SfMLearner. We present a novel use of ORB features for learning-based ego-motion estimation, leading to more robust and accurate results. We also introduce the cross-attention mechanism to enhance the explainability of PoseNet and have revealed that driving direction of the vehicle can be explained through the attention weights. To improve generalizability, our selective online adaptation allows the network to rapidly and selectively adjust to the optimal parameters across different domains. Experimental results on KITTI and vKITTI datasets show that our method outperforms previous state-of-the-art deep visual odometry methods in terms of ego-motion accuracy and generalizability.
