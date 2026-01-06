@@ -210,6 +210,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
   <li>Telecommunication Systems.</li>
   <li>Journal of Engineering.</li>
   <li>Franklin Open.</li>
+  <li>Journal of King Saud University Computer and Information Sciences.</li>
   <li>Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization.</li>
 </ul>
 </details>
