@@ -23,9 +23,12 @@ main:
 
   - title: "ToonifyGB"
     url: "/ToonifyGB"
+
+  - title: "GlassesGB"
+    url: "/GlassesGB"  
     
   - title: "MFE-GAN"
     url: "/MFE-GAN"    
-
+    
   - title: "DKDS"
     url: "/DKDS"
