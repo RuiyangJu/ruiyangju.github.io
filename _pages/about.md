@@ -85,7 +85,7 @@ Kuzushiji, a pre-modern Japanese cursive script, can currently be read and under
 </div>
 
 ## 3D Head Reconstruction
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2026 Poster</div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://arxiv.org/abs/2505.10072) \\
@@ -99,6 +99,13 @@ The introduction of 3D Gaussian blendshapes has enabled the real-time reconstruc
 </div>
 </div>
 
+<div class="paper-box-related" markdown="1">
+
+- ``IEEE VR 2026 Poster`` [GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars](), **Rui-Yang Ju**, Jen-Shiun Chiang.
+
+</div>
+
+<hr style="margin-top: 20px; margin-bottom: 20px;">
 ## Document Binarization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
