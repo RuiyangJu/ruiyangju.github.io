@@ -101,7 +101,7 @@ The introduction of 3D Gaussian blendshapes has enabled the real-time reconstruc
 
 <div class="paper-box-related" markdown="1">
 
-- ``IEEE VR 2026 Poster`` [GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars](), **Rui-Yang Ju**, Jen-Shiun Chiang.
+- ``IEEE VR 2026 Poster`` [GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars](https://arxiv.org/abs/2601.17088), **Rui-Yang Ju**, Jen-Shiun Chiang.
 
 </div>
 
