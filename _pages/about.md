@@ -41,7 +41,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 # 📢 News
 <div style="height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF; padding: 5px; border-radius: 6px; border: 1px solid #ccc;">
 <ul>
-  <li>2026.01: Two papers are accepted by <strong>IEEE VR 2026</strong> [Poster].</li>
+  <li>2026.01: Two papers are accepted by <strong>IEEE VR 2026</strong> [Poster]. (<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a> / <a href="https://ruiyangju.github.io/GlassesGB" target="_blank">Project</a>)</li>
   <li>2026.01: One paper is accepted by <strong>ICASSP 2026</strong>.</li>
   <li>2025.12: One paper is accepted by <strong>IET Image Processing</strong> (<a href="https://github.com/RuiyangJu/FCE-YOLOv8" target="_blank">GitHub</a>).</li>
   <li>2025.11: I receive the <strong>Kyoto University DoGS SPRING Fellowship</strong> for my Phd studies.</li>
