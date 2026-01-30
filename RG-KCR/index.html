@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction">
+  <meta name="keywords" content="MFE-GAN, MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction, Rui-Yang Ju">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MFE-GAN</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <!-- <link rel="icon" href="./static/images/favicon.svg"> -->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+</nav>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-3 publication-title" style="font-weight: 600;">MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://ruiyangju.github.io/">Rui-Yang Ju</a>,
+              <a href="https://www.monash.edu.my/it/staff/academic/a-prof-wong-kok-sheik">KokSheik Wong</a>,
+              <a href="https://www.neiljin.site/">Yanlin Jin</a>,
+              <a href="https://scholar.google.com/citations?user=vb5-3aQAAAAJ&hl=zh-TW">Jen-Shiun Chiang</a>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors" style="margin-top: 1em;">
+            <span class="author-block">
+              Kyoto University, Monash University Malaysia, Rice University, Tamkang University
+            </span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="pdf\MFE-GAN.pdf"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2512.14114"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/RuiyangJu/Efficient_Document_Image_Binarization"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+              <span class="link-block">
+                <a href="https://1drv.ms/f/c/56c255dd1bb9ae9e/IgAMUlmd207KTa2_WkE-BDGyAa3NmPxnI3KUEmRBO0Jrsgo"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-download"></i>
+                  </span>
+                  <span>Dataset</span>
+                  </a>
+              </span>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <div class="content has-text-centered">
+          <img src="./images/intro.png" class="center" style="width: 100%;">
+          <h5 class="subtitle has-text-justified" style="margin-top: 15px">
+          Graphs (top) and table (bottom) compare the average-score metric (ASM) with respect to total training and inference times among [Suh et al. 2022], [Ju et al. 2024], and the proposed MFE-GAN (Ours), measured on the Benchmark Dataset using an NVIDIA GeForce RTX 4090 GPU.
+          The proposed MFE-GAN, using U-Net &amp; EfficientNetV2-S as the generator, trains 16% ~ 79% faster than the compared methods, while inference time is reduced by 17% ~ 35%.
+          </h5>
+        </div>
+        <h2 class="title is-3" style="margin-top: 2em;">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Document image enhancement and binarization are commonly performed before document analysis and recognition tasks to improve the efficiency and accuracy of techniques such as optical character recognition (OCR).
+            This is because directly recognizing text in degraded documents, particularly in color images, often obtains unsatisfactory results.
+            Training independent generative adversarial networks (GANs) for each color channel can generate images where shadows and noise are effectively removed, which in turn facilitates efficient text information extraction.
+            However, employing multiple GANs for different color channels requires long training and inference times.
+            To reduce both training and inference times of models for document image enhancement and binarization, we propose MFE-GAN, an efficient GAN-based framework with multi-scale feature extraction (MFE), which incorporates Haar wavelet transformation (HWT) and normalization to process document images before feeding them into GANs for training.
+            In addition, we present novel generators, discriminators, and loss functions to improve the model's performance, and conduct ablation studies to demonstrate their effectiveness.
+            Experimental results on the Benchmark, Nabuco, and CMATERdb datasets show that the proposed MFE-GAN significantly reduces both the total training and inference times while maintaining comparable performance in comparison to state-of-the-art methods.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3" style="margin-top: 2em;">Framework</h2>
+        <div class="content has-text-justified">
+        <img src="./images/framework.png" style="width: 100%; display: block; margin: 0 auto;">
+          <br>
+          <p>
+            We propose MFE-GAN, an efficient GAN-based framework that incorporates a novel multi-scale feature extraction (MFE) module, together with the generator, discriminator, and loss functions.
+            This framework adopts a three-stage architecture: Stage 1 – Document Image Processing, Stage 2 – Document Image Enhancement, and Stage 3 – Document Image Binarization.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3" style="margin-top: 2em;">Dataset</h2>
+        <div class="content has-text-justified">
+        <img src="./images/data.png" style="width: 100%; display: block; margin: 0 auto;">
+          <br>
+          <p>
+            Examples from the three datasets used in this work: (a) Benchmark, (b) Nabuco, and (c) CMATERdb. 
+            Original images are shown on the left, and their corresponding binarized ground-truth on the right.
+            For Benchmark Dataset, the training set comprises images from DIBCO 2009 (10 images); H-DIBCO 2010 (10 images); H-DIBCO 2012 (14 images); Bickley Diary (7 images); PHIBD (15 images); and SMADI (87 images);
+            and the testing set consists of images from DIBCO 2011 (16 images); DIBCO 2013 (16 images); H-DIBCO 2014 (10 images); H-DIBCO 2016 (10 images); DIBCO 2017 (20 images); H-DIBCO 2018 (10 images); and DIBCO 2019 (20 images).
+          </p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3" style="margin-top: 2em;">Comparison</h2>
+        <div class="content has-text-justified">
+          <img src="./images/visual1.png" style="width: 100%; display: block; margin: 0 auto;">
+          <br>
+          <p>
+            Qualitative comparison of binarization methods on a sample from the DIBCO 2013 dataset: 
+            (a) Input, (b) Ground-Truth, (c) Otsu [Otsu 1979], (d) Niblack [Niblack 1985], (e) Sauvola [Sauvola et al. 2000], 
+            (f) Vo [Vo et al. 2018], (g) He [He et al. 2019], (h) Zhao [Zhao et al. 2019], (i) Suh [Suh et al. 2022], (j) Ju [Ju et al. 2024], (k) MFE-GAN (Ours).
+          </p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <img src="./images/visual2.png" style="width: 100%; display: block; margin: 0 auto;">
+          <br>
+          <p>
+            Qualitative comparison of binarization methods on a sample from the DIBCO 2019 dataset: 
+            (a) Input Image, (b) Ground-Truth, (c) Suh [Suh et al. 2022], (d) Ju [Ju et al. 2024], (e) MFE-GAN (Ours).
+          </p>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full-width">
+        <h2 class="title is-3">Reference</h2>
+        <div class="content has-text-justified">
+          <p>
+            [Suh et al. 2022] Sungho Suh, Jihun Kim, Paul Lukowic, Yong Oh Lee. 2022.
+            Two-stage generative adversarial networks for binarization of color document images. Pattern Recognition.
+          </p>
+          <p>
+            [Ju et al. 2024] Rui-Yang Ju, Yu-Shian Lin, Yanlin Jin, Chih-Chia Chen, Chun-Tse Chien, Jen-Shiun Chiang. 2024.
+            Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks. Knowledge-Based Systems
+          </p>
+          <p>
+            [Otsu 1979] Nobuyuki Otsu. 1979.
+            A Threshold Selection Method from Gray-Level Histograms. IEEE Transactions on Systems, Man, and Cybernetics.
+          </p>
+          <p>
+            [Niblack 1985] Wayne Niblack. 1985.
+            Anintroductiontodigitalimageprocessing. Strandberg Publishing Company.
+          </p>
+          <p>
+            [Sauvola et al. 2000] Jaakko Sauvola, Matti K. Pietikänen. 2000.
+            Adaptive document image binarization. Pattern Recognition.
+          </p>
+          <p>
+            [Vo et al. 2018] Quang Nhat Vo, Soo Hyung Kim, Hyung Jeong Yang, Gueesang Lee. 2018.
+            Binarization of degraded document images based on hierarchical deep supervised network. Pattern Recognition.
+          </p>
+          <p>
+            [He et al. 2019] Sheng He, Lambert Schomaker. 2019.
+            DeepOtsu: Document enhancement and binarization using iterative deep learning. Pattern Recognition.
+          </p>
+          <p>
+            [Zhao et al. 2019] Jinyuan Zhao, Cunzhao Shi, Fuxi Jia, Yanna Wang, Baihua Xiao. 2019.
+            Document image binarization with cascaded generators of conditional generative adversarial networks. Pattern Recognition.
+          </p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <strong>Conference Paper (APSIPA ASC 2025):</strong>
+      <pre><code>
+        @inproceedings{ju2025efficient,
+          title={Efficient Generative Adversarial Networks for Color Document Image Enhancement and Binarization Using Multi-Scale Feature Extraction},
+          author={Ju, Rui-Yang and Wong, KokSheik and Chiang, Jen-Shiun},
+          booktitle={2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)},
+          pages={1898--1903},
+          year={2025},
+          organization={IEEE}
+        }
+      </code></pre>
+      <strong>Journal Paper (Under Review):</strong>
+      <pre><code>
+        @article{ju2025mfegan,
+          title={MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction},
+          author={Ju, Rui-Yang and Wong, KokSheik and Jin, Yanlin and Chiang, Jen-Shiun},
+          journal={arXiv preprint arXiv:2512.14114},
+          year={2025}
+        }
+      </code></pre>
+    </div>
+</section>
+  
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+            This webpage template is from <a href="https://github.com/nerfies/nerfies.github.io">Nerfies</a>. 
+          </p>
+          <p>
+            If you have any questions, you can contact me via my <a href="https://ruiyangju.github.io/">homepage</a>.
+          </p>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
