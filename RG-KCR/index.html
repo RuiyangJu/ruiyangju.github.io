@@ -137,13 +137,13 @@
         </div>
         <h2 class="title is-3">Motivation</h2>
         <div class="content has-text-justified" style="margin-bottom: 6rem;">
-          <img src="./images/errors.png" style="display:block; margin:0 auto; width:80%">
+          <img src="./images/fig_intro.png" style="display:block; margin:0 auto; width:80%">
           <br>
           <p>
-            In ancient Japanese documents, seals often appear as red marks that overlap with Kuzushiji characters. 
-            Such overlap can blur characters and substantially reduce OCR accuracy.
-            From left to right, the observed OCR errors include recognition of extra character, recognition of incorrect character, and misclassification of seal inscriptions as text.
-            OCR was conducted using the “miwo” application [Clanuwat et al. 2021].
+            To the best of our knowledge, existing Kuzushiji character recognition systems have not explicitly addressed the impact of seal interference, which frequently overlaps with characters and substantially degrades recognition performance.
+            Here are the example recognition results produced by different methods under seal interference.
+            The left column shows the input Kuzushiji characters “尚書堂梓”, while the right column presents the corresponding recognition outputs of three methods: Komonjo Camera (Fuminoha) [31], NDLkotenOCR-Lite [1], and Metom [13].
+            The first row displays the raw document as input, whereas the second row shows the recognition results after applying our proposed document restoration method.
           </p>
         </div>
       </div>
