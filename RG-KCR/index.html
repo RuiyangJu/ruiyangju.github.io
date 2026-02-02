@@ -151,13 +151,13 @@
 
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
-        <h2 class="title is-3">Challenges in Track 1: Text and Seal Detection</h2>
+        <h2 class="title is-3">Data Correction</h2>
         <div class="content has-text-justified" style="margin-bottom: 6rem;">
-          <img src="./images/challenge_1.png" style="display:block; margin:0 auto; width:80%">
+          <img src="./images/fig_correction.png" style="display:block; margin:0 auto; width:80%">
           <p>
-            Text and seal detection serves as a crucial preliminary step for subsequent Kuzushiji OCR and seal analysis. 
-            However, this task is challenging because seals may suffer from ink fading or overlap with Kuzushiji characters or other seals, 
-            which often leads to reduced detection accuracy.
+            The raw Kuzushiji document images are obtained from the Center for Open Data in the Humanities (CODH) dataset [24], held by the National Institute of Japanese Literature (NIJL).
+            We select 13 representative documents and exclude pages without Kuzushiji characters, resulting in a dataset of 1,000 images.
+            During annotation review, 267 images are found to contain incomplete labels, which we manually correct by adding missing character bounding boxes to improve annotation quality.
           </p>
         </div>
         <h2 class="title is-3">Challenges in Track 2: Document Binarization</h2>
