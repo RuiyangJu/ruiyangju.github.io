@@ -142,7 +142,7 @@
           <p>
             To the best of our knowledge, existing Kuzushiji character recognition systems have not explicitly addressed the impact of seal interference, which frequently overlaps with characters and substantially degrades recognition performance.
             Here are the example recognition results produced by different methods under seal interference.
-            The left column shows the input Kuzushiji characters “尚書堂梓”, while the right column presents the corresponding recognition outputs of three methods: Komonjo Camera (Fuminoha) [toppan 2023], NDLkotenOCR-Lite [aoike 2024], and Metom [imajuku 2024].
+            The left column shows the input Kuzushiji characters “尚書堂梓”, while the right column presents the corresponding recognition outputs of three methods: Komonjo Camera (Fuminoha) [TOPPAN 2023], NDLkotenOCR-Lite [Aoike et al. 2024], and Metom [Imajuku et al. 2024].
             The first row displays the raw document as input, whereas the second row shows the recognition results after applying our proposed document restoration method.
           </p>
         </div>
@@ -155,7 +155,7 @@
         <div class="content has-text-justified" style="margin-bottom: 6rem;">
           <img src="./images/fig_correction.png" style="display:block; margin:0 auto; width:100%">
           <p>
-            The raw Kuzushiji document images are obtained from the Center for Open Data in the Humanities (CODH) dataset [nijl 2016], held by the National Institute of Japanese Literature (NIJL).
+            The raw Kuzushiji document images are obtained from the Center for Open Data in the Humanities (CODH) dataset [NIJL 2016], held by the National Institute of Japanese Literature (NIJL).
             We select 13 representative documents and exclude pages without Kuzushiji characters, resulting in a dataset of 1,000 images.
             During annotation review, 267 images are found to contain incomplete labels, which we manually correct by adding missing character bounding boxes to improve annotation quality.
             Here are the examples of incomplete annotations in the raw dataset, where red boxes are our manual annotations and green boxes indicate the original ones.
@@ -179,7 +179,7 @@
           <img src="./images/fig_yolo12.png" style="display:block; margin:0 auto; width:100%">
           <br>
           <p>
-            Examples of qualitative detection results produced by YOLOv12-medium [tian 2025] on Kuzushiji document images from the constructed dataset.
+            Examples of qualitative detection results produced by YOLOv12-medium [Tian et al. 2025] on Kuzushiji document images from the constructed dataset.
           </p>
         </div>
       </div>
