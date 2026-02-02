@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="description"
-        content="Restoration-Guided Kuzushiji Character Recognition Framework under Seal Interference">
-  <meta name="keywords" content="RG-KCR, Restoration-Guided Kuzushiji Character Recognition Framework under Seal Interference, Rui-Yang Ju">
+        content="DKDS: A Benchmark Dataset of Degraded Kuzushiji Documents with Seals for Detection and Binarization">
+  <meta name="keywords" content="DKDS, Degraded Kuzushiji Documents with Seals Dataset, Rui-Yang Ju">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>RG-KCR</title>
+  <title>DKDS Dataset</title>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
@@ -58,27 +58,25 @@
     <div class="container is-max-desktop">
       <div class="columns is-centered">
         <div class="column has-text-centered">
-          <h1 class="title is-3 publication-title" style="font-weight: 600;">Restoration-Guided Kuzushiji Character Recognition Framework under Seal Interference</h1>
+          <h1 class="title is-3 publication-title" style="font-weight: 600;">DKDS: A Benchmark Dataset of <u>D</u>egraded <u>K</u>uzushiji <u>D</u>ocuments with <u>S</u>eals for Detection and Binarization</h1>
           <div class="is-size-5 publication-authors">
             <span class="author-block">
               <a href="https://ruiyangju.github.io/">Rui-Yang Ju</a>,
-              <a href="https://www.monash.edu.my/it/staff/academic/a-prof-wong-kok-sheik">KokSheik Wong</a>,
-              <a href="https://www.neiljin.site/">Yanlin Jin</a>,
-              <a href="https://scholar.google.com/citations?user=vb5-3aQAAAAJ&hl=zh-TW">Jen-Shiun Chiang</a>
+              <span>Kohei Yamashita</span>,
+              <a href="https://hkmk.github.io/">Hirotaka Kameko</a>,
+              <a href="https://www.lsta.media.kyoto-u.ac.jp/mori/author/">Shinsuke Mori</a>
             </span>
           </div>
 
-          <div class="is-size-5 publication-authors" style="margin-top: 1em;">
-            <span class="author-block">
-              Kyoto University, Monash University Malaysia, Rice University, Tamkang University
-            </span>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">Kyoto University</span>
           </div>
 
           <div class="column has-text-centered">
             <div class="publication-links">
               <!-- PDF Link. -->
               <span class="link-block">
-                <a href="pdf\MFE-GAN.pdf"
+                <a href="pdf\paper.pdf"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fas fa-file-pdf"></i>
@@ -86,8 +84,9 @@
                   <span>Paper</span>
                 </a>
               </span>
+              <!-- arXiv Link. -->
               <span class="link-block">
-                <a href="https://arxiv.org/abs/2512.14114"
+                <a href="https://arxiv.org/abs/2511.09117"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="ai ai-arxiv"></i>
@@ -97,7 +96,7 @@
               </span>
               <!-- Code Link. -->
               <span class="link-block">
-                <a href="https://github.com/RuiyangJu/Efficient_Document_Image_Binarization"
+                <a href="https://github.com/RuiyangJu/DKDS"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fab fa-github"></i>
@@ -107,7 +106,7 @@
               </span>
               <!-- Dataset Link. -->
               <span class="link-block">
-                <a href="https://1drv.ms/f/c/56c255dd1bb9ae9e/IgAMUlmd207KTa2_WkE-BDGyAa3NmPxnI3KUEmRBO0Jrsgo"
+                <a href="https://1drv.ms/f/c/56c255dd1bb9ae9e/EkN7LXxTVopEsmCtYf5p7hYB3SkvocdZyr1O3yRck9We8A?e=xjZ5Cp"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fas fa-download"></i>
@@ -129,23 +128,22 @@
   <div class="container is-max-desktop">
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
-        <div class="content has-text-centered">
-          <img src="./images/intro.png" class="center" style="width: 100%;">
+        <div class="content has-text-justified" style="margin-bottom: 6rem;">
+          <img src="./images/teaser.png" style="display:block; margin:0 auto; width:80%">
           <h5 class="subtitle has-text-justified" style="margin-top: 15px">
-          Graphs (top) and table (bottom) compare the average-score metric (ASM) with respect to total training and inference times among [Suh et al. 2022], [Ju et al. 2024], and the proposed MFE-GAN (Ours), measured on the Benchmark Dataset using an NVIDIA GeForce RTX 4090 GPU.
-          The proposed MFE-GAN, using U-Net &amp; EfficientNetV2-S as the generator, trains 16% ~ 79% faster than the compared methods, while inference time is reduced by 17% ~ 35%.
+            DKDS dataset is the first collection of degraded ancient Japanese document images specifically designed to address the challenge of Kuzushiji characters overlapping with seals.
+            Based on the dataset, we define two benchmark tracks: (1) Text and Seal Detection, and (2) Document Binarization.
           </h5>
         </div>
-        <h2 class="title is-3" style="margin-top: 2em;">Abstract</h2>
-        <div class="content has-text-justified">
+        <h2 class="title is-3">Motivation</h2>
+        <div class="content has-text-justified" style="margin-bottom: 6rem;">
+          <img src="./images/errors.png" style="display:block; margin:0 auto; width:80%">
+          <br>
           <p>
-            Document image enhancement and binarization are commonly performed before document analysis and recognition tasks to improve the efficiency and accuracy of techniques such as optical character recognition (OCR).
-            This is because directly recognizing text in degraded documents, particularly in color images, often obtains unsatisfactory results.
-            Training independent generative adversarial networks (GANs) for each color channel can generate images where shadows and noise are effectively removed, which in turn facilitates efficient text information extraction.
-            However, employing multiple GANs for different color channels requires long training and inference times.
-            To reduce both training and inference times of models for document image enhancement and binarization, we propose MFE-GAN, an efficient GAN-based framework with multi-scale feature extraction (MFE), which incorporates Haar wavelet transformation (HWT) and normalization to process document images before feeding them into GANs for training.
-            In addition, we present novel generators, discriminators, and loss functions to improve the model's performance, and conduct ablation studies to demonstrate their effectiveness.
-            Experimental results on the Benchmark, Nabuco, and CMATERdb datasets show that the proposed MFE-GAN significantly reduces both the total training and inference times while maintaining comparable performance in comparison to state-of-the-art methods.
+            In ancient Japanese documents, seals often appear as red marks that overlap with Kuzushiji characters. 
+            Such overlap can blur characters and substantially reduce OCR accuracy.
+            From left to right, the observed OCR errors include recognition of extra character, recognition of incorrect character, and misclassification of seal inscriptions as text.
+            OCR was conducted using the “miwo” application [Clanuwat et al. 2021].
           </p>
         </div>
       </div>
@@ -153,13 +151,22 @@
 
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
-        <h2 class="title is-3" style="margin-top: 2em;">Framework</h2>
-        <div class="content has-text-justified">
-        <img src="./images/framework.png" style="width: 100%; display: block; margin: 0 auto;">
-          <br>
+        <h2 class="title is-3">Challenges in Track 1: Text and Seal Detection</h2>
+        <div class="content has-text-justified" style="margin-bottom: 6rem;">
+          <img src="./images/challenge_1.png" style="display:block; margin:0 auto; width:80%">
           <p>
-            We propose MFE-GAN, an efficient GAN-based framework that incorporates a novel multi-scale feature extraction (MFE) module, together with the generator, discriminator, and loss functions.
-            This framework adopts a three-stage architecture: Stage 1 – Document Image Processing, Stage 2 – Document Image Enhancement, and Stage 3 – Document Image Binarization.
+            Text and seal detection serves as a crucial preliminary step for subsequent Kuzushiji OCR and seal analysis. 
+            However, this task is challenging because seals may suffer from ink fading or overlap with Kuzushiji characters or other seals, 
+            which often leads to reduced detection accuracy.
+          </p>
+        </div>
+        <h2 class="title is-3">Challenges in Track 2: Document Binarization</h2>
+        <div class="content has-text-justified" style="margin-bottom: 6rem;">
+          <img src="./images/challenge_2.png" style="display:block; margin:0 auto; width:80%">
+          <p>
+            Document binarization aims to improve the accuracy of downstream OCR systems. 
+            In this task, the objective is to remove seals while preserving, or even restoring, Kuzushiji characters as much as possible. 
+            This process becomes particularly challenging when the Kuzushiji characters overlap with seals.
           </p>
         </div>
       </div>
@@ -167,118 +174,96 @@
 
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
-        <h2 class="title is-3" style="margin-top: 2em;">Dataset</h2>
+        <h2 class="title is-3">Workflow of The Dataset Construction</h2>
         <div class="content has-text-justified">
-        <img src="./images/data.png" style="width: 100%; display: block; margin: 0 auto;">
+          <img src="./images/framework.png" style="display:block; margin:0 auto; width:80%">
           <br>
           <p>
-            Examples from the three datasets used in this work: (a) Benchmark, (b) Nabuco, and (c) CMATERdb. 
-            Original images are shown on the left, and their corresponding binarized ground-truth on the right.
-            For Benchmark Dataset, the training set comprises images from DIBCO 2009 (10 images); H-DIBCO 2010 (10 images); H-DIBCO 2012 (14 images); Bickley Diary (7 images); PHIBD (15 images); and SMADI (87 images);
-            and the testing set consists of images from DIBCO 2011 (16 images); DIBCO 2013 (16 images); H-DIBCO 2014 (10 images); H-DIBCO 2016 (10 images); DIBCO 2017 (20 images); H-DIBCO 2018 (10 images); and DIBCO 2019 (20 images).
+              The overall workflow for constructing the proposed DKDS dataset includes detection annotations, initial binarization ground-truth generation, verification, and manual correction. 
+              For detection annotations, bounding box information for Kuzushiji characters was sourced from the OCR annotations provided by CODH [国文学研究資料館], while bounding boxes for the seals were recorded during the process of randomly adding them to the Kuzushiji document images.
+              The initial binarization ground-truth was generated following the method of [Ju et al., 2024], and verification was performed by a trained Kuzushiji expert.
           </p>
         </div>
       </div>
     </div>
-    
+
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
-        <h2 class="title is-3" style="margin-top: 2em;">Comparison</h2>
+        <h2 class="title is-3">Verification by a Trained Kuzushiji Expert</h2>
         <div class="content has-text-justified">
-          <img src="./images/visual1.png" style="width: 100%; display: block; margin: 0 auto;">
+          <img src="./images/verification.png" style="display:block; margin:0 auto; width:80%">
           <br>
           <p>
-            Qualitative comparison of binarization methods on a sample from the DIBCO 2013 dataset: 
-            (a) Input, (b) Ground-Truth, (c) Otsu [Otsu 1979], (d) Niblack [Niblack 1985], (e) Sauvola [Sauvola et al. 2000], 
-            (f) Vo [Vo et al. 2018], (g) He [He et al. 2019], (h) Zhao [Zhao et al. 2019], (i) Suh [Suh et al. 2022], (j) Ju [Ju et al. 2024], (k) MFE-GAN (Ours).
-          </p>
-          <p>&nbsp;</p>
-          <p>&nbsp;</p>
-          <img src="./images/visual2.png" style="width: 100%; display: block; margin: 0 auto;">
-          <br>
-          <p>
-            Qualitative comparison of binarization methods on a sample from the DIBCO 2019 dataset: 
-            (a) Input Image, (b) Ground-Truth, (c) Suh [Suh et al. 2022], (d) Ju [Ju et al. 2024], (e) MFE-GAN (Ours).
+            A trained Kuzushiji expert manually reviewed the initial outputs generated by the pre-trained binarization model. 
+            The preliminary binarization results frequently contained various types of errors, requiring the expert to identify and correct issues such as missing marginal annotations, voiced sound marks, punctuation symbols, and residual background stains. 
+            After manual refinement, these corrections were incorporated to produce the final binarization ground truth.
           </p>
         </div>
       </div>
     </div>
-    
+  
   </div>
 </section>
 
 <section class="section">
+  <div class="container is-max-desktop content">
+    <div class="license-block" style="margin-bottom: 1.5em;">
+      <img src="./images/CC-BY-SA.png" alt="CC BY-SA 4.0 License" style="vertical-align: middle;">
+      This benchmark dataset is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" style="margin-left: 8px;">Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)</a>.
+    </div>
+  </div>
+  
   <div class="container is-max-desktop">
     <div class="columns is-centered">
       <div class="column is-full-width">
         <h2 class="title is-3">Reference</h2>
+        <!-- Prop. -->
         <div class="content has-text-justified">
           <p>
-            [Suh et al. 2022] Sungho Suh, Jihun Kim, Paul Lukowic, Yong Oh Lee. 2022.
-            Two-stage generative adversarial networks for binarization of color document images. Pattern Recognition.
+            [Clanuwat et al. 2021] Clanuwat, Tarin, and Asanobu Kitamoto. 
+            `miwo' AI Kuzushiji Recognition Application for Document Examination.
+            Proceeding of IPSJ Humanities and Computer Symposium. 2021.
           </p>
           <p>
-            [Ju et al. 2024] Rui-Yang Ju, Yu-Shian Lin, Yanlin Jin, Chih-Chia Chen, Chun-Tse Chien, Jen-Shiun Chiang. 2024.
-            Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks. Knowledge-Based Systems
-          </p>
-          <p>
-            [Otsu 1979] Nobuyuki Otsu. 1979.
-            A Threshold Selection Method from Gray-Level Histograms. IEEE Transactions on Systems, Man, and Cybernetics.
-          </p>
-          <p>
-            [Niblack 1985] Wayne Niblack. 1985.
-            Anintroductiontodigitalimageprocessing. Strandberg Publishing Company.
-          </p>
-          <p>
-            [Sauvola et al. 2000] Jaakko Sauvola, Matti K. Pietikänen. 2000.
-            Adaptive document image binarization. Pattern Recognition.
-          </p>
-          <p>
-            [Vo et al. 2018] Quang Nhat Vo, Soo Hyung Kim, Hyung Jeong Yang, Gueesang Lee. 2018.
-            Binarization of degraded document images based on hierarchical deep supervised network. Pattern Recognition.
-          </p>
-          <p>
-            [He et al. 2019] Sheng He, Lambert Schomaker. 2019.
-            DeepOtsu: Document enhancement and binarization using iterative deep learning. Pattern Recognition.
-          </p>
-          <p>
-            [Zhao et al. 2019] Jinyuan Zhao, Cunzhao Shi, Fuxi Jia, Yanna Wang, Baihua Xiao. 2019.
-            Document image binarization with cascaded generators of conditional generative adversarial networks. Pattern Recognition.
+            [国文学研究資料館] 国文学研究資料館. 日本古典籍くずし字データセット. https://doi.org/10.20676/00000340.
           </p>
         </div>
       </div>
     </div>
-    
-    <div class="container is-max-desktop content">
-      <h2 class="title">BibTeX</h2>
-      <strong>Conference Paper (APSIPA ASC 2025):</strong>
-      <pre><code>
-        @inproceedings{ju2025efficient,
-          title={Efficient Generative Adversarial Networks for Color Document Image Enhancement and Binarization Using Multi-Scale Feature Extraction},
-          author={Ju, Rui-Yang and Wong, KokSheik and Chiang, Jen-Shiun},
-          booktitle={2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)},
-          pages={1898--1903},
-          year={2025},
-          organization={IEEE}
-        }
-      </code></pre>
-      <strong>Journal Paper (Under Review):</strong>
-      <pre><code>
-        @article{ju2025mfegan,
-          title={MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction},
-          author={Ju, Rui-Yang and Wong, KokSheik and Jin, Yanlin and Chiang, Jen-Shiun},
-          journal={arXiv preprint arXiv:2512.14114},
-          year={2025}
-        }
-      </code></pre>
-    </div>
+
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <strong>If you use our dataset, please cite the paper below:</strong>
+  <pre><code>
+  @article{ju2025dkds,
+    title={DKDS: A Benchmark Dataset of Degraded Kuzushiji Documents with Seals for Detection and Binarization},
+    author={Ju, Rui-Yang and Yamashita, Kohei and Kameko, Hirotaka and Mori, Shinsuke},
+    journal={arXiv preprint arXiv:2511.09117},
+    year={2025}
+  }
+  </code></pre>
+    <strong>The following is the citation of the original Kuzushiji dataset; please cite it when using our benchmark dataset:</strong>
+  <pre><code>
+  『日本古典籍くずし字データセット』 （国文研所蔵／CODH加工） doi:10.20676/00000340      
+  </code></pre>
+  </div>
 </section>
-  
+
 <footer class="footer">
   <div class="container">
     <div class="columns is-centered">
       <div class="column is-8">
         <div class="content">
+          <p>
+            The original Kuzushiji dataset used in this work is based on the <strong>『日本古典籍くずし字データセット』</strong> （国文研所蔵／CODH加工）, provided by <a href="https://codh.rois.ac.jp/">ROIS-DS人文学オープンデータ共同利用センター(CODH)</a>,
+            which is licensed under the<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)</a>.
+          </p>
+
+          <p>
+            All modifications were performed by <strong>Rui-Yang Ju</strong>. 
+            This is an independent derivative work and is <strong>not affiliated with or endorsed by the original Kuzushiji dataset authors or their institutions</strong>. 
+          </p>
+          
           <p>
             This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
             This webpage template is from <a href="https://github.com/nerfies/nerfies.github.io">Nerfies</a>. 
@@ -286,7 +271,6 @@
           <p>
             If you have any questions, you can contact me via my <a href="https://ruiyangju.github.io/">homepage</a>.
           </p>
-          
         </div>
       </div>
     </div>
