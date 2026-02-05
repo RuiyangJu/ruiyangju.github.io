@@ -1,9 +1,10 @@
+# main links links
 main:
   - title: "About Me"
     url: "/#about-me"
 
   - title: "News"
-    url: "/#news"
+    url: "/#-news"
 
   - title: "Publication"
     url: "/#publication"
