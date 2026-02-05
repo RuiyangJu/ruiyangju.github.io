@@ -18,20 +18,23 @@ main:
   - title: "Education"
     url: "/#education"
 
-  - title: "GRAZPEDWRI-DX_JU"
-    url: "/GRAZPEDWRI-DX_JU"
+  - title: "Projects"
+    url: "/#projects"
+    children:
+      - title: "GRAZPEDWRI-DX_JU"
+        url: "/GRAZPEDWRI-DX_JU"
 
-  - title: "ToonifyGB"
-    url: "/ToonifyGB"
+      - title: "ToonifyGB"
+        url: "/ToonifyGB"
 
-  - title: "GlassesGB"
-    url: "/GlassesGB"  
-    
-  - title: "MFE-GAN"
-    url: "/MFE-GAN"    
-    
-  - title: "DKDS"
-    url: "/DKDS"
+      - title: "GlassesGB"
+        url: "/GlassesGB"
 
-  - title: "RG-KCR"
-    url: "/RG-KCR"
+      - title: "MFE-GAN"
+        url: "/MFE-GAN"
+
+      - title: "DKDS"
+        url: "/DKDS"
+
+      - title: "RG-KCR"
+        url: "/RG-KCR"
