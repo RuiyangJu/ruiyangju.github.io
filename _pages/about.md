@@ -84,6 +84,12 @@ Kuzushiji, a pre-modern Japanese cursive script, can currently be read and under
 </div>
 </div>
 
+<div class="paper-box-related" markdown="1">
+
+- ``Under Review`` Restoration-Guided Kuzushiji Character Recognition Framework under Seal Interference, **Rui-Yang Ju**, Kohei Yamashita, Hirotaka Kameko, Shinsuke Mori.
+
+</div>
+
 ## 3D Head Reconstruction
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2026 Poster</div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
