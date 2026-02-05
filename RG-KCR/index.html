@@ -135,6 +135,20 @@
             A training-free document restoration algorithm is introduced in Stage 2 to mitigate seal interference prior to character classification in Stage 3.
           </h5>
         </div>
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified" style="margin-bottom: 6rem;">
+          <br>
+          <p>
+            Kuzushiji was one of the most popular writing styles in pre-modern Japan and was widely used in both personal letters and official documents.
+            However, due to its highly cursive forms and extensive glyph variations, most modern Japanese readers cannot directly interpret Kuzushiji characters.
+            Therefore, recent research has focused on developing automated Kuzushiji character recognition methods, which have achieved satisfactory performance on relatively clean Kuzushiji document images.
+            However, existing methods struggle to maintain recognition accuracy under seal interference (e.g., when seals overlap characters), despite the frequent occurrence of seals in pre-modern Japanese documents.
+            To address this challenge, we propose a three-stage restoration-guided Kuzushiji character recognition (RG-KCR) framework specifically designed to mitigate seal interference.
+            We also construct datasets for evaluating Kuzushiji character detection (Stage 1) and classification (Stage 3).
+            Experimental results show that the YOLOv12-medium model achieves a precision of 98.0% and a recall of 93.3% on the constructed test set.
+            We quantitatively evaluate the restoration quality of Stage 2 using PSNR and SSIM.
+            In addition, we conduct an ablation study to demonstrate that Stage 2 improves the Top-1 accuracy of Metom, a Vision Transformer (ViT)-based Kuzushiji classifier used in Stage 3, from 93.45% to 95.33%.          </p>
+        </div>
         <h2 class="title is-3">Motivation</h2>
         <div class="content has-text-justified" style="margin-bottom: 6rem;">
           <img src="./images/fig_intro.png" style="display:block; margin:0 auto; width:100%">
