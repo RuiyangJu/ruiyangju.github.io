@@ -2,36 +2,29 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
   - title: "News"
-    url: "/#-news"
-
+    url: "/#news"
   - title: "Publication"
     url: "/#publication"
-
   - title: "Professional Service"
     url: "/#professional-service"
-
   - title: "Funding"
     url: "/#funding"
-
   - title: "Education"
     url: "/#education"
+  - title: "Projects"
+    url: "/projects/"
 
+projects:
   - title: "GRAZPEDWRI-DX_JU"
     url: "/GRAZPEDWRI-DX_JU"
-
   - title: "ToonifyGB"
     url: "/ToonifyGB"
-
   - title: "GlassesGB"
     url: "/GlassesGB"
-
   - title: "MFE-GAN"
     url: "/MFE-GAN"
-
   - title: "DKDS"
     url: "/DKDS"
-
   - title: "RG-KCR"
     url: "/RG-KCR"
