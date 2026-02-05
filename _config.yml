@@ -123,7 +123,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: defaults
       author_profile: true
 
 
