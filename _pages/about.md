@@ -235,6 +235,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 <details>
 <summary>View more</summary>
 <ul>
+  <li>ACM Conference on Human Factors in Computing Systems (CHI), Barcelona, Spain, 2026, Poster Reviewer.</li>
   <li>International Joint Conference on Neural Networks (IJCNN), Maastricht, Netherlands, 2026, Reviewer.</li>
   <li>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026, Reviewer.</li>
   <li>AAAI Conference on Artificial Intelligence (AAAI), Singapore, 2026, Reviwer.</li>
