@@ -213,6 +213,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
   <li>Multimedia Tools and Applications.</li>
   <li>The Visual Computer.</li>
   <li>Scientific Reports.</li>
+  <li>Engineering Reports</li>
   <li>npj Heritage Science.</li>
   <li>Cognitive Computation.</li>
   <li>International Journal of Multimedia Information Retrieval.</li>
