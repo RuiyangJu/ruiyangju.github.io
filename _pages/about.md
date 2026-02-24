@@ -207,7 +207,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
   <li>Neural Networks.</li>
   <li>IEEE Signal Processing Letters.</li>
   <li>Engineering Applications of Artificial Intelligence.</li>
-  <li>IET Image Processing</li>
+  <li>IET Signal Processing</li>
   <li>Alexandria Engineering Journal.</li>
   <li>Computer Vision and Image Understanding.</li>
   <li>Multimedia Tools and Applications.</li>
