@@ -1,58 +1,111 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <activities:peer-reviews path="/0000-0003-2240-1377/peer-reviews" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:education="http://www.orcid.org/ns/education" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:error="http://www.orcid.org/ns/error" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:email="http://www.orcid.org/ns/email" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:address="http://www.orcid.org/ns/address" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:service="http://www.orcid.org/ns/service" xmlns:person="http://www.orcid.org/ns/person" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:peer-review="http://www.orcid.org/ns/peer-review" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:research-resource="http://www.orcid.org/ns/research-resource">
-    <common:last-modified-date>2026-02-19T16:50:41.800Z</common:last-modified-date>
+    <common:last-modified-date>2026-02-28T06:52:49.151Z</common:last-modified-date>
     <activities:group>
-        <common:last-modified-date>2026-01-06T06:05:24.004Z</common:last-modified-date>
+        <common:last-modified-date>2026-02-28T06:52:49.151Z</common:last-modified-date>
         <common:external-ids>
             <common:external-id>
                 <common:external-id-type>peer-review</common:external-id-type>
-                <common:external-id-value>issn:2213-1248</common:external-id-value>
+                <common:external-id-value>issn:1380-7501</common:external-id-value>
             </common:external-id>
         </common:external-ids>
         <activities:peer-review-group>
-            <common:last-modified-date>2026-01-06T06:05:24.004Z</common:last-modified-date>
+            <common:last-modified-date>2026-02-28T06:52:49.151Z</common:last-modified-date>
             <common:external-ids>
                 <common:external-id>
-                    <common:external-id-type>other-id</common:external-id-type>
-                    <common:external-id-value>gox0xpqz</common:external-id-value>
-                    <common:external-id-normalized transient="true">gox0xpqz</common:external-id-normalized>
-                    <common:external-id-url>https://publons.com/wos-op/review/author/gox0xpqz/</common:external-id-url>
+                    <common:external-id-type>source-work-id</common:external-id-type>
+                    <common:external-id-value>0e1edba3-d531-4638-9f3a-684d1382eb5e</common:external-id-value>
+                    <common:external-id-normalized transient="true">0e1edba3-d531-4638-9f3a-684d1382eb5e</common:external-id-normalized>
+                    <common:external-id-url></common:external-id-url>
                     <common:external-id-relationship>self</common:external-id-relationship>
                 </common:external-id>
             </common:external-ids>
-            <peer-review:peer-review-summary put-code="24151764" path="/0000-0003-2240-1377/peer-review/24151764" visibility="public" display-index="1">
-                <common:created-date>2026-01-06T06:05:24.004Z</common:created-date>
-                <common:last-modified-date>2026-01-06T06:05:24.004Z</common:last-modified-date>
+            <peer-review:peer-review-summary put-code="25936693" path="/0000-0003-2240-1377/peer-review/25936693" visibility="public" display-index="1">
+                <common:created-date>2026-02-28T06:52:49.151Z</common:created-date>
+                <common:last-modified-date>2026-02-28T06:52:49.151Z</common:last-modified-date>
                 <common:source>
                     <common:source-client-id>
-                        <common:uri>https://orcid.org/client/APP-PIPD3W8Z8DY9GESR</common:uri>
-                        <common:path>APP-PIPD3W8Z8DY9GESR</common:path>
+                        <common:uri>https://orcid.org/client/APP-945VYTN20C7BZXYT</common:uri>
+                        <common:path>APP-945VYTN20C7BZXYT</common:path>
                         <common:host>orcid.org</common:host>
                     </common:source-client-id>
-                    <common:source-name>Clarivate SSO</common:source-name>
+                    <common:source-name>Springer Nature @ Editorial Manager</common:source-name>
                 </common:source>
                 <peer-review:reviewer-role>reviewer</peer-review:reviewer-role>
                 <common:external-ids>
                     <common:external-id>
-                        <common:external-id-type>other-id</common:external-id-type>
-                        <common:external-id-value>gox0xpqz</common:external-id-value>
-                        <common:external-id-normalized transient="true">gox0xpqz</common:external-id-normalized>
-                        <common:external-id-url>https://publons.com/wos-op/review/author/gox0xpqz/</common:external-id-url>
+                        <common:external-id-type>source-work-id</common:external-id-type>
+                        <common:external-id-value>0e1edba3-d531-4638-9f3a-684d1382eb5e</common:external-id-value>
+                        <common:external-id-normalized transient="true">0e1edba3-d531-4638-9f3a-684d1382eb5e</common:external-id-normalized>
+                        <common:external-id-url></common:external-id-url>
                         <common:external-id-relationship>self</common:external-id-relationship>
                     </common:external-id>
                 </common:external-ids>
-                <peer-review:review-url>https://publons.com/wos-op/review/author/gox0xpqz/</peer-review:review-url>
                 <peer-review:review-type>review</peer-review:review-type>
                 <peer-review:completion-date>
                     <common:year>2026</common:year>
                 </peer-review:completion-date>
-                <peer-review:review-group-id>issn:2213-1248</peer-review:review-group-id>
+                <peer-review:review-group-id>issn:1380-7501</peer-review:review-group-id>
                 <peer-review:convening-organization>
-                    <common:name>Clarivate PLC</common:name>
+                    <common:name>Springer Nature</common:name>
                     <common:address>
-                        <common:city>London</common:city>
-                        <common:country>GB</common:country>
+                        <common:city>New York</common:city>
+                        <common:country>US</common:country>
                     </common:address>
+                    <common:disambiguated-organization>
+                        <common:disambiguated-organization-identifier>grid.467660.5</common:disambiguated-organization-identifier>
+                        <common:disambiguation-source>GRID</common:disambiguation-source>
+                    </common:disambiguated-organization>
+                </peer-review:convening-organization>
+            </peer-review:peer-review-summary>
+        </activities:peer-review-group>
+        <activities:peer-review-group>
+            <common:last-modified-date>2026-01-31T07:10:46.678Z</common:last-modified-date>
+            <common:external-ids>
+                <common:external-id>
+                    <common:external-id-type>source-work-id</common:external-id-type>
+                    <common:external-id-value>aa608674-dafd-4dc5-b174-fadea49d3dfc</common:external-id-value>
+                    <common:external-id-normalized transient="true">aa608674-dafd-4dc5-b174-fadea49d3dfc</common:external-id-normalized>
+                    <common:external-id-url></common:external-id-url>
+                    <common:external-id-relationship>self</common:external-id-relationship>
+                </common:external-id>
+            </common:external-ids>
+            <peer-review:peer-review-summary put-code="24501522" path="/0000-0003-2240-1377/peer-review/24501522" visibility="public" display-index="1">
+                <common:created-date>2026-01-31T07:10:46.678Z</common:created-date>
+                <common:last-modified-date>2026-01-31T07:10:46.678Z</common:last-modified-date>
+                <common:source>
+                    <common:source-client-id>
+                        <common:uri>https://orcid.org/client/APP-945VYTN20C7BZXYT</common:uri>
+                        <common:path>APP-945VYTN20C7BZXYT</common:path>
+                        <common:host>orcid.org</common:host>
+                    </common:source-client-id>
+                    <common:source-name>Springer Nature @ Editorial Manager</common:source-name>
+                </common:source>
+                <peer-review:reviewer-role>reviewer</peer-review:reviewer-role>
+                <common:external-ids>
+                    <common:external-id>
+                        <common:external-id-type>source-work-id</common:external-id-type>
+                        <common:external-id-value>aa608674-dafd-4dc5-b174-fadea49d3dfc</common:external-id-value>
+                        <common:external-id-normalized transient="true">aa608674-dafd-4dc5-b174-fadea49d3dfc</common:external-id-normalized>
+                        <common:external-id-url></common:external-id-url>
+                        <common:external-id-relationship>self</common:external-id-relationship>
+                    </common:external-id>
+                </common:external-ids>
+                <peer-review:review-type>review</peer-review:review-type>
+                <peer-review:completion-date>
+                    <common:year>2025</common:year>
+                </peer-review:completion-date>
+                <peer-review:review-group-id>issn:1380-7501</peer-review:review-group-id>
+                <peer-review:convening-organization>
+                    <common:name>Springer Nature</common:name>
+                    <common:address>
+                        <common:city>New York</common:city>
+                        <common:country>US</common:country>
+                    </common:address>
+                    <common:disambiguated-organization>
+                        <common:disambiguated-organization-identifier>grid.467660.5</common:disambiguated-organization-identifier>
+                        <common:disambiguation-source>GRID</common:disambiguation-source>
+                    </common:disambiguated-organization>
                 </peer-review:convening-organization>
             </peer-review:peer-review-summary>
         </activities:peer-review-group>
@@ -291,6 +344,62 @@
                     <common:year>2025</common:year>
                 </peer-review:completion-date>
                 <peer-review:review-group-id>issn:1873-6769</peer-review:review-group-id>
+                <peer-review:convening-organization>
+                    <common:name>Clarivate PLC</common:name>
+                    <common:address>
+                        <common:city>London</common:city>
+                        <common:country>GB</common:country>
+                    </common:address>
+                </peer-review:convening-organization>
+            </peer-review:peer-review-summary>
+        </activities:peer-review-group>
+    </activities:group>
+    <activities:group>
+        <common:last-modified-date>2026-01-06T06:05:24.004Z</common:last-modified-date>
+        <common:external-ids>
+            <common:external-id>
+                <common:external-id-type>peer-review</common:external-id-type>
+                <common:external-id-value>issn:2213-1248</common:external-id-value>
+            </common:external-id>
+        </common:external-ids>
+        <activities:peer-review-group>
+            <common:last-modified-date>2026-01-06T06:05:24.004Z</common:last-modified-date>
+            <common:external-ids>
+                <common:external-id>
+                    <common:external-id-type>other-id</common:external-id-type>
+                    <common:external-id-value>gox0xpqz</common:external-id-value>
+                    <common:external-id-normalized transient="true">gox0xpqz</common:external-id-normalized>
+                    <common:external-id-url>https://publons.com/wos-op/review/author/gox0xpqz/</common:external-id-url>
+                    <common:external-id-relationship>self</common:external-id-relationship>
+                </common:external-id>
+            </common:external-ids>
+            <peer-review:peer-review-summary put-code="24151764" path="/0000-0003-2240-1377/peer-review/24151764" visibility="public" display-index="1">
+                <common:created-date>2026-01-06T06:05:24.004Z</common:created-date>
+                <common:last-modified-date>2026-01-06T06:05:24.004Z</common:last-modified-date>
+                <common:source>
+                    <common:source-client-id>
+                        <common:uri>https://orcid.org/client/APP-PIPD3W8Z8DY9GESR</common:uri>
+                        <common:path>APP-PIPD3W8Z8DY9GESR</common:path>
+                        <common:host>orcid.org</common:host>
+                    </common:source-client-id>
+                    <common:source-name>Clarivate SSO</common:source-name>
+                </common:source>
+                <peer-review:reviewer-role>reviewer</peer-review:reviewer-role>
+                <common:external-ids>
+                    <common:external-id>
+                        <common:external-id-type>other-id</common:external-id-type>
+                        <common:external-id-value>gox0xpqz</common:external-id-value>
+                        <common:external-id-normalized transient="true">gox0xpqz</common:external-id-normalized>
+                        <common:external-id-url>https://publons.com/wos-op/review/author/gox0xpqz/</common:external-id-url>
+                        <common:external-id-relationship>self</common:external-id-relationship>
+                    </common:external-id>
+                </common:external-ids>
+                <peer-review:review-url>https://publons.com/wos-op/review/author/gox0xpqz/</peer-review:review-url>
+                <peer-review:review-type>review</peer-review:review-type>
+                <peer-review:completion-date>
+                    <common:year>2026</common:year>
+                </peer-review:completion-date>
+                <peer-review:review-group-id>issn:2213-1248</peer-review:review-group-id>
                 <peer-review:convening-organization>
                     <common:name>Clarivate PLC</common:name>
                     <common:address>
@@ -724,53 +833,6 @@
             </peer-review:peer-review-summary>
         </activities:peer-review-group>
         <activities:peer-review-group>
-            <common:last-modified-date>2025-04-03T11:37:45.811Z</common:last-modified-date>
-            <common:external-ids>
-                <common:external-id>
-                    <common:external-id-type>other-id</common:external-id-type>
-                    <common:external-id-value>y0jkskbm</common:external-id-value>
-                    <common:external-id-normalized transient="true">y0jkskbm</common:external-id-normalized>
-                    <common:external-id-url>https://publons.com/wos-op/review/author/y0jkskbm/</common:external-id-url>
-                    <common:external-id-relationship>self</common:external-id-relationship>
-                </common:external-id>
-            </common:external-ids>
-            <peer-review:peer-review-summary put-code="19110140" path="/0000-0003-2240-1377/peer-review/19110140" visibility="public" display-index="1">
-                <common:created-date>2025-03-03T13:46:52.139Z</common:created-date>
-                <common:last-modified-date>2025-04-03T11:37:45.811Z</common:last-modified-date>
-                <common:source>
-                    <common:source-client-id>
-                        <common:uri>https://orcid.org/client/APP-1DSJAQCZ1PW1VN5X</common:uri>
-                        <common:path>APP-1DSJAQCZ1PW1VN5X</common:path>
-                        <common:host>orcid.org</common:host>
-                    </common:source-client-id>
-                    <common:source-name>Web of Science Researcher Profile Sync</common:source-name>
-                </common:source>
-                <peer-review:reviewer-role>reviewer</peer-review:reviewer-role>
-                <common:external-ids>
-                    <common:external-id>
-                        <common:external-id-type>other-id</common:external-id-type>
-                        <common:external-id-value>y0jkskbm</common:external-id-value>
-                        <common:external-id-normalized transient="true">y0jkskbm</common:external-id-normalized>
-                        <common:external-id-url>https://publons.com/wos-op/review/author/y0jkskbm/</common:external-id-url>
-                        <common:external-id-relationship>self</common:external-id-relationship>
-                    </common:external-id>
-                </common:external-ids>
-                <peer-review:review-url>https://publons.com/wos-op/review/author/y0jkskbm/</peer-review:review-url>
-                <peer-review:review-type>review</peer-review:review-type>
-                <peer-review:completion-date>
-                    <common:year>2025</common:year>
-                </peer-review:completion-date>
-                <peer-review:review-group-id>issn:1098-7576</peer-review:review-group-id>
-                <peer-review:convening-organization>
-                    <common:name>Clarivate PLC</common:name>
-                    <common:address>
-                        <common:city>London</common:city>
-                        <common:country>GB</common:country>
-                    </common:address>
-                </peer-review:convening-organization>
-            </peer-review:peer-review-summary>
-        </activities:peer-review-group>
-        <activities:peer-review-group>
             <common:last-modified-date>2025-04-03T11:37:46.925Z</common:last-modified-date>
             <common:external-ids>
                 <common:external-id>
@@ -850,6 +912,53 @@
                     </common:external-id>
                 </common:external-ids>
                 <peer-review:review-url>https://publons.com/wos-op/review/author/VrUwY7U1/</peer-review:review-url>
+                <peer-review:review-type>review</peer-review:review-type>
+                <peer-review:completion-date>
+                    <common:year>2025</common:year>
+                </peer-review:completion-date>
+                <peer-review:review-group-id>issn:1098-7576</peer-review:review-group-id>
+                <peer-review:convening-organization>
+                    <common:name>Clarivate PLC</common:name>
+                    <common:address>
+                        <common:city>London</common:city>
+                        <common:country>GB</common:country>
+                    </common:address>
+                </peer-review:convening-organization>
+            </peer-review:peer-review-summary>
+        </activities:peer-review-group>
+        <activities:peer-review-group>
+            <common:last-modified-date>2025-04-03T11:37:45.811Z</common:last-modified-date>
+            <common:external-ids>
+                <common:external-id>
+                    <common:external-id-type>other-id</common:external-id-type>
+                    <common:external-id-value>y0jkskbm</common:external-id-value>
+                    <common:external-id-normalized transient="true">y0jkskbm</common:external-id-normalized>
+                    <common:external-id-url>https://publons.com/wos-op/review/author/y0jkskbm/</common:external-id-url>
+                    <common:external-id-relationship>self</common:external-id-relationship>
+                </common:external-id>
+            </common:external-ids>
+            <peer-review:peer-review-summary put-code="19110140" path="/0000-0003-2240-1377/peer-review/19110140" visibility="public" display-index="1">
+                <common:created-date>2025-03-03T13:46:52.139Z</common:created-date>
+                <common:last-modified-date>2025-04-03T11:37:45.811Z</common:last-modified-date>
+                <common:source>
+                    <common:source-client-id>
+                        <common:uri>https://orcid.org/client/APP-1DSJAQCZ1PW1VN5X</common:uri>
+                        <common:path>APP-1DSJAQCZ1PW1VN5X</common:path>
+                        <common:host>orcid.org</common:host>
+                    </common:source-client-id>
+                    <common:source-name>Web of Science Researcher Profile Sync</common:source-name>
+                </common:source>
+                <peer-review:reviewer-role>reviewer</peer-review:reviewer-role>
+                <common:external-ids>
+                    <common:external-id>
+                        <common:external-id-type>other-id</common:external-id-type>
+                        <common:external-id-value>y0jkskbm</common:external-id-value>
+                        <common:external-id-normalized transient="true">y0jkskbm</common:external-id-normalized>
+                        <common:external-id-url>https://publons.com/wos-op/review/author/y0jkskbm/</common:external-id-url>
+                        <common:external-id-relationship>self</common:external-id-relationship>
+                    </common:external-id>
+                </common:external-ids>
+                <peer-review:review-url>https://publons.com/wos-op/review/author/y0jkskbm/</peer-review:review-url>
                 <peer-review:review-type>review</peer-review:review-type>
                 <peer-review:completion-date>
                     <common:year>2025</common:year>
@@ -4216,65 +4325,6 @@
         </activities:peer-review-group>
     </activities:group>
     <activities:group>
-        <common:last-modified-date>2026-01-31T07:10:46.678Z</common:last-modified-date>
-        <common:external-ids>
-            <common:external-id>
-                <common:external-id-type>peer-review</common:external-id-type>
-                <common:external-id-value>issn:1380-7501</common:external-id-value>
-            </common:external-id>
-        </common:external-ids>
-        <activities:peer-review-group>
-            <common:last-modified-date>2026-01-31T07:10:46.678Z</common:last-modified-date>
-            <common:external-ids>
-                <common:external-id>
-                    <common:external-id-type>source-work-id</common:external-id-type>
-                    <common:external-id-value>aa608674-dafd-4dc5-b174-fadea49d3dfc</common:external-id-value>
-                    <common:external-id-normalized transient="true">aa608674-dafd-4dc5-b174-fadea49d3dfc</common:external-id-normalized>
-                    <common:external-id-url></common:external-id-url>
-                    <common:external-id-relationship>self</common:external-id-relationship>
-                </common:external-id>
-            </common:external-ids>
-            <peer-review:peer-review-summary put-code="24501522" path="/0000-0003-2240-1377/peer-review/24501522" visibility="public" display-index="1">
-                <common:created-date>2026-01-31T07:10:46.678Z</common:created-date>
-                <common:last-modified-date>2026-01-31T07:10:46.678Z</common:last-modified-date>
-                <common:source>
-                    <common:source-client-id>
-                        <common:uri>https://orcid.org/client/APP-945VYTN20C7BZXYT</common:uri>
-                        <common:path>APP-945VYTN20C7BZXYT</common:path>
-                        <common:host>orcid.org</common:host>
-                    </common:source-client-id>
-                    <common:source-name>Springer Nature @ Editorial Manager</common:source-name>
-                </common:source>
-                <peer-review:reviewer-role>reviewer</peer-review:reviewer-role>
-                <common:external-ids>
-                    <common:external-id>
-                        <common:external-id-type>source-work-id</common:external-id-type>
-                        <common:external-id-value>aa608674-dafd-4dc5-b174-fadea49d3dfc</common:external-id-value>
-                        <common:external-id-normalized transient="true">aa608674-dafd-4dc5-b174-fadea49d3dfc</common:external-id-normalized>
-                        <common:external-id-url></common:external-id-url>
-                        <common:external-id-relationship>self</common:external-id-relationship>
-                    </common:external-id>
-                </common:external-ids>
-                <peer-review:review-type>review</peer-review:review-type>
-                <peer-review:completion-date>
-                    <common:year>2025</common:year>
-                </peer-review:completion-date>
-                <peer-review:review-group-id>issn:1380-7501</peer-review:review-group-id>
-                <peer-review:convening-organization>
-                    <common:name>Springer Nature</common:name>
-                    <common:address>
-                        <common:city>New York</common:city>
-                        <common:country>US</common:country>
-                    </common:address>
-                    <common:disambiguated-organization>
-                        <common:disambiguated-organization-identifier>grid.467660.5</common:disambiguated-organization-identifier>
-                        <common:disambiguation-source>GRID</common:disambiguation-source>
-                    </common:disambiguated-organization>
-                </peer-review:convening-organization>
-            </peer-review:peer-review-summary>
-        </activities:peer-review-group>
-    </activities:group>
-    <activities:group>
         <common:last-modified-date>2025-03-03T13:46:54.875Z</common:last-modified-date>
         <common:external-ids>
             <common:external-id>
@@ -4716,6 +4766,66 @@
         </activities:peer-review-group>
     </activities:group>
     <activities:group>
+        <common:last-modified-date>2025-08-15T04:52:51.197Z</common:last-modified-date>
+        <common:external-ids>
+            <common:external-id>
+                <common:external-id-type>peer-review</common:external-id-type>
+                <common:external-id-value>issn:1110-0168</common:external-id-value>
+            </common:external-id>
+        </common:external-ids>
+        <activities:peer-review-group>
+            <common:last-modified-date>2025-08-15T04:52:51.197Z</common:last-modified-date>
+            <common:external-ids>
+                <common:external-id>
+                    <common:external-id-type>source-work-id</common:external-id-type>
+                    <common:external-id-value>0fc9a579-181a-4011-b6ee-484ea451dcd0</common:external-id-value>
+                    <common:external-id-normalized transient="true">0fc9a579-181a-4011-b6ee-484ea451dcd0</common:external-id-normalized>
+                    <common:external-id-url></common:external-id-url>
+                    <common:external-id-relationship>self</common:external-id-relationship>
+                </common:external-id>
+            </common:external-ids>
+            <peer-review:peer-review-summary put-code="21895920" path="/0000-0003-2240-1377/peer-review/21895920" visibility="public" display-index="1">
+                <common:created-date>2025-08-15T04:52:51.197Z</common:created-date>
+                <common:last-modified-date>2025-08-15T04:52:51.197Z</common:last-modified-date>
+                <common:source>
+                    <common:source-client-id>
+                        <common:uri>https://orcid.org/client/0000-0002-7423-0090</common:uri>
+                        <common:path>0000-0002-7423-0090</common:path>
+                        <common:host>orcid.org</common:host>
+                    </common:source-client-id>
+                    <common:source-name>Elsevier Editorial </common:source-name>
+                </common:source>
+                <peer-review:reviewer-role>reviewer</peer-review:reviewer-role>
+                <common:external-ids>
+                    <common:external-id>
+                        <common:external-id-type>source-work-id</common:external-id-type>
+                        <common:external-id-value>0fc9a579-181a-4011-b6ee-484ea451dcd0</common:external-id-value>
+                        <common:external-id-normalized transient="true">0fc9a579-181a-4011-b6ee-484ea451dcd0</common:external-id-normalized>
+                        <common:external-id-url></common:external-id-url>
+                        <common:external-id-relationship>self</common:external-id-relationship>
+                    </common:external-id>
+                </common:external-ids>
+                <peer-review:review-type>review</peer-review:review-type>
+                <peer-review:completion-date>
+                    <common:year>2025</common:year>
+                </peer-review:completion-date>
+                <peer-review:review-group-id>issn:1110-0168</peer-review:review-group-id>
+                <peer-review:convening-organization>
+                    <common:name>Elsevier, Inc.</common:name>
+                    <common:address>
+                        <common:city>New York</common:city>
+                        <common:region>NY</common:region>
+                        <common:country>US</common:country>
+                    </common:address>
+                    <common:disambiguated-organization>
+                        <common:disambiguated-organization-identifier>5953</common:disambiguated-organization-identifier>
+                        <common:disambiguation-source>RINGGOLD</common:disambiguation-source>
+                    </common:disambiguated-organization>
+                </peer-review:convening-organization>
+            </peer-review:peer-review-summary>
+        </activities:peer-review-group>
+    </activities:group>
+    <activities:group>
         <common:last-modified-date>2025-02-11T03:36:42.279Z</common:last-modified-date>
         <common:external-ids>
             <common:external-id>
@@ -5101,66 +5211,6 @@
         </activities:peer-review-group>
     </activities:group>
     <activities:group>
-        <common:last-modified-date>2025-08-15T04:52:51.197Z</common:last-modified-date>
-        <common:external-ids>
-            <common:external-id>
-                <common:external-id-type>peer-review</common:external-id-type>
-                <common:external-id-value>issn:1110-0168</common:external-id-value>
-            </common:external-id>
-        </common:external-ids>
-        <activities:peer-review-group>
-            <common:last-modified-date>2025-08-15T04:52:51.197Z</common:last-modified-date>
-            <common:external-ids>
-                <common:external-id>
-                    <common:external-id-type>source-work-id</common:external-id-type>
-                    <common:external-id-value>0fc9a579-181a-4011-b6ee-484ea451dcd0</common:external-id-value>
-                    <common:external-id-normalized transient="true">0fc9a579-181a-4011-b6ee-484ea451dcd0</common:external-id-normalized>
-                    <common:external-id-url></common:external-id-url>
-                    <common:external-id-relationship>self</common:external-id-relationship>
-                </common:external-id>
-            </common:external-ids>
-            <peer-review:peer-review-summary put-code="21895920" path="/0000-0003-2240-1377/peer-review/21895920" visibility="public" display-index="1">
-                <common:created-date>2025-08-15T04:52:51.197Z</common:created-date>
-                <common:last-modified-date>2025-08-15T04:52:51.197Z</common:last-modified-date>
-                <common:source>
-                    <common:source-client-id>
-                        <common:uri>https://orcid.org/client/0000-0002-7423-0090</common:uri>
-                        <common:path>0000-0002-7423-0090</common:path>
-                        <common:host>orcid.org</common:host>
-                    </common:source-client-id>
-                    <common:source-name>Elsevier Editorial </common:source-name>
-                </common:source>
-                <peer-review:reviewer-role>reviewer</peer-review:reviewer-role>
-                <common:external-ids>
-                    <common:external-id>
-                        <common:external-id-type>source-work-id</common:external-id-type>
-                        <common:external-id-value>0fc9a579-181a-4011-b6ee-484ea451dcd0</common:external-id-value>
-                        <common:external-id-normalized transient="true">0fc9a579-181a-4011-b6ee-484ea451dcd0</common:external-id-normalized>
-                        <common:external-id-url></common:external-id-url>
-                        <common:external-id-relationship>self</common:external-id-relationship>
-                    </common:external-id>
-                </common:external-ids>
-                <peer-review:review-type>review</peer-review:review-type>
-                <peer-review:completion-date>
-                    <common:year>2025</common:year>
-                </peer-review:completion-date>
-                <peer-review:review-group-id>issn:1110-0168</peer-review:review-group-id>
-                <peer-review:convening-organization>
-                    <common:name>Elsevier, Inc.</common:name>
-                    <common:address>
-                        <common:city>New York</common:city>
-                        <common:region>NY</common:region>
-                        <common:country>US</common:country>
-                    </common:address>
-                    <common:disambiguated-organization>
-                        <common:disambiguated-organization-identifier>5953</common:disambiguated-organization-identifier>
-                        <common:disambiguation-source>RINGGOLD</common:disambiguation-source>
-                    </common:disambiguated-organization>
-                </peer-review:convening-organization>
-            </peer-review:peer-review-summary>
-        </activities:peer-review-group>
-    </activities:group>
-    <activities:group>
         <common:last-modified-date>2025-01-19T12:35:36.961Z</common:last-modified-date>
         <common:external-ids>
             <common:external-id>
@@ -5310,53 +5360,6 @@
             </peer-review:peer-review-summary>
         </activities:peer-review-group>
         <activities:peer-review-group>
-            <common:last-modified-date>2025-01-13T08:53:21.080Z</common:last-modified-date>
-            <common:external-ids>
-                <common:external-id>
-                    <common:external-id-type>other-id</common:external-id-type>
-                    <common:external-id-value>UUudRWCP</common:external-id-value>
-                    <common:external-id-normalized transient="true">uuudrwcp</common:external-id-normalized>
-                    <common:external-id-url>https://publons.com/wos-op/review/author/UUudRWCP/</common:external-id-url>
-                    <common:external-id-relationship>self</common:external-id-relationship>
-                </common:external-id>
-            </common:external-ids>
-            <peer-review:peer-review-summary put-code="18321022" path="/0000-0003-2240-1377/peer-review/18321022" visibility="public" display-index="1">
-                <common:created-date>2025-01-13T08:53:21.080Z</common:created-date>
-                <common:last-modified-date>2025-01-13T08:53:21.080Z</common:last-modified-date>
-                <common:source>
-                    <common:source-client-id>
-                        <common:uri>https://orcid.org/client/APP-1DSJAQCZ1PW1VN5X</common:uri>
-                        <common:path>APP-1DSJAQCZ1PW1VN5X</common:path>
-                        <common:host>orcid.org</common:host>
-                    </common:source-client-id>
-                    <common:source-name>Web of Science Researcher Profile Sync</common:source-name>
-                </common:source>
-                <peer-review:reviewer-role>reviewer</peer-review:reviewer-role>
-                <common:external-ids>
-                    <common:external-id>
-                        <common:external-id-type>other-id</common:external-id-type>
-                        <common:external-id-value>UUudRWCP</common:external-id-value>
-                        <common:external-id-normalized transient="true">uuudrwcp</common:external-id-normalized>
-                        <common:external-id-url>https://publons.com/wos-op/review/author/UUudRWCP/</common:external-id-url>
-                        <common:external-id-relationship>self</common:external-id-relationship>
-                    </common:external-id>
-                </common:external-ids>
-                <peer-review:review-url>https://publons.com/wos-op/review/author/UUudRWCP/</peer-review:review-url>
-                <peer-review:review-type>review</peer-review:review-type>
-                <peer-review:completion-date>
-                    <common:year>2024</common:year>
-                </peer-review:completion-date>
-                <peer-review:review-group-id>issn:2045-2322</peer-review:review-group-id>
-                <peer-review:convening-organization>
-                    <common:name>Clarivate PLC</common:name>
-                    <common:address>
-                        <common:city>London</common:city>
-                        <common:country>GB</common:country>
-                    </common:address>
-                </peer-review:convening-organization>
-            </peer-review:peer-review-summary>
-        </activities:peer-review-group>
-        <activities:peer-review-group>
             <common:last-modified-date>2024-11-01T10:44:32.221Z</common:last-modified-date>
             <common:external-ids>
                 <common:external-id>
@@ -5389,6 +5392,53 @@
                     </common:external-id>
                 </common:external-ids>
                 <peer-review:review-url>https://publons.com/wos-op/review/author/Z3jliVMP/</peer-review:review-url>
+                <peer-review:review-type>review</peer-review:review-type>
+                <peer-review:completion-date>
+                    <common:year>2024</common:year>
+                </peer-review:completion-date>
+                <peer-review:review-group-id>issn:2045-2322</peer-review:review-group-id>
+                <peer-review:convening-organization>
+                    <common:name>Clarivate PLC</common:name>
+                    <common:address>
+                        <common:city>London</common:city>
+                        <common:country>GB</common:country>
+                    </common:address>
+                </peer-review:convening-organization>
+            </peer-review:peer-review-summary>
+        </activities:peer-review-group>
+        <activities:peer-review-group>
+            <common:last-modified-date>2025-01-13T08:53:21.080Z</common:last-modified-date>
+            <common:external-ids>
+                <common:external-id>
+                    <common:external-id-type>other-id</common:external-id-type>
+                    <common:external-id-value>UUudRWCP</common:external-id-value>
+                    <common:external-id-normalized transient="true">uuudrwcp</common:external-id-normalized>
+                    <common:external-id-url>https://publons.com/wos-op/review/author/UUudRWCP/</common:external-id-url>
+                    <common:external-id-relationship>self</common:external-id-relationship>
+                </common:external-id>
+            </common:external-ids>
+            <peer-review:peer-review-summary put-code="18321022" path="/0000-0003-2240-1377/peer-review/18321022" visibility="public" display-index="1">
+                <common:created-date>2025-01-13T08:53:21.080Z</common:created-date>
+                <common:last-modified-date>2025-01-13T08:53:21.080Z</common:last-modified-date>
+                <common:source>
+                    <common:source-client-id>
+                        <common:uri>https://orcid.org/client/APP-1DSJAQCZ1PW1VN5X</common:uri>
+                        <common:path>APP-1DSJAQCZ1PW1VN5X</common:path>
+                        <common:host>orcid.org</common:host>
+                    </common:source-client-id>
+                    <common:source-name>Web of Science Researcher Profile Sync</common:source-name>
+                </common:source>
+                <peer-review:reviewer-role>reviewer</peer-review:reviewer-role>
+                <common:external-ids>
+                    <common:external-id>
+                        <common:external-id-type>other-id</common:external-id-type>
+                        <common:external-id-value>UUudRWCP</common:external-id-value>
+                        <common:external-id-normalized transient="true">uuudrwcp</common:external-id-normalized>
+                        <common:external-id-url>https://publons.com/wos-op/review/author/UUudRWCP/</common:external-id-url>
+                        <common:external-id-relationship>self</common:external-id-relationship>
+                    </common:external-id>
+                </common:external-ids>
+                <peer-review:review-url>https://publons.com/wos-op/review/author/UUudRWCP/</peer-review:review-url>
                 <peer-review:review-type>review</peer-review:review-type>
                 <peer-review:completion-date>
                     <common:year>2024</common:year>
