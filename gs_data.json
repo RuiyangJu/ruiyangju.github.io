@@ -1,0 +1,447 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "publications"
+  ],
+  "scholar_id": "r8F35p8AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Rui-Yang Ju",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=r8F35p8AAAAJ&citpid=4",
+  "affiliation": "Kyoto University",
+  "organization": 13130224519717895969,
+  "interests": [
+    "Computer Vision",
+    "Handwriting Recognition",
+    "Document Analysis",
+    "Medical Image Processing"
+  ],
+  "email_domain": "@st.kyoto-u.ac.jp",
+  "homepage": "http://ruiyangju.github.io/",
+  "citedby": 640,
+  "updated": "2026-03-02T08:32:44.628963+00:00",
+  "citedby5y": 638,
+  "hindex": 9,
+  "hindex5y": 9,
+  "i10index": 9,
+  "i10index5y": 9,
+  "cites_per_year": {
+    "2022": 4,
+    "2023": 38,
+    "2024": 225,
+    "2025": 323,
+    "2026": 48
+  },
+  "publications": {
+    "r8F35p8AAAAJ:XiSMed-E-HIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fracture detection in pediatric wrist trauma X-ray images using YOLOv8 algorithm",
+        "pub_year": "2023",
+        "citation": "Scientific Reports 13 (1), 20077, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:XiSMed-E-HIC",
+      "num_citations": 285,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3834083202257576881,8298652630404239422",
+      "cites_id": [
+        "3834083202257576881",
+        "8298652630404239422"
+      ]
+    },
+    "r8F35p8AAAAJ:KxtntwgDAa4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "YOLOv9 for fracture detection in pediatric wrist trauma X‐ray images",
+        "pub_year": "2024",
+        "citation": "Electronics Letters 60 (11), e13248, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:KxtntwgDAa4C",
+      "num_citations": 104,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10554151309628118095,11607723395985470448",
+      "cites_id": [
+        "10554151309628118095",
+        "11607723395985470448"
+      ]
+    },
+    "r8F35p8AAAAJ:bFI3QPDXJZMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection",
+        "pub_year": "2025",
+        "citation": "IEEE Access 13, 52461-52477, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:bFI3QPDXJZMC",
+      "num_citations": 87,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7999762526125580630",
+      "cites_id": [
+        "7999762526125580630"
+      ]
+    },
+    "r8F35p8AAAAJ:b0M2c_1WBrUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efficient convolutional neural networks on Raspberry Pi for image classification",
+        "pub_year": "2023",
+        "citation": "Journal of Real-Time Image Processing 20 (2), 21, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:b0M2c_1WBrUC",
+      "num_citations": 36,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7072803227537355203",
+      "cites_id": [
+        "7072803227537355203"
+      ]
+    },
+    "r8F35p8AAAAJ:pqnbT2bcN3wC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Resolution enhancement processing on low quality images using swin transformer based on interval dense connection strategy",
+        "pub_year": "2024",
+        "citation": "Multimedia Tools and Applications 83 (5), 14839-14855, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:pqnbT2bcN3wC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6679557009922313949",
+      "cites_id": [
+        "6679557009922313949"
+      ]
+    },
+    "r8F35p8AAAAJ:4OULZ7Gr8RgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks",
+        "pub_year": "2024",
+        "citation": "Knowledge-Based Systems 304, 112542, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14599782455954414037",
+      "cites_id": [
+        "14599782455954414037"
+      ]
+    },
+    "r8F35p8AAAAJ:yD5IFk8b50cC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Global context modeling in yolov8 for pediatric wrist fracture detection",
+        "pub_year": "2024",
+        "citation": "ISPACS, 1-5, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:yD5IFk8b50cC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17513632370159477416",
+      "cites_id": [
+        "17513632370159477416"
+      ]
+    },
+    "r8F35p8AAAAJ:35N4QoGY0k4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Yolov8-rescbam: Yolov8 based on an effective attention module for pediatric wrist fracture detection",
+        "pub_year": "2024",
+        "citation": "ICONIP, 403-416, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:35N4QoGY0k4C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=647666002540716587",
+      "cites_id": [
+        "647666002540716587"
+      ]
+    },
+    "r8F35p8AAAAJ:M05iB0D1s5AC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Threshnet: An efficient densenet using threshold mechanism to reduce connections",
+        "pub_year": "2022",
+        "citation": "IEEE Access 10, 82834-82843, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:M05iB0D1s5AC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5272892412072518396",
+      "cites_id": [
+        "5272892412072518396"
+      ]
+    },
+    "r8F35p8AAAAJ:4fKUyHm3Qg0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X‐Ray Images",
+        "pub_year": "2026",
+        "citation": "IET Image Processing 20 (1), e70269, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6558254763898819980,17641424136445967609",
+      "cites_id": [
+        "6558254763898819980",
+        "17641424136445967609"
+      ]
+    },
+    "r8F35p8AAAAJ:zA6iFVUQeVQC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CCDWT-GAN: Generative adversarial networks based on color channel using discrete wavelet transform for document image binarization",
+        "pub_year": "2023",
+        "citation": "PRICAI, 186-198, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:zA6iFVUQeVQC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12368002874050776603",
+      "cites_id": [
+        "12368002874050776603"
+      ]
+    },
+    "r8F35p8AAAAJ:vV6vV6tmYwMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New pruning method based on densenet network for image classification",
+        "pub_year": "2021",
+        "citation": "TAAI, 107-111, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:vV6vV6tmYwMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=19734727181354436",
+      "cites_id": [
+        "19734727181354436"
+      ]
+    },
+    "r8F35p8AAAAJ:3s1wT3WcHBgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aggregated pyramid vision transformer: split-transform-merge strategy for image recognition without convolutions",
+        "pub_year": "2022",
+        "citation": "IEEE ICCE-TW, 295-296, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:3s1wT3WcHBgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9448105238294473950",
+      "cites_id": [
+        "9448105238294473950"
+      ]
+    },
+    "r8F35p8AAAAJ:pyW8ca7W8N0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation",
+        "pub_year": "2025",
+        "citation": "ICRA, 1046-1052, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:pyW8ca7W8N0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13857059680644901185",
+      "cites_id": [
+        "13857059680644901185"
+      ]
+    },
+    "r8F35p8AAAAJ:OU6Ihb5iCvQC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ToonifyGB: StyleGAN-based Gaussian blendshapes for 3D stylized head avatars",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2505.10072, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13481484451751524268",
+      "cites_id": [
+        "13481484451751524268"
+      ]
+    },
+    "r8F35p8AAAAJ:08ZZubdj9fEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efficient Generative Adversarial Networks for Color Document Image Enhancement and Binarization Using Multi-Scale Feature Extraction",
+        "pub_year": "2025",
+        "citation": "APSIPA ASC, 1898-1903, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:08ZZubdj9fEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8039321425997038794,1552516463540486716",
+      "cites_id": [
+        "8039321425997038794",
+        "1552516463540486716"
+      ]
+    },
+    "r8F35p8AAAAJ:fPk4N6BV_jEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flood data analysis on SpaceNet 8 using Apache Sedona",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.18235, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:fPk4N6BV_jEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12781995437636239968",
+      "cites_id": [
+        "12781995437636239968"
+      ]
+    },
+    "r8F35p8AAAAJ:u_35RYKgDlwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Connection reduction of densenet for image recognition",
+        "pub_year": "2022",
+        "citation": "ISPACS, 1-4, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:u_35RYKgDlwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12666232107196660172",
+      "cites_id": [
+        "12666232107196660172"
+      ]
+    },
+    "r8F35p8AAAAJ:tS2w5q8j5-wC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2512.14114, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:tS2w5q8j5-wC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11834749412174482555",
+      "cites_id": [
+        "11834749412174482555"
+      ]
+    },
+    "r8F35p8AAAAJ:tOudhMTPpwUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dkds: A benchmark dataset of degraded kuzushiji documents with seals for detection and binarization",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2511.09117, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:tOudhMTPpwUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=713746383643637487",
+      "cites_id": [
+        "713746383643637487"
+      ]
+    },
+    "r8F35p8AAAAJ:8AbLer7MMksC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Restoration-Guided Kuzushiji Character Recognition Framework under Seal Interference",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2602.19086, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:8AbLer7MMksC",
+      "num_citations": 0
+    },
+    "r8F35p8AAAAJ:geHnlv5EZngC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2601.17088, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:geHnlv5EZngC",
+      "num_citations": 0
+    },
+    "r8F35p8AAAAJ:K3LRdlH-MEoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "From Roads to Lights: Satellite Evidence on Smart City Planning",
+        "pub_year": "2025",
+        "citation": "ADMA, 281-288, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:K3LRdlH-MEoC",
+      "num_citations": 0
+    },
+    "r8F35p8AAAAJ:738O_yMBCRsC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2508.16739, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:738O_yMBCRsC",
+      "num_citations": 0
+    },
+    "r8F35p8AAAAJ:vRqMK49ujn8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "基於 StyleGAN 的高斯混合形變之三維風格化頭像建模",
+        "pub_year": "2025",
+        "citation": "臺灣大學資訊網路與多媒體研究所學位論文, 1-43, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    "r8F35p8AAAAJ:g5m5HwL7SMYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FAD-SAR: A Novel Fishing Activity Detection System via Synthetic Aperture Radar Images Based on Deep Learning Method",
+        "pub_year": "2024",
+        "citation": "ISPACS, 1-5, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    "r8F35p8AAAAJ:cFHS6HbyZ2cC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TripleNet: A Low-Parameter Network for Low Computing Power Platform",
+        "pub_year": "2022",
+        "citation": "IET-ICETA, 1-2, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "r8F35p8AAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 0
+    }
+  }
+}
