@@ -53,9 +53,9 @@ Further details about my background are available in <a href='https://ruiyangju.
   <li>2025.01: One paper is accepted by <strong>ICRA 2025</strong> (Oral), Atlanta, USA. [<a href="https://www.neiljin.site/projects/orbsfm" target="_blank">Project</a>] [<a href="https://github.com/PeaceNeil/ORB-SfMLearner" target="_blank">GitHub</a>]</li>
   <li>2024.09: One paper is accepted by <strong>Knowledge-Based Systems</strong>. [<a href="https://github.com/abcpp12383/ThreeStageBinarization" target="_blank">GitHub</a>]</li>
   <li>2024.08: One paper is accepted by <strong>ICONIP 2024</strong> (Oral), Auckland, New Zealand. [<a href="https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8" target="_blank">GitHub</a>] </li>
-  <li>2024.05: One paper is accepted by <strong>Electronics Letters</strong> (<a href="https://github.com/RuiyangJu/YOLOv9-Fracture-Detection" target="_blank">GitHub</a>).</li>
-  <li>2023.11: One paper is accepted by <strong>Scientific Reports</strong> (<a href="https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8" target="_blank">GitHub</a>).</li>
-  <li>2023.08: One paper is accepted by <strong>PRICAI 2023</strong> [Oral] (<a href="https://github.com/RuiyangJu/ThreeStageBinarization" target="_blank">GitHub</a>).</li>
+  <li>2024.05: One paper is accepted by <strong>Electronics Letters</strong>. [<a href="https://github.com/RuiyangJu/YOLOv9-Fracture-Detection" target="_blank">GitHub</a>]</li>
+  <li>2023.11: One paper is accepted by <strong>Scientific Reports</strong>. [<a href="https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8" target="_blank">GitHub</a>]</li>
+  <li>2023.08: One paper is accepted by <strong>PRICAI 2023</strong> (Oral), Jakarta, Indonesia. [<a href="https://github.com/RuiyangJu/ThreeStageBinarization" target="_blank">GitHub</a>]</li>
   <li>2023.07: I receive an offer for a Master student at <strong>National Taiwan University</strong>, Taiwan.</li>
   <li>2023.06: One paper is accepted by <strong>Multimedia Tools and Applications</strong> (<a href="https://github.com/Rubbbbbbbbby/SwinOIR" target="_blank">GitHub</a>).</li>
   <li>2022.11: One paper is accepted by <strong>Journal of Real-Time Image Processing</strong> (<a href="https://github.com/RuiyangJu/TripleNet" target="_blank">GitHub</a>).</li>
