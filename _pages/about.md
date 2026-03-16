@@ -47,7 +47,7 @@ Further details about my background are available in <a href='https://ruiyangju.
   <li>2025.11: I receive the <strong>Kyoto University DoGS SPRING Fellowship</strong> for my Phd studies.</li>
   <li>2025.08: One paper is accepted by <strong>APSIPA ASC 2025</strong> (Oral), Singapore. [<a href="https://github.com/RuiyangJu/Efficient_Document_Image_Binarization" target="_blank">GitHub</a>]</li>
   <li>2025.08: One paper is accepted by <strong>ADMA 2025</strong> (Short Paper), Kyoto, Japan.</li>
-  <li>2025.06: I receive an offer for a PhD student at <strong>Kyoto University</strong>, Japan.</li>
+  <li>2025.06: I receive an offer for a PhD student at <strong>Kyoto University</strong>, Kyoto, Japan.</li>
   <li>2025.06: My master's thesis project, <strong>ToonifyGB</strong>, is now available. [<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a>] [<a href="https://github.com/RuiyangJu/ToonifyGB" target="_blank">GitHub</a>]</li>
   <li>2025.03: One paper is accepted by <strong>IEEE Access</strong>. [<a href="https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8" target="_blank">GitHub</a>]</li>
   <li>2025.01: One paper is accepted by <strong>ICRA 2025</strong> (Oral), Atlanta, USA. [<a href="https://www.neiljin.site/projects/orbsfm" target="_blank">Project</a>] [<a href="https://github.com/PeaceNeil/ORB-SfMLearner" target="_blank">GitHub</a>]</li>
@@ -56,11 +56,11 @@ Further details about my background are available in <a href='https://ruiyangju.
   <li>2024.05: One paper is accepted by <strong>Electronics Letters</strong>. [<a href="https://github.com/RuiyangJu/YOLOv9-Fracture-Detection" target="_blank">GitHub</a>]</li>
   <li>2023.11: One paper is accepted by <strong>Scientific Reports</strong>. [<a href="https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8" target="_blank">GitHub</a>]</li>
   <li>2023.08: One paper is accepted by <strong>PRICAI 2023</strong> (Oral), Jakarta, Indonesia. [<a href="https://github.com/RuiyangJu/ThreeStageBinarization" target="_blank">GitHub</a>]</li>
-  <li>2023.07: I receive an offer for a Master student at <strong>National Taiwan University</strong>, Taiwan.</li>
-  <li>2023.06: One paper is accepted by <strong>Multimedia Tools and Applications</strong> (<a href="https://github.com/Rubbbbbbbbby/SwinOIR" target="_blank">GitHub</a>).</li>
-  <li>2022.11: One paper is accepted by <strong>Journal of Real-Time Image Processing</strong> (<a href="https://github.com/RuiyangJu/TripleNet" target="_blank">GitHub</a>).</li>
+  <li>2023.07: I receive an offer for a Master student at <strong>National Taiwan University</strong>, Taipei, Taiwan.</li>
+  <li>2023.06: One paper is accepted by <strong>Multimedia Tools and Applications</strong>. [<a href="https://github.com/Rubbbbbbbbby/SwinOIR" target="_blank">GitHub</a>]</li>
+  <li>2022.11: One paper is accepted by <strong>Journal of Real-Time Image Processing</strong>. [<a href="https://github.com/RuiyangJu/TripleNet" target="_blank">GitHub</a>]</li>
   <li>2022.10: <strong>ECCV 2022</strong> Competition - Google Universal Image Embedding Challenge <strong>Silver Medal</strong>.</li>
-  <li>2022.07: One paper is accepted by <strong>IEEE Access</strong> (<a href="https://github.com/RuiyangJu/ThreshNet" target="_blank">GitHub</a>).</li>
+  <li>2022.07: One paper is accepted by <strong>IEEE Access</strong>. [<a href="https://github.com/RuiyangJu/ThreshNet" target="_blank">GitHub</a>]</li>
   <li>2021.07: My research project receives a grant from <strong>Tamkang University</strong>.</li>
   <li>2020.12: I join Advanced Mixed-Operation System Laboratory (AMOS Lab.) of <strong>Tamkang University</strong>.</li>
 </ul>
