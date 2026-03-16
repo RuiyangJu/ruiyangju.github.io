@@ -51,8 +51,8 @@ Further details about my background are available in <a href='https://ruiyangju.
   <li>2025.06: My master's thesis project, <strong>ToonifyGB</strong>, is now available. [<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">Project</a>] [<a href="https://github.com/RuiyangJu/ToonifyGB" target="_blank">GitHub</a>]</li>
   <li>2025.03: One paper is accepted by <strong>IEEE Access</strong>. [<a href="https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8" target="_blank">GitHub</a>]</li>
   <li>2025.01: One paper is accepted by <strong>ICRA 2025</strong> (Oral), Atlanta, USA. [<a href="https://www.neiljin.site/projects/orbsfm" target="_blank">Project</a>] [<a href="https://github.com/PeaceNeil/ORB-SfMLearner" target="_blank">GitHub</a>]</li>
-  <li>2024.09: One paper is accepted by <strong>Knowledge-Based Systems</strong> (<a href="https://github.com/abcpp12383/ThreeStageBinarization" target="_blank">GitHub</a>).</li>
-  <li>2024.08: One paper is accepted by <strong>ICONIP 2024</strong> [Oral] (<a href="https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8" target="_blank">GitHub</a>).</li>
+  <li>2024.09: One paper is accepted by <strong>Knowledge-Based Systems</strong>. [<a href="https://github.com/abcpp12383/ThreeStageBinarization" target="_blank">GitHub</a>]</li>
+  <li>2024.08: One paper is accepted by <strong>ICONIP 2024</strong> (Oral), Auckland, New Zealand. [<a href="https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8" target="_blank">GitHub</a>] </li>
   <li>2024.05: One paper is accepted by <strong>Electronics Letters</strong> (<a href="https://github.com/RuiyangJu/YOLOv9-Fracture-Detection" target="_blank">GitHub</a>).</li>
   <li>2023.11: One paper is accepted by <strong>Scientific Reports</strong> (<a href="https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8" target="_blank">GitHub</a>).</li>
   <li>2023.08: One paper is accepted by <strong>PRICAI 2023</strong> [Oral] (<a href="https://github.com/RuiyangJu/ThreeStageBinarization" target="_blank">GitHub</a>).</li>
