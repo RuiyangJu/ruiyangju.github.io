@@ -213,6 +213,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
   <li>Computer Vision and Image Understanding.</li>
   <li>Multimedia Tools and Applications.</li>
   <li>The Visual Computer.</li>
+  <li>iScience.</li>
   <li>Scientific Reports.</li>
   <li>Engineering Reports</li>
   <li>npj Heritage Science.</li>
