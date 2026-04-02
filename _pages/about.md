@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a Ph.D. (DoGS SPRING Fellowship) at the [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/), [Kyoto University](https://www.kyoto-u.ac.jp/), Japan. 
+I am currently pursuing a Ph.D. (JST DoGS SPRING Fellowship) at the [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/), [Kyoto University](https://www.kyoto-u.ac.jp/), Japan. 
 I am a member of the [LSTA Lab.](https://www.lsta.media.kyoto-u.ac.jp/), where I conduct research on document and text analysis, recognition, and processing. 
 If you are interested in any form of academic collaboration, please feel free to [email](mailto:jryjry1094791442@gmail.com) me.
 
@@ -255,7 +255,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 
 # 💰 Funding
 <span class='anchor' id='scholarship'></span>
-- Kyoto University DoGS SPRING Fellowship, 2025 - 2028.
+- Japan Science and Technology Agency (JST) DoGS SPRING Fellowship, 2025 - 2028.
 - National Taiwan University Graduate Research Assistantship, 2024 - 2025.
 - National Taiwan University Scholarship, 2023, 2024, 2025.
 - Sino International Business Innovation Association (SIBIA) Scholarship, 2021, 2022, 2024.
