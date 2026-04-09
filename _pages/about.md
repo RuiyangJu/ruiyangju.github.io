@@ -225,6 +225,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
   <li>International Journal of Computational Intelligence Systems.</li>
   <li>The Journal of Supercomputing.</li>
   <li>Frontiers in Computer Science.</li>
+  <li>Frontiers in Medicine.</li>
   <li>Signal, Image and Video Processing.</li>
   <li>Telecommunication Systems.</li>
   <li>Journal of Engineering.</li>
