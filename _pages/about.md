@@ -254,7 +254,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 
 <span class="anchor" id="funding"></span>
 
-# 💰 Funding
+# 💰 Honor and Award
 <span class='anchor' id='scholarship'></span>
 - Japan Science and Technology Agency (JST) DoGS SPRING Fellowship, 2025 - 2028.
 - National Taiwan University Graduate Research Assistantship, 2024 - 2025.
