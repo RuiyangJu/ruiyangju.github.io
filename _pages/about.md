@@ -257,11 +257,11 @@ The Transformer-based method has demonstrated remarkable performance for image s
 # 💰 Honor and Award
 <span class='anchor' id='honor'></span>
 - Japan Science and Technology Agency (JST), DoGS SPRING Fellowship, Oct. 2025.
-- National Taiwan University (NTU), Graduate Research Assistantship, Feb. 2024.
-- National Taiwan University (NTU), Postgraduate Scholarship, Jan. 2024; Jul. 2024; Jan. 2025.
-- Sino International Business Innovation Association (SIBIA) Gratitude and Heritage Scholarship, Mar. 2021; Mar. 2022; May 2024.
-- Tamkang University (TKU), Undergraduate Research Fellowship, Aug. 2021.
-- Tamkang University (TKU), Excellent Academic Performance Award (Top 1% Ranking), May 2021; Dec. 2022.
+- National Taiwan University, Graduate Research Assistantship, Feb. 2024.
+- National Taiwan University, Postgraduate Scholarship, Jan. 2024; Jul. 2024; Jan. 2025.
+- Sino International Business Innovation Association (SIBIA), Gratitude and Heritage Scholarship, Mar. 2021; Mar. 2022; May 2024.
+- Tamkang University, Undergraduate Research Fellowship, Aug. 2021.
+- Tamkang University, Excellent Academic Performance Award (Top 1% Ranking), May 2021; Dec. 2022.
 
 <span class="anchor" id="education"></span>
 
