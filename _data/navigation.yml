@@ -8,8 +8,8 @@ main:
     url: "/#publication"
   - title: "Professional Service"
     url: "/#professional-service"
-  - title: "Funding"
-    url: "/#funding"
+  - title: "Hornor and Award"
+    url: "/#honor"
   - title: "Education"
     url: "/#education"
 
