@@ -243,12 +243,12 @@ The Transformer-based method has demonstrated remarkable performance for image s
   <li>International Joint Conference on Neural Networks (IJCNN), Maastricht, Netherlands, 2026, Reviewer.</li>
   <li>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026, Reviewer.</li>
   <li>AAAI Conference on Artificial Intelligence (AAAI), Singapore, 2026, Reviwer.</li>
-  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Wellington, New Zealand, 2025, Program Committee.</li>
+  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Wellington, New Zealand, 2025, PC Member.</li>
   <li>International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025, Reviewer.</li>
   <li>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, Reviewer.</li>
-  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Kyoto, Japan, 2024, Program Committee.</li>
+  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Kyoto, Japan, 2024, PC Member.</li>
   <li>British Machine Vision Conference (BMVC), Glasgow, UK, 2024, Reviewer.</li>
-  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Jakarta, Indonesia, 2023, Program Committee.</li>
+  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Jakarta, Indonesia, 2023, PC Member.</li>
 </ul>
 </details>
 
@@ -274,7 +274,7 @@ The Transformer-based method has demonstrated remarkable performance for image s
 <hr style="margin-top: 40px; margin-bottom: 20px;">
 
 <div style="text-align: center; font-size: 13px; color: #888; line-height: 1.8;">
-  © Copyright 2025 RuiYang Ju.  
+  © Copyright 2026 RuiYang Ju.  
   Powered by RayeRen.  
   Hosted by GitHub Pages.  
   Recommended to use Chrome.
