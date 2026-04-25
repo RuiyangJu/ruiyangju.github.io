@@ -72,7 +72,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 # 📄 Publication
 ## Kuzushiji Character Recognition
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/DKDS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJDAR 2026</div><img  src='https://ruiyangju.github.io/images/Figure/DKDS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DKDS: A Benchmark Dataset of Degraded Kuzushiji Documents with Seals for Detection and Binarization](https://arxiv.org/abs/2511.09117) \\
