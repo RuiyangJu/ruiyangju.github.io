@@ -50,7 +50,7 @@ Further details about my background are available in <a href='https://ruiyangju.
   <li>2025.08: One paper is accepted by <strong>APSIPA ASC 2025</strong> (Oral), Singapore.</li>
   <li>2025.08: One paper is accepted by <strong>ADMA 2025</strong> (Short Paper), Kyoto, Japan.</li>
   <li>2025.06: I receive an offer for a PhD student at <strong>Kyoto University</strong>, Kyoto, Japan.</li>
-  <li>2025.06: My master's thesis project, [<a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">ToonifyGB</a>], is now available.</li>
+  <li>2025.06: My master's thesis <a href="https://ruiyangju.github.io/ToonifyGB" target="_blank">project</a> is now available.</li>
   <li>2025.03: One paper is accepted by <strong>IEEE Access</strong>.</li>
   <li>2025.01: One paper is accepted by <strong>ICRA 2025</strong> (Oral), Atlanta, USA.</li>
   <li>2024.09: One paper is accepted by <strong>Knowledge-Based Systems</strong>.</li>
