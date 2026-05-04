@@ -41,7 +41,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 # 📢 News
 <div style="height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF; padding: 5px; border-radius: 6px; border: 1px solid #ccc;">
 <ul>
-  <li>2026.04: One paper is accepted by <strong>International Journal on Document Analysis and Recognition</strong>.</li>
+  <li>2026.05: One paper is accepted by <strong>International Journal on Document Analysis and Recognition</strong>.</li>
   <li>2026.04: One paper is accepted by <strong>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</strong>.</li>
   <li>2026.01: Two papers are accepted by <strong>IEEE VR 2026</strong> (Poster), Daegu, Korea.</li>
   <li>2026.01: One paper is accepted by <strong>ICASSP 2026</strong> (Poster), Barcelona, Spain.</li>
