@@ -185,6 +185,9 @@ The Transformer-based method has demonstrated remarkable performance for image s
 
 ## 🔥 Other
 
+- ``J-STARS 2026`` [Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](https://doi.org/10.1109/JSTARS.2026.3685660), Yanbing Bai,**Rui-Yang Ju**, Lemeng Zhao, Junjie Hu, Jianchao Bi, Erick Mas, Shunichi Koshimura。
+</div>
+
 - ``ICRA 2025`` [ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://doi.org/10.1109/ICRA55743.2025.11127848), Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/PeaceNeil/ORB-SfMLearner)
 </div>
 
