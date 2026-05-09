@@ -166,8 +166,6 @@ Hospital emergency departments frequently receive lots of bone fracture cases, w
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
-
-
 ## Super Resolution 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Tools and Applications 2023</div><img src='https://ruiyangju.github.io/images/Figure/SwinOIR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -183,12 +181,16 @@ The Transformer-based method has demonstrated remarkable performance for image s
 </div>
 </div>
 
+<hr style="margin-top: 20px; margin-bottom: 20px;">
+
 ## 🔥 Other
 
+<div class="paper-box-related" markdown="1">
+  
 - ``J-STARS 2026`` [Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](https://doi.org/10.1109/JSTARS.2026.3685660), Yanbing Bai,**Rui-Yang Ju**, Lemeng Zhao, Junjie Hu, Jianchao Bi, Erick Mas, Shunichi Koshimura.
-</div>
 
 - ``ICRA 2025`` [ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://doi.org/10.1109/ICRA55743.2025.11127848), Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/PeaceNeil/ORB-SfMLearner)
+
 </div>
 
 <span class="anchor" id="professional-service"></span>
