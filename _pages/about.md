@@ -191,6 +191,10 @@ The Transformer-based method has demonstrated remarkable performance for image s
 
 - ``ICRA 2025`` [ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://doi.org/10.1109/ICRA55743.2025.11127848), Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/PeaceNeil/ORB-SfMLearner)
 
+- ``ICRA 2025`` [ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://doi.org/10.1109/ICRA55743.2025.11127848), Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/PeaceNeil/ORB-SfMLearner)
+
+- ``IEEE Access 2022`` [ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections](https://doi.org/10.1109/ACCESS.2022.3196492), **Rui-Yang Ju**, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang, Wei-Bin Yang. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/ThreshNet)
+
 </div>
 
 <span class="anchor" id="professional-service"></span>
