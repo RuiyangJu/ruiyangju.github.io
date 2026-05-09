@@ -166,20 +166,7 @@ Hospital emergency departments frequently receive lots of bone fracture cases, w
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
-## Visual Odometry
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='https://ruiyangju.github.io/images/Figure/ORB.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://doi.org/10.1109/ICRA55743.2025.11127848) \\
-Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong \\
-[Project](https://www.neiljin.site/projects/orbsfm/) | [GitHub](https://github.com/PeaceNeil/ORB-SfMLearner)
-<details>
-<summary>Abstract</summary>
-Deep visual odometry, despite extensive research, still faces limitations in accuracy and generalizability that prevent its broader application. To address these challenges, we propose an Oriented FAST and Rotated BRIEF (ORB)-guided visual odometry with selective online adaptation named ORB-SfMLearner. We present a novel use of ORB features for learning-based ego-motion estimation, leading to more robust and accurate results. We also introduce the cross-attention mechanism to enhance the explainability of PoseNet and have revealed that driving direction of the vehicle can be explained through the attention weights. To improve generalizability, our selective online adaptation allows the network to rapidly and selectively adjust to the optimal parameters across different domains. Experimental results on KITTI and vKITTI datasets show that our method outperforms previous state-of-the-art deep visual odometry methods in terms of ego-motion accuracy and generalizability.
-</details>
-
-</div>
-</div>
 
 ## Super Resolution 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Tools and Applications 2023</div><img src='https://ruiyangju.github.io/images/Figure/SwinOIR.gif' alt="sym" width="100%"></div></div>
@@ -194,6 +181,11 @@ The Transformer-based method has demonstrated remarkable performance for image s
 </details>
 
 </div>
+</div>
+
+## 🔥 Other
+
+- ``ICRA 2025`` [ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://doi.org/10.1109/ICRA55743.2025.11127848), Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/PeaceNeil/ORB-SfMLearner)
 </div>
 
 <span class="anchor" id="professional-service"></span>
