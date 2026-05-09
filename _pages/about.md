@@ -189,6 +189,8 @@ The Transformer-based method has demonstrated remarkable performance for image s
   
 - ``J-STARS 2026`` [Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](https://doi.org/10.1109/JSTARS.2026.3685660), Yanbing Bai, **Rui-Yang Ju**, Lemeng Zhao, Junjie Hu, Jianchao Bi, Erick Mas, Shunichi Koshimura.
 
+- ``ADMA  2025`` [From Roads to Lights: Satellite Evidence on Smart City Planning](https://doi.org/10.1007/978-981-95-3459-3_24), Yang Yang, Tianzhi Wu, Lize Zheng, **Rui-Yang Ju**, Yanbing Bai.
+
 - ``ICRA 2025`` [ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://doi.org/10.1109/ICRA55743.2025.11127848), Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/PeaceNeil/ORB-SfMLearner)
 
 - ``JRTIP 2023`` [Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification](https://doi.org/10.1007/s11554-023-01271-1), **Rui-Yang Ju**, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/TripleNet)
