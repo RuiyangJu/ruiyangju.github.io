@@ -112,7 +112,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
-## 🔥🔥 3D Head Reconstruction
+## 🔥🔥 3D Gaussian Reconstruction and Blendshapes
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2026 Poster</div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
