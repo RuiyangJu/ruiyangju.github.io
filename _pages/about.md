@@ -76,6 +76,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 <div class='paper-box-text' markdown="1">
 [Restoration-Guided Kuzushiji Character Recognition Framework under Seal Interference](https://arxiv.org/abs/2602.19086) \\
 **Rui-Yang Ju**, Kohei Yamashita, Hirotaka Kameko, Shinsuke Mori \\
+[![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/RG-KCR)
 [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/RG-KCR)
 </div>
 </div>
