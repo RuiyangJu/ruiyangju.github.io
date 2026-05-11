@@ -130,7 +130,8 @@ Further details about my background are available in <a href='https://ruiyangju.
 <div class='paper-box-text' markdown="1">
 [Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm](https://doi.org/10.1038/s41598-023-47460-7) \\
 **Rui-Yang Ju**, Weiming Cai \\
-[Project](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/) | [GitHub](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8)
+[![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU)
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8)
 </div>
 </div>
 
