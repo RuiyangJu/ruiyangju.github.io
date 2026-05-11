@@ -74,7 +74,6 @@ Further details about my background are available in <a href='https://ruiyangju.
 ## 🔥🔥🔥 Optical Character Recognition
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/RG-KCR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Restoration-Guided Kuzushiji Character Recognition Framework under Seal Interference](https://arxiv.org/abs/2602.19086) \\
 **Rui-Yang Ju**, Kohei Yamashita, Hirotaka Kameko, Shinsuke Mori \\
 [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/RG-KCR)
@@ -102,8 +101,8 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 <div class="paper-box-related" markdown="1">
 
-- ``Under Review`` [MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction](https://arxiv.org/abs/2512.14114), **Rui-Yang Ju**, KokSheik Wong, Yanlin Jin, Jen-Shiun Chiang.
-- ``APSIPA ASC 2025`` [Efficient Generative Adversarial Networks for Color Document Image Enhancement and Binarization Using Multi-scale Feature Extraction](https://ieeexplore.ieee.org/document/11249173), **Rui-Yang Ju**, KokSheik Wong, Jen-Shiun Chiang.
+- ``Under Review`` [MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction](https://arxiv.org/abs/2512.14114), **Rui-Yang Ju**, KokSheik Wong, Yanlin Jin, Jen-Shiun Chiang. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/MFE-GAN)
+- ``APSIPA ASC 2025`` [Efficient Generative Adversarial Networks for Color Document Image Enhancement and Binarization Using Multi-scale Feature Extraction](https://ieeexplore.ieee.org/document/11249173), **Rui-Yang Ju**, KokSheik Wong, Jen-Shiun Chiang. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/MFE-GAN)
 - ``PRICAI 2023`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://doi.org/10.1007/978-981-99-7019-3_19), **Rui-Yang Ju**, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien.
 
 </div>
