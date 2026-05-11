@@ -25,7 +25,7 @@ I received my Master of Science (M.S.) degree in 2025 from the [Graduate Institu
 I was a member of [NTU imLab](https://ntuimlab.tw/), and my master’s thesis focused on 3D Gaussian Splatting (3DGS) and 3D head reconstruction.
 
 I obtained my Bachelor of Science (B.S.) degree in 2023 in [Electrical and Computer Engineering](http://www.ee.tku.edu.tw/) from [Tamkang University](https://www.tku.edu.tw/), New Taipei City, Taiwan, where I graduated first in my department (1/68). 
-I conducted my undergraduate research at the Advanced Mixed-Operation System Laboratory (AMOS Lab.) at Tamkang University, focusing on image processing and computer vision.
+I conducted my undergraduate research at the Advanced Mixed-Operation System Laboratory (AMOS Lab.) at Tamkang University, focusing on object detection, document image binarization, and image super-resolution.
 
 My primary research interests include Multimodal Learning (Vision-Language Models), Computer Vision (Optical Character Recognition, Object Detection, Document Understanding), Image Processing (Document Image Enhancement and Binarization, Image Super-Resolution), Natural Language Processing (Large Language Models), and Computer Graphics (3D Gaussian Reconstruction and Blendshapes).
 I have published numerous papers <a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a> in international journals and conferences.
