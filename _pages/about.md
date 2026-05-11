@@ -112,8 +112,8 @@ Further details about my background are available in <a href='https://ruiyangju.
 ## 🔥🔥 Multimodal Learning
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img  src='https://ruiyangju.github.io/images/Figure/CN-JP-translation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://arxiv.org/abs/2505.10072) \\
-**Rui-Yang Ju**, Sheng-Yen Huang, Yi-Ping Hung \\
+[An End-to-End Multimodal System for Subtitle Recognition and Chinese-Japanese Translation in Short Dramas](https://doi.org/10.1109/ICASSP55912.2026.11464228) \\
+Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu \\
 </div>
 </div>
 
