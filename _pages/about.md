@@ -114,7 +114,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 <div class='paper-box-text' markdown="1">
 [ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://arxiv.org/abs/2505.10072) \\
 **Rui-Yang Ju**, Sheng-Yen Huang, Yi-Ping Hung \\
-[Project](https://ruiyangju.github.io/ToonifyGB)｜[GitHub](https://github.com/RuiyangJu/ToonifyGB)
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/ToonifyGB)
 </div>
 </div>
 
