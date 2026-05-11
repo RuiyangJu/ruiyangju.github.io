@@ -109,6 +109,16 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
+## 🔥🔥 Multimodal Learning
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img  src='https://ruiyangju.github.io/images/Figure/CN-JP-translation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://arxiv.org/abs/2505.10072) \\
+**Rui-Yang Ju**, Sheng-Yen Huang, Yi-Ping Hung \\
+</div>
+</div>
+
+<hr style="margin-top: 20px; margin-bottom: 20px;">
+
 ## 🔥🔥 3D Gaussian Reconstruction and Blendshapes
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2026 Poster</div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
