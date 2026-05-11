@@ -86,7 +86,6 @@ Further details about my background are available in <a href='https://ruiyangju.
 ## 🔥🔥🔥 Document Image Binarization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJDAR 2026</div><img  src='https://ruiyangju.github.io/images/Figure/DKDS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [DKDS: A Benchmark Dataset of Degraded Kuzushiji Documents with Seals for Detection and Binarization](https://arxiv.org/abs/2511.09117) \\
 **Rui-Yang Ju**, Kohei Yamashita, Hirotaka Kameko, Shinsuke Mori \\
 [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/DKDS)
@@ -95,7 +94,6 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems 2024</div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Three-stage Binarization of Color Document Images Based on Discrete Wavelet Transform and Generative Adversarial Networks](https://doi.org/10.1016/j.knosys.2024.112542) \\
 **Rui-Yang Ju**, Yu-Shian Lin, Yanlin Jin, Chih-Chia Chen, Chun-Tse Chien, Jen-Shiun Chiang \\
 [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/abcpp12383/ThreeStageBinarization)
@@ -115,15 +113,9 @@ Further details about my background are available in <a href='https://ruiyangju.
 ## 🔥🔥 3D Gaussian Reconstruction and Blendshapes
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2026 Poster</div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://arxiv.org/abs/2505.10072) \\
 **Rui-Yang Ju**, Sheng-Yen Huang, Yi-Ping Hung \\
 [Project](https://ruiyangju.github.io/ToonifyGB)｜[GitHub](https://github.com/RuiyangJu/ToonifyGB)
-<details>
-<summary>Abstract</summary>
-The introduction of 3D Gaussian blendshapes has enabled the real-time reconstruction of animatable head avatars from monocular video. Toonify, a StyleGAN-based framework, has become widely used for facial image stylization. To extend Toonify for synthesizing diverse stylized 3D head avatars using Gaussian blendshapes, we propose an efficient two-stage framework, ToonifyGB. In Stage 1 (stylized video generation), we employ an improved StyleGAN to generate the stylized video from the input video frames, which addresses the limitation of cropping aligned faces at a fixed resolution as preprocessing for normal StyleGAN. This process provides a more stable video, which enables Gaussian blendshapes to better capture the high-frequency details of the video frames, and efficiently generate high-quality animation in the next stage. In Stage 2 (Gaussian blendshapes synthesis), we learn a stylized neutral head model and a set of expression blendshapes from the generated video. By combining the neutral head model with expression blendshapes, ToonifyGB can efficiently render stylized avatars with arbitrary expressions. We validate the effectiveness of ToonifyGB on the benchmark dataset using two styles: Arcane and Pixar.
-</details>
-
 </div>
 </div>
 
