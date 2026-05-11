@@ -90,7 +90,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 [DKDS: A Benchmark Dataset of Degraded Kuzushiji Documents with Seals for Detection and Binarization](https://arxiv.org/abs/2511.09117) \\
 **Rui-Yang Ju**, Kohei Yamashita, Hirotaka Kameko, Shinsuke Mori \\
-[Project](https://ruiyangju.github.io/DKDS/)｜[GitHub](https://github.com/RuiyangJu/DKDS)
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/DKDS)
 
 </div>
 </div>
