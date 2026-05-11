@@ -154,7 +154,7 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
-## 🔥 Image Super-Resolution 
+## 🔥🔥 Image Super-Resolution 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Tools and Applications 2023</div><img src='https://ruiyangju.github.io/images/Figure/SwinOIR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Resolution enhancement processing on low quality images using swin transformer based on interval dense connection strategy](https://doi.org/10.1007/s11042-023-16088-0) \\
