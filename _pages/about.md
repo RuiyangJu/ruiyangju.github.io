@@ -102,11 +102,9 @@ Further details about my background are available in <a href='https://ruiyangju.
 </div>
 
 <div class="paper-box-related" markdown="1">
-
 - ``Under Review`` [MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction](https://arxiv.org/abs/2512.14114), **Rui-Yang Ju**, KokSheik Wong, Yanlin Jin, Jen-Shiun Chiang. [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/MFE-GAN) [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Efficient_Document_Image_Binarization)
 - ``APSIPA ASC 2025`` [Efficient Generative Adversarial Networks for Color Document Image Enhancement and Binarization Using Multi-scale Feature Extraction](https://ieeexplore.ieee.org/document/11249173), **Rui-Yang Ju**, KokSheik Wong, Jen-Shiun Chiang. [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/MFE-GAN) [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Efficient_Document_Image_Binarization)
 - ``PRICAI 2023`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://doi.org/10.1007/978-981-99-7019-3_19), **Rui-Yang Ju**, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien.
-
 </div>
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
@@ -122,9 +120,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 </div>
 
 <div class="paper-box-related" markdown="1">
-
 - ``IEEE VR 2026 Poster`` [GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars](https://arxiv.org/abs/2601.17088), **Rui-Yang Ju**, Jen-Shiun Chiang. [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/GlassesGB)
-
 </div>
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
@@ -132,25 +128,17 @@ Further details about my background are available in <a href='https://ruiyangju.
 ## 🔥🔥 Fracture Detection
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports 2023</div><img src='https://ruiyangju.github.io/images/Figure/fracture-detection.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm](https://doi.org/10.1038/s41598-023-47460-7) \\
 **Rui-Yang Ju**, Weiming Cai \\
 [Project](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/) | [GitHub](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8)
-<details>
-<summary>Abstract</summary>
-Hospital emergency departments frequently receive lots of bone fracture cases, with pediatric wrist trauma fracture accounting for the majority of them. Before pediatric surgeons perform surgery, they need to ask patients how the fracture occurred and analyze the fracture situation by interpreting X-ray images. The interpretation of X-ray images often requires a combination of techniques from radiologists and surgeons, which requires time-consuming specialized training. With the rise of deep learning in the field of computer vision, network models applying for fracture detection has become an important research topic. In this paper, we use data augmentation to improve the model performance of YOLOv8 algorithm (the latest version of You Only Look Once) on a pediatric wrist trauma X-ray dataset (GRAZPEDWRI-DX), which is a public dataset. The experimental results show that our model has reached the state-of-the-art (SOTA) mean average precision (mAP 50). Specifically, mAP 50 of our model is 0.638, which is significantly higher than the 0.634 and 0.636 of the improved YOLOv7 and original YOLOv8 models. To enable surgeons to use our model for fracture detection on pediatric wrist trauma X-ray images, we have designed the application “Fracture Detection Using YOLOv8 App” to assist surgeons in diagnosing fractures, reducing the probability of error analysis, and providing more useful information for surgery.
-</details>
-
 </div>
 </div>
 
 <div class="paper-box-related" markdown="1">
-
 - ``IET Image Processing 2025`` [Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images](https://doi.org/10.1049/ipr2.70269), **Rui-Yang Ju**, Chun-Tse Chien, Enkaer Xieerke, Jen-Shiun Chiang.
 - ``IEEE Access 2025`` [YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection](https://ieeexplore.ieee.org/document/10918980), Chun-Tse Chien, **Rui-Yang Ju**, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang.
 - ``Electronics Letters 2024`` [YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](http://dx.doi.org/10.1049/ell2.13248), Chun-Tse Chien, **Rui-Yang Ju**, Kuang-Yi Chou, Jen-Shiun Chiang.
 - ``ICONIP 2024`` [YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection](https://doi.org/10.1007/978-981-96-6972-1_28), **Rui-Yang Ju**, Chun-Tse Chien, Jen-Shiun Chiang.
-
 </div>
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
