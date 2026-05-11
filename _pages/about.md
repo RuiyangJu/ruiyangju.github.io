@@ -98,7 +98,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 [Three-stage Binarization of Color Document Images Based on Discrete Wavelet Transform and Generative Adversarial Networks](https://doi.org/10.1016/j.knosys.2024.112542) \\
 **Rui-Yang Ju**, Yu-Shian Lin, Yanlin Jin, Chih-Chia Chen, Chun-Tse Chien, Jen-Shiun Chiang \\
-[GitHub](https://github.com/abcpp12383/ThreeStageBinarization)
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/abcpp12383/ThreeStageBinarization)
 </div>
 </div>
 
