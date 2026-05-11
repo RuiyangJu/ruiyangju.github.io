@@ -149,7 +149,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 <div class='paper-box-text' markdown="1">
 [Resolution enhancement processing on low quality images using swin transformer based on interval dense connection strategy](https://doi.org/10.1007/s11042-023-16088-0) \\
 **Rui-Yang Ju**, Chih-Chia Chen, Jen-Shiun Chiang, Yu-Shian Lin, Wei-Han Chen, Chun-Tse Chien \\
-[GitHub](https://github.com/Rubbbbbbbbby/SwinOIR)
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/Rubbbbbbbbby/SwinOIR)
 </div>
 </div>
 
