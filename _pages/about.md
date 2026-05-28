@@ -226,6 +226,7 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 <details>
 <summary>View more</summary>
 <ul>
+  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Guangzhou, China, 2026, PC Member.</li>
   <li>IEEE International Conference on Systems, Man, and Cybernetics (SMC), Bellevue, WA, USA, 2026, Reviewer.</li>
   <li>ACM Conference on Human Factors in Computing Systems (CHI), Barcelona, Spain, 2026, Poster Reviewer.</li>
   <li>International Joint Conference on Neural Networks (IJCNN), Maastricht, Netherlands, 2026, Reviewer.</li>
