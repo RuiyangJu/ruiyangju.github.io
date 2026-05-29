@@ -23,5 +23,5 @@ main:
     url: "/MFE-GAN"
   - title: "DKDS"
     url: "/DKDS"
-  - title: "RG-KCR"
-    url: "/RG-KCR"
+  - title: "Seal-Robust-KCR"
+    url: "/Seal-Robust-KCR"
