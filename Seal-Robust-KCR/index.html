@@ -141,26 +141,24 @@
         <div class="content has-text-justified" style="margin-bottom: 6rem;">
           <br>
           <p>
-          Kuzushiji was one of the most widely used cursive writing systems in pre-modern Japan.
-          Due to its highly cursive forms and extensive glyph variations, most modern Japanese readers are unable to read Kuzushiji characters. 
-          Consequently, recent studies have focused on developing automated Kuzushiji character recognition (KCR) methods, which have achieved strong performance on relatively clean Japanese historical document images. 
-          Although seals frequently appear in Japanese historical documents, existing methods often fail to maintain recognition accuracy under seal interference, particularly when seals overlap with characters. 
-          To address this challenge, we propose a seal-robust KCR framework. 
-          Based on character detection, classification, and ordering, the proposed framework additionally incorporates document restoration to mitigate seal interference, thereby improving overall recognition performance. 
-          In addition, we introduce a novel synthetic data augmentation strategy to enhance the performance of character detection models.
-          We further correct annotation errors, reconstruct the dataset, and create a synthetic test set to simulate severe seal interference.
-          Experimental results demonstrate the effectiveness of the proposed framework in mitigating the impact of seal interference on KCR.
-          Compared with a conventional baseline and NDLkotenOCR, it achieves relative character error rate (CER) reductions of 39.7% and 5.9%, respectively, on the real test set, and 50.1% and 41.7%, respectively, on the synthetic test set.       </p>
+            Kuzushiji was one of the most widely used cursive writing systems in pre-modern Japan.
+            Due to its highly cursive forms and extensive glyph variations, most modern Japanese readers are unable to read Kuzushiji characters. 
+            Consequently, recent studies have focused on developing automated Kuzushiji character recognition (KCR) methods, which have achieved strong performance on relatively clean Japanese historical document images. 
+            Although seals frequently appear in Japanese historical documents, existing methods often fail to maintain recognition accuracy under seal interference, particularly when seals overlap with characters. 
+            To address this challenge, we propose a seal-robust KCR framework. 
+            Based on character detection, classification, and ordering, the proposed framework additionally incorporates document restoration to mitigate seal interference, thereby improving overall recognition performance. 
+            In addition, we introduce a novel synthetic data augmentation strategy to enhance the performance of character detection models.
+            We further correct annotation errors, reconstruct the dataset, and create a synthetic test set to simulate severe seal interference.
+            Experimental results demonstrate the effectiveness of the proposed framework in mitigating the impact of seal interference on KCR.
+            Compared with a conventional baseline and NDLkotenOCR, it achieves relative character error rate (CER) reductions of 39.7% and 5.9%, respectively, on the real test set, and 50.1% and 41.7%, respectively, on the synthetic test set.       </p>
         </div>
-        <h2 class="title is-3">Highlight</h2>
+        <h2 class="title is-3">Pipeline</h2>
         <div class="content has-text-justified" style="margin-bottom: 6rem;">
-          <img src="./images/fig_teaser.png" style="display:block; margin:0 auto; width:80%">
+          <img src="./images/fig_pipeline.png" style="display:block; margin:0 auto; width:80%">
           <br>
           <p>
-            To the best of our knowledge, existing Kuzushiji character recognition systems have not explicitly addressed the impact of seal interference, which frequently overlaps with characters and substantially degrades recognition performance.
-            We present example recognition results produced by different methods under seal interference.
-            The left column shows the input Kuzushiji characters “尚書堂梓”, while the right three columns present the corresponding recognition outputs of three methods: Komonjo Camera (Fuminoha) [TOPPAN Inc., 2023], NDLkotenOCR-Lite [Aoike et al., 2024], and Metom [Imajuku et al., 2024].
-            The first row displays the raw document as input, while the second row shows the recognition results after applying our proposed document restoration method.
+            Conventional pipeline (blue flow) and the proposed pipeline (red flow) for seal-interference Japanese historical document images. 
+            Dashed arrows indicate additional processes performed in parallel with character detection without affecting the detection results.
           </p>
         </div>
       </div>
