@@ -197,7 +197,10 @@
           <img src="./images/fig_detection.png" style="display:block; margin:0 auto; width:100%">
           <br>
           <p>
-            Representative detection results produced by YOLOv12-medium [Tian et al., 2025] on Kuzushiji document images from the constructed dataset.
+            We present visual examples of the detection results produced by the YOLO11-L model trained with the proposed Synthetic Data Augmentation (SDA) strategy. 
+            The top row shows low-confidence detections obtained by the model. 
+            Stains in Japanese historical documents may lead to false positives, causing background noise to be mistakenly detected as Kuzushiji characters with confidence scores as low as 0.001. 
+            The bottom row shows the detection results after applying a confidence threshold of 0.1, which effectively removes most false positives.
           </p>
         </div>
       </div>
