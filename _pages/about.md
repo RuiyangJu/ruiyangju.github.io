@@ -74,10 +74,10 @@ Further details about my background are available in <a href='https://ruiyangju.
 ## 🔥🔥🔥 Optical Character Recognition
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/RG-KCR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Restoration-Guided Kuzushiji Character Recognition Framework under Seal Interference](https://arxiv.org/abs/2602.19086) \\
+[Seal-Robust KCR: A Robust Kuzushiji Character Recognition Framework under Seal Interference](https://arxiv.org/abs/2602.19086) \\
 **Rui-Yang Ju**, Kohei Yamashita, Hirotaka Kameko, Shinsuke Mori \\
-[![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/RG-KCR)
-[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/RG-KCR)
+[![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/Seal-Robust-KCR)
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/Seal-Robust-KCR)
 </div>
 </div>
 
