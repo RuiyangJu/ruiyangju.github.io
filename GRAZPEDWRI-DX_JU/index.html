@@ -108,6 +108,18 @@
             The left side is the original X-ray image and the right side is the image from the expert's manual labelling.
           </h5>
         </div>
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified" style="margin-bottom: 6rem;">
+          <br>
+          <p>
+            Hospital emergency departments frequently receive lots of bone fracture cases, with pediatric wrist trauma fracture accounting for the majority of them. Before pediatric surgeons perform surgery, they need to ask patients how the fracture occurred and analyze the fracture situation by interpreting X-ray images. 
+            The interpretation of X-ray images often requires a combination of techniques from radiologists and surgeons, which requires time-consuming specialized training. With the rise of deep learning in the field of computer vision, network models applying for fracture detection has become an important research topic. 
+            In this paper, we use data augmentation to improve the model performance of YOLOv8 algorithm (the latest version of You Only Look Once) on a pediatric wrist trauma X-ray dataset (GRAZPEDWRI-DX), which is a public dataset. 
+            The experimental results show that our model has reached the state-of-the-art (SOTA) mean average precision (mAP 50). 
+            Specifically, mAP 50 of our model is 0.638, which is significantly higher than the 0.634 and 0.636 of the improved YOLOv7 and original YOLOv8 models. 
+            To enable surgeons to use our model for fracture detection on pediatric wrist trauma X-ray images, we have designed the application "Fracture Detection Using YOLOv8 App" to assist surgeons in diagnosing fractures, reducing the probability of error analysis, and providing more useful information for surgery.
+          </p>
+        </div>
         <h2 class="title is-3" style="margin-top: 4rem;">Web Application Demo</h2>
         <div class="content has-text-justified" style="margin-bottom: 6rem;">
           <video id="replay-video" controls muted preload playsinline loop style="display: block; margin: 0 auto; width: 80%;">
