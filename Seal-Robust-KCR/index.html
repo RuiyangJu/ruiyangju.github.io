@@ -214,9 +214,9 @@
           <br>
           <p>
             We present visual examples of the detection results produced by the YOLO11-L model trained with the proposed Synthetic Data Augmentation (SDA) strategy. 
-            The top row shows low-confidence detections obtained by the model. 
-            Stains in Japanese historical documents may lead to false positives, causing background noise to be mistakenly detected as Kuzushiji characters with confidence scores as low as 0.001. 
-            The bottom row shows the detection results after applying a confidence threshold of 0.1, which effectively removes most false positives.
+            The top row shows low-confidence bounding boxes produced by the detection model. 
+            Stains in Japanese historical documents may cause false positives, resulting in background noise being mistakenly detected as Kuzushiji characters with confidence scores as low as 0.001.
+            The bottom row shows the detection results with a confidence threshold of 0.1, which effectively removes most false positives.
           </p>
         </div>
       </div>
