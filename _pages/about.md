@@ -72,7 +72,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 # 📄 Publication
 ## 🔥🔥🔥 Optical Character Recognition
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/RG-KCR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/Seal-Robust-KCR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Seal-Robust KCR: A Robust Kuzushiji Character Recognition Framework under Seal Interference](https://arxiv.org/abs/2602.19086) \\
 **Rui-Yang Ju**, Kohei Yamashita, Hirotaka Kameko, Shinsuke Mori \\
