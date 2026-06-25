@@ -238,7 +238,6 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
   <li>International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025.</li>
   <li>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025.</li>
   <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Kyoto, Japan, 2024.</li>
-  <li>British Machine Vision Conference (BMVC), Glasgow, UK, 2024.</li>
   <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Jakarta, Indonesia, 2023.</li>
 </ul>
 </details>
