@@ -199,6 +199,7 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
   <li>Alexandria Engineering Journal.</li>
   <li>Computer Vision and Image Understanding.</li>
   <li>Multimedia Tools and Applications.</li>
+  <li>Multimedia Systems.</li>
   <li>The Visual Computer.</li>
   <li>iScience.</li>
   <li>Scientific Reports.</li>
