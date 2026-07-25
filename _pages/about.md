@@ -109,7 +109,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
-## 🔥🔥 Multimodal Learning
+## 🔥🔥 Short-Drama Subtitle Recognition and Translation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img  src='https://ruiyangju.github.io/images/Figure/CN-JP-translation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [An End-to-End Multimodal System for Subtitle Recognition and Chinese-Japanese Translation in Short Dramas](https://doi.org/10.1109/ICASSP55912.2026.11464228) \\
@@ -119,7 +119,7 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
-## 🔥🔥 3D Gaussian Reconstruction and Blendshapes
+## 🔥🔥 3D Gaussian Head Avatar Creation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2026 Poster</div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://doi.org/10.1109/VRW70859.2026.00201) \\
@@ -135,7 +135,7 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
-## 🔥🔥 Fracture Detection
+## 🔥🔥 Pediatric Wrist Fracture Detection
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports 2023</div><img src='https://ruiyangju.github.io/images/Figure/fracture-detection.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm](https://doi.org/10.1038/s41598-023-47460-7) \\
@@ -154,7 +154,7 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
-## 🔥🔥 Image Super-Resolution 
+## 🔥🔥 Low-Quality Image Enhancement
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Tools and Applications 2023</div><img src='https://ruiyangju.github.io/images/Figure/SwinOIR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Resolution enhancement processing on low quality images using swin transformer based on interval dense connection strategy](https://doi.org/10.1007/s11042-023-16088-0) \\
@@ -166,7 +166,6 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
 ## 🔥 Other
-
 <div class="paper-box-related" markdown="1">
   
 - ``J-STARS 2026`` [Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](https://doi.org/10.1109/JSTARS.2026.3685660), Yanbing Bai, **Rui-Yang Ju**, Lemeng Zhao, Junjie Hu, Jianchao Bi, Erick Mas, Shunichi Koshimura.
