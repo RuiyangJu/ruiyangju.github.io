@@ -109,7 +109,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
-## 🔥🔥 Short-Drama Subtitle Recognition and Translation
+## 🔥🔥 Subtitle Recognition and Translation for Short Dramas
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img  src='https://ruiyangju.github.io/images/Figure/CN-JP-translation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [An End-to-End Multimodal System for Subtitle Recognition and Chinese-Japanese Translation in Short Dramas](https://doi.org/10.1109/ICASSP55912.2026.11464228) \\
@@ -154,7 +154,7 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
-## 🔥🔥 Low-Quality Image Enhancement
+## 🔥🔥 Image Super-Resolution
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Tools and Applications 2023</div><img src='https://ruiyangju.github.io/images/Figure/SwinOIR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Resolution enhancement processing on low quality images using swin transformer based on interval dense connection strategy](https://doi.org/10.1007/s11042-023-16088-0) \\
