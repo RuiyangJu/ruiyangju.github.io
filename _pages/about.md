@@ -24,7 +24,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently pursuing a Ph.D. degree (JST DoGS SPRING Fellowship) at the [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/), [Kyoto University](https://www.kyoto-u.ac.jp/), Japan. 
-I am a member of the [LSTA Lab.](https://www.lsta.media.kyoto-u.ac.jp/), where I conduct research on multimodal document understanding, optical character recognition, and historical document analysis.
+I am a member of the [LSTA Lab.](https://www.lsta.media.kyoto-u.ac.jp/), where my research focuses on the processing and analysis of Japanese historical document images, particularly Kuzushiji character recognition (Kuzushiji OCR).
 If you are interested in any form of academic collaboration, please feel free to [email](mailto:jryjry1094791442@gmail.com) me.
 
 I received my Master of Science (M.S.) degree in 2025 from the [Graduate Institute of Networking and Multimedia](https://www.inm.ntu.edu.tw/), [National Taiwan University](https://www.ntu.edu.tw/), Taipei, Taiwan.
