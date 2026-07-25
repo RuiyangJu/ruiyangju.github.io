@@ -182,7 +182,7 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 # 🛠️ Professional Service
 ## Journal Reviewer
 <details>
-<summary>View more</summary>
+<summary style="padding-left:15px;">View more</summary>
 <ul>
   <li>IEEE Transactions on Visualization and Computer Graphics.</li>
   <li>Pattern Recognition.</li>
@@ -221,7 +221,7 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 
 ## Conference Committee and Reviewer
 <details>
-<summary>View more</summary>
+<summary style="padding-left:15px;">View more</summary>
 <ul>
   <li>AAAI Conference on Artificial Intelligence (AAAI), Montréal, Canada, 2027.</li>
   <li>International Joint Conference on Neural Networks (IJCNN), Cape Town, South Africa, 2027.</li>
