@@ -258,6 +258,21 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 - Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei, Taiwan, 2023.09 - 2025.06.
 - Electrical and Computer Engineering, Tamkang University, New Taipei, Taiwan, 2019.09 - 2023.06.
 
+<span class="anchor" id="project"></span>
+
+# 🚀 Project
+<details>
+<summary>View more</summary>
+<ul>
+  <li><a href="/Seal-Robust-KCR">Seal-Robust-KCR</a></li>
+  <li><a href="/DKDS">DKDS</a></li>
+  <li><a href="/MFE-GAN">MFE-GAN</a></li>
+  <li><a href="/GlassesGB">GlassesGB</a></li>
+  <li><a href="/ToonifyGB">ToonifyGB</a></li>
+  <li><a href="/GRAZPEDWRI-DX_JU">GRAZPEDWRI-DX_JU</a></li>
+</ul>
+</details>
+
 <hr style="margin-top: 40px; margin-bottom: 20px;">
 
 <div style="text-align: center; font-size: 13px; color: #888; line-height: 1.8;">
@@ -266,24 +281,3 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
   Hosted by GitHub Pages.  
   Recommended to use Chrome.
 </div>
-
-# 🚀 Research Projects
-<details>
-<summary>View more</summary>
-<ul>
-  <li>AAAI Conference on Artificial Intelligence (AAAI), Montréal, Canada, 2027.</li>
-  <li>International Joint Conference on Neural Networks (IJCNN), Cape Town, South Africa, 2027.</li>
-  <li>International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), Kumamoto, Japan, 2026.</li>
-  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Guangzhou, China, 2026.</li>
-  <li>IEEE International Conference on Systems, Man, and Cybernetics (SMC), Bellevue, WA, USA, 2026.</li>
-  <li>ACM Conference on Human Factors in Computing Systems (CHI), Barcelona, Spain, 2026.</li>
-  <li>International Joint Conference on Neural Networks (IJCNN), Maastricht, Netherlands, 2026.</li>
-  <li>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026.</li>
-  <li>AAAI Conference on Artificial Intelligence (AAAI), Singapore, 2026.</li>
-  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Wellington, New Zealand, 2025.</li>
-  <li>International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025.</li>
-  <li>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025.</li>
-  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Kyoto, Japan, 2024.</li>
-  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Jakarta, Indonesia, 2023.</li>
-</ul>
-</details>
