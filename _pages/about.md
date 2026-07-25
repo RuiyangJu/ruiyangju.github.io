@@ -160,16 +160,6 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2023</div><img src='https://ruiyangju.github.io/images/Figure/SwinOIR.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
- \\
- \\
-
-</div>
-</div>
-
-<hr style="margin-top: 20px; margin-bottom: 20px;">
-
 ## 🔥 Other
 <div class="paper-box-related" markdown="1">
   
