@@ -71,7 +71,7 @@ Further details about my background are available in <a href='https://ruiyangju.
 <span class="anchor" id="publication"></span>
 
 # 📄 Publication
-## 🔥🔥🔥 Optical Character Recognition
+## 🔥🔥🔥 Japanese Historical Document Processing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/Seal-Robust-KCR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Seal-Robust KCR: A Robust Kuzushiji Character Recognition Framework under Seal Interference](https://arxiv.org/abs/2602.19086) \\
@@ -81,9 +81,6 @@ Further details about my background are available in <a href='https://ruiyangju.
 </div>
 </div>
 
-<hr style="margin-top: 20px; margin-bottom: 20px;">
-
-## 🔥🔥🔥 Document Image Binarization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJDAR 2026</div><img  src='https://ruiyangju.github.io/images/Figure/DKDS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [DKDS: A Benchmark Dataset of Degraded Kuzushiji Documents with Seals for Detection and Binarization](https://arxiv.org/abs/2511.09117) \\
@@ -93,6 +90,9 @@ Further details about my background are available in <a href='https://ruiyangju.
 </div>
 </div>
 
+<hr style="margin-top: 20px; margin-bottom: 20px;">
+
+## 🔥🔥🔥 Degraded Document Image Binarization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems 2024</div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Three-stage Binarization of Color Document Images Based on Discrete Wavelet Transform and Generative Adversarial Networks](https://doi.org/10.1016/j.knosys.2024.112542) \\
