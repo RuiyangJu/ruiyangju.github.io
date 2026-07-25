@@ -24,7 +24,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently pursuing a Ph.D. degree (JST DoGS SPRING Fellowship) at the [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/), [Kyoto University](https://www.kyoto-u.ac.jp/), Japan. 
-I am a member of the [LSTA Lab.](https://www.lsta.media.kyoto-u.ac.jp/), where my research focuses on the processing and analysis of Japanese historical document images, particularly Kuzushiji character recognition (Kuzushiji OCR).
+I am a member of the [LSTA Lab.](https://www.lsta.media.kyoto-u.ac.jp/), where my current research focuses on the processing and analysis of Japanese historical document images, particularly Kuzushiji character recognition (Kuzushiji OCR).
 If you are interested in any form of academic collaboration, please feel free to [email](mailto:jryjry1094791442@gmail.com) me.
 
 I received my Master of Science (M.S.) degree in 2025 from the [Graduate Institute of Networking and Multimedia](https://www.inm.ntu.edu.tw/), [National Taiwan University](https://www.ntu.edu.tw/), Taipei, Taiwan.
@@ -160,12 +160,11 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
-## 🔥🔥 Image Super-Resolution
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Tools and Applications 2023</div><img src='https://ruiyangju.github.io/images/Figure/SwinOIR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2023</div><img src='https://ruiyangju.github.io/images/Figure/SwinOIR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Resolution enhancement processing on low quality images using swin transformer based on interval dense connection strategy](https://doi.org/10.1007/s11042-023-16088-0) \\
-**Rui-Yang Ju**, Chih-Chia Chen, Jen-Shiun Chiang, Yu-Shian Lin, Wei-Han Chen, Chun-Tse Chien \\
-[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/Rubbbbbbbbby/SwinOIR)
+ \\
+ \\
+
 </div>
 </div>
 
@@ -179,6 +178,8 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 - ``ADMA  2025`` [From Roads to Lights: Satellite Evidence on Smart City Planning](https://doi.org/10.1007/978-981-95-3459-3_24), Yang Yang, Tianzhi Wu, Lize Zheng, **Rui-Yang Ju**, Yanbing Bai.
 
 - ``ICRA 2025`` [ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://doi.org/10.1109/ICRA55743.2025.11127848), Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong. [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://www.neiljin.site/projects/orbsfm) [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/PeaceNeil/ORB-SfMLearner)
+
+- ``MTA 2023`` [Resolution enhancement processing on low quality images using swin transformer based on interval dense connection strategy](https://doi.org/10.1007/s11042-023-16088-0), **Rui-Yang Ju**, Chih-Chia Chen, Jen-Shiun Chiang, Yu-Shian Lin, Wei-Han Chen, Chun-Tse Chien. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/Rubbbbbbbbby/SwinOIR)
 
 - ``JRTIP 2023`` [Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification](https://doi.org/10.1007/s11554-023-01271-1), **Rui-Yang Ju**, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/TripleNet)
 
