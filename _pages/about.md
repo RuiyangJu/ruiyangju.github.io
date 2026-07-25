@@ -261,7 +261,7 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 <span class="anchor" id="project"></span>
 
 # 🚀 Project
-<details>
+<details style="margin-left:20px;">
 <summary>View more</summary>
 <ul>
   <li><a href="https://ruiyangju.github.io/Seal-Robust-KCR">Seal-Robust-KCR</a></li>
