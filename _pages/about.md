@@ -229,7 +229,7 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 <ul>
   <li>AAAI Conference on Artificial Intelligence (AAAI), Montréal, Canada, 2027.</li>
   <li>International Joint Conference on Neural Networks (IJCNN), Cape Town, South Africa, 2027.</li>
-  <li>International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2026.</li>
+  <li>International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), Kumamoto, Japan, 2026.</li>
   <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Guangzhou, China, 2026.</li>
   <li>IEEE International Conference on Systems, Man, and Cybernetics (SMC), Bellevue, WA, USA, 2026.</li>
   <li>ACM Conference on Human Factors in Computing Systems (CHI), Barcelona, Spain, 2026.</li>
