@@ -191,7 +191,8 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
   <li>Neural Networks.</li>
   <li>IEEE Signal Processing Letters.</li>
   <li>Engineering Applications of Artificial Intelligence.</li>
-  <li>IET Signal Processing</li>
+  <li>IET Signal Processing.</li>
+  <li>BMC Medical Imaging.</li>
   <li>Alexandria Engineering Journal.</li>
   <li>Computer Vision and Image Understanding.</li>
   <li>Multimedia Tools and Applications.</li>
