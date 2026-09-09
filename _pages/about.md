@@ -186,7 +186,7 @@ A detailed record of my reviewing activities is available on my ORCID profile <a
 ### Selected Journal Review Service
 - IEEE Transactions on Visualization and Computer Graphics (TVCG), Pattern Recognition (PR), Knowledge-Based Systems (KBS), Neural Networks (NN), Neurocomputing, IEEE Signal Processing Letters, and Engineering Applications of Artificial Intelligence (EAAI).
 
-## Conference Committee and Review Service
+### Conference Committee and Review Service
 - AAAI 2027, IJCNN 2027, PRIMA 2026, PRICAI 2026, SMC 2026, CHI 2026, IJCNN 2026, ICASSP 2026, AAAI 2026, PRICAI 2025, IJCNN 2025, ICASSP 2025, PRICAI 2024, PRICAI 2023.
 
 <hr style="margin-top: 40px; margin-bottom: 20px;">
