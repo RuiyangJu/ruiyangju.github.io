@@ -54,72 +54,72 @@ For a detailed publication record, please see my Google Scholar profile <a href=
 - [Seal-Robust KCR: A Robust Kuzushiji Character Recognition Framework under Seal Interference](https://arxiv.org/abs/2602.19086) \\
 **Rui-Yang Ju**, Kohei Yamashita, Hirotaka Kameko, Shinsuke Mori \\
 [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/Seal-Robust-KCR)
-[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Seal-Robust-KCR) \\
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Seal-Robust-KCR) 
 
 - [DKDS: A Benchmark Dataset of Degraded Kuzushiji Documents with Seals for Detection and Binarization](https://arxiv.org/abs/2511.09117) \\
 **Rui-Yang Ju**, Kohei Yamashita, Hirotaka Kameko, Shinsuke Mori \\
 International Journal on Document Analysis and Recognition 2026 \\
 [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/DKDS)
-[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/DKDS) \\
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/DKDS) 
 
 - [Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](https://doi.org/10.1109/JSTARS.2026.3685660) \\
 Yanbing Bai, **Rui-Yang Ju**, Lemeng Zhao, Junjie Hu, Jianchao Bi, Erick Mas, Shunichi Koshimura \\
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2026 \\
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2026
 
 - [An End-to-End Multimodal System for Subtitle Recognition and Chinese-Japanese Translation in Short Dramas](https://doi.org/10.1109/ICASSP55912.2026.11464228) \\
 Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu \\
-IEEE International Conference on Acoustics, Speech, and Signal Processing 2026 \\
+IEEE International Conference on Acoustics, Speech, and Signal Processing 2026
 
 - [ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://doi.org/10.1109/VRW70859.2026.00201) \\
 **Rui-Yang Ju**, Sheng-Yen Huang, Yi-Ping Hung \\
 IEEE Conference on Virtual Reality and 3D User Interfaces (Poster) 2026 \\
 [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/ToonifyGB)
-[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/ToonifyGB) \\
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/ToonifyGB) 
 
 - [GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars](https://doi.org/10.1109/VRW70859.2026.00215) \\
 **Rui-Yang Ju**, Jen-Shiun Chiang \\
 IEEE Conference on Virtual Reality and 3D User Interfaces (Poster) 2026 \\
-[![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/GlassesGB) \\
+[![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/GlassesGB) 
 
 - [Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images](https://doi.org/10.1049/ipr2.70269) \\
 **Rui-Yang Ju**, Chun-Tse Chien, Enkaer Xieerke, Jen-Shiun Chiang \\
 IET Image Processing 2026 \\
-[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/FCE-YOLOv8) \\
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/FCE-YOLOv8) 
 
 - [ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://doi.org/10.1109/ICRA55743.2025.11127848) \\
 Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong \\
 IEEE International Conference on Robotics and Automation 2025 \\
-[![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://www.neiljin.site/projects/orbsfm) [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/PeaceNeil/ORB-SfMLearner) \\
+[![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://www.neiljin.site/projects/orbsfm) [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/PeaceNeil/ORB-SfMLearner) 
 
 - [Three-stage Binarization of Color Document Images Based on Discrete Wavelet Transform and Generative Adversarial Networks](https://doi.org/10.1016/j.knosys.2024.112542) \\
 **Rui-Yang Ju**, Yu-Shian Lin, Yanlin Jin, Chih-Chia Chen, Chun-Tse Chien, Jen-Shiun Chiang \\
 Knowledge-Based Systems 2024 \\
-[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/abcpp12383/ThreeStageBinarization) \\
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/abcpp12383/ThreeStageBinarization) 
   
 - [YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection](https://doi.org/10.1007/978-981-96-6972-1_28) \\
 **Rui-Yang Ju**, Chun-Tse Chien, Jen-Shiun Chiang \\
 International Conference on Neural Information Processing 2024 \\
-[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8) \\
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8) 
 
 - [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://doi.org/10.1007/978-981-99-7019-3_19) \\
 **Rui-Yang Ju**, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien \\
-Pacific Rim International Conference on Artificial Intelligence 2023 \\
+Pacific Rim International Conference on Artificial Intelligence 2023 
 
 - [Fracture Detection in Pediatric Wrist Trauma X-ray Images Using YOLOv8 Algorithm](https://doi.org/10.1038/s41598-023-47460-7) \\
 **Rui-Yang Ju**, Weiming Cai \\
 Scientific Reports 2023 \\
 [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU)
-[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) \\
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8) 
 
 - [Resolution enhancement processing on low quality images using swin transformer based on interval dense connection strategy](https://doi.org/10.1007/s11042-023-16088-0) \\
 **Rui-Yang Ju**, Chih-Chia Chen, Jen-Shiun Chiang, Yu-Shian Lin, Wei-Han Chen, Chun-Tse Chien \\
 Multimedia Tools and Applications 2023 \\
-[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/Rubbbbbbbbby/SwinOIR) \\
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/Rubbbbbbbbby/SwinOIR) 
 
 - [Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification](https://doi.org/10.1007/s11554-023-01271-1) \\ 
 **Rui-Yang Ju**, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang \\
 Journal of Real-Time Image Processing 2023 \\
-[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/TripleNet) \\
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/TripleNet) 
 
 # Awards
 <span class='anchor' id='Awards'></span>
