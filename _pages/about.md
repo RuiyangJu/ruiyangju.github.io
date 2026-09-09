@@ -278,7 +278,4 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 
 <div style="text-align: center; font-size: 13px; color: #888; line-height: 1.8;">
   © Copyright 2026 RuiYang Ju.  
-  Powered by RayeRen.  
-  Hosted by GitHub Pages.  
-  Recommended to use Chrome.
 </div>
