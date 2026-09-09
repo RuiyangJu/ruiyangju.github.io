@@ -42,7 +42,7 @@ If you are interested in academic collaboration, please feel free to contact me.
 - Historical Document Image Processing
 - Low-Resource Language Processing
 
-# Publications
+# Selected Publications
 <span class="anchor" id="Publications"></span>
 
 My research spans Computer Vision, Image Processing, Multimodal Learning, Natural Language Processing, and Computer Graphics. 
