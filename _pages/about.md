@@ -252,17 +252,7 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 - Tamkang University, Undergraduate Research Fellowship, Aug. 2021.
 - Tamkang University, Excellent Academic Performance Award (Top 1% Ranking), May 2021; Dec. 2022.
 
-<span class="anchor" id="education"></span>
-
-# 🎓 Education
-- Graduate School of Informatics, Kyoto University, Kyoto, Japan, 2025.10 - 2028.09.
-- Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei, Taiwan, 2023.09 - 2025.06.
-- Electrical and Computer Engineering, Tamkang University, New Taipei, Taiwan, 2019.09 - 2023.06.
-
-<span class="anchor" id="project"></span>
-
 <hr style="margin-top: 40px; margin-bottom: 20px;">
-
 <div style="text-align: center; font-size: 13px; color: #888; line-height: 1.8;">
   © Copyright 2026 RuiYang Ju.  
 </div>
