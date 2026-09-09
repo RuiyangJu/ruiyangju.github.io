@@ -39,8 +39,8 @@ I have published numerous papers in international journals and conferences <a hr
 - 2025.11: I am the recipient of the <a href="https://www.kugd.k.kyoto-u.ac.jp/en/support/recruitlist" target="_blank">Kyoto University DoGS SPRING Fellowship</a>. Thanks Kyoto University.
 - 2025.06: I receive an offer for a PhD student at Kyoto University, Kyoto, Japan.
 
-<span class="anchor" id="Publications"></span>
 # Publications
+<span class="anchor" id="Publications"></span>
 ## 🔥🔥🔥 Japanese Historical Document Processing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/Seal-Robust-KCR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
