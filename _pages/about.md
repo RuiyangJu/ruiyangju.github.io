@@ -170,45 +170,8 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 <span class="anchor" id="Services"></span>
 # Services
 I currently serve as a reviewer for several international journals and conferences. <a href="https://orcid.org/0000-0003-2240-1377"><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ruiyangju/ruiyangju.github.io@main/orcid_peer_review_shieldsio.json&logo=ORCID&labelColor=f6f6f6&color=9cf&style=flat&label=Peer%20Reviews"></a>
-## Journal Reviewer
-<details>
-<summary style="padding-left:15px;">View more</summary>
-<ul>
-  <li>IEEE Transactions on Visualization and Computer Graphics.</li>
-  <li>Pattern Recognition.</li>
-  <li>Knowledge-based Systems.</li>
-  <li>Neurocomputing.</li>
-  <li>Neural Networks.</li>
-  <li>IEEE Signal Processing Letters.</li>
-  <li>Engineering Applications of Artificial Intelligence.</li>
-  <li>IET Signal Processing.</li>
-  <li>BMC Medical Imaging.</li>
-  <li>Alexandria Engineering Journal.</li>
-  <li>Computer Vision and Image Understanding.</li>
-  <li>Multimedia Tools and Applications.</li>
-  <li>Multimedia Systems.</li>
-  <li>The Visual Computer.</li>
-  <li>iScience.</li>
-  <li>Scientific Reports.</li>
-  <li>Engineering Reports</li>
-  <li>npj Heritage Science.</li>
-  <li>Cognitive Computation.</li>
-  <li>International Journal of Multimedia Information Retrieval.</li>
-  <li>International Journal of Machine Learning and Cybernetics.</li>
-  <li>Plos One.</li>
-  <li>Journal of Real-Time Image Processing.</li>
-  <li>International Journal of Computational Intelligence Systems.</li>
-  <li>The Journal of Supercomputing.</li>
-  <li>Frontiers in Computer Science.</li>
-  <li>Frontiers in Medicine.</li>
-  <li>Signal, Image and Video Processing.</li>
-  <li>Telecommunication Systems.</li>
-  <li>Journal of Engineering.</li>
-  <li>Franklin Open.</li>
-  <li>Journal of King Saud University Computer and Information Sciences.</li>
-  <li>Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization.</li>
-</ul>
-</details>
+### Selected Journal Reviewer
+IEEE Transactions on Visualization and Computer Graphics (TVCG), Pattern Recognition (PR), Knowledge-Based Systems (KBS), Neural Networks (NN), Neurocomputing, IEEE Signal Processing Letters, and Engineering Applications of Artificial Intelligence (EAAI).
 
 ## Conference Committee and Reviewer
 <details>
@@ -230,8 +193,6 @@ I currently serve as a reviewer for several international journals and conferenc
   <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Jakarta, Indonesia, 2023.</li>
 </ul>
 </details>
-
-<span class="anchor" id="funding"></span>
 
 # Awards
 <span class='anchor' id='Awards'></span>
