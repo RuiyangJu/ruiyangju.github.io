@@ -31,9 +31,6 @@ I was a member of [NTU imLab](https://ntuimlab.tw/), and my master’s thesis fo
 I obtained my Bachelor of Science (B.S.) degree in 2023 in [Electrical and Computer Engineering](http://www.ee.tku.edu.tw/) from [Tamkang University](https://www.tku.edu.tw/), New Taipei City, Taiwan, where I graduated first in my department (1/68). 
 I conducted my undergraduate research at the Advanced Mixed-Operation System Laboratory (AMOS Lab.) at Tamkang University, focusing on object detection, document image binarization, and image super-resolution.
 
-My primary research interests include Multimodal Learning (Vision-Language Models), Computer Vision (Optical Character Recognition, Object Detection, Document Understanding), Image Processing (Document Image Enhancement and Binarization, Image Super-Resolution), Natural Language Processing (Large Language Models), and Computer Graphics (3D Gaussian Reconstruction and Blendshapes).
-I have published numerous papers in international journals and conferences <a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>.
-
 # News
 <span class="anchor" id="News"></span>
 
@@ -42,6 +39,11 @@ I have published numerous papers in international journals and conferences <a hr
 
 # Publications
 <span class="anchor" id="Publications"></span>
+
+My research experience spans Multimodal Learning (Vision-Language Models), Computer Vision (Optical Character Recognition, Object Detection, Document Understanding), Image Processing (Document Image Enhancement and Binarization, Image Super-Resolution), Natural Language Processing (Large Language Models), and Computer Graphics (3D Gaussian Reconstruction and Blendshapes).
+I have published numerous papers in international journals and conferences.
+For a detailed publication record, please see my Google Scholar profile <a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>.
+
 ## 🔥🔥🔥 Japanese Historical Document Processing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/Seal-Robust-KCR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
