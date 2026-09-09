@@ -71,7 +71,16 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu \\
 IEEE International Conference on Acoustics, Speech, and Signal Processing 2026
 
+- [ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://doi.org/10.1109/VRW70859.2026.00201) \\
+**Rui-Yang Ju**, Sheng-Yen Huang, Yi-Ping Hung \\
+IEEE Conference on Virtual Reality and 3D User Interfaces (Poster) 2026 \\
+[![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/ToonifyGB)
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/ToonifyGB)
 
+- [GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars](https://doi.org/10.1109/VRW70859.2026.00215) \\
+**Rui-Yang Ju**, Jen-Shiun Chiang \\
+IEEE Conference on Virtual Reality and 3D User Interfaces (Poster) 2026 \\
+[![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/GlassesGB)
 
 ## 🔥🔥🔥 Degraded Document Image Binarization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems 2024</div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
@@ -88,21 +97,6 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing 2026
 - ``PRICAI 2023`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://doi.org/10.1007/978-981-99-7019-3_19), **Rui-Yang Ju**, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien. 
 </div>
 
-<hr style="margin-top: 20px; margin-bottom: 20px;">
-
-## 🔥🔥 3D Gaussian Head Avatar Creation
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2026 Poster</div><img  src='https://ruiyangju.github.io/images/Figure/ToonifyGB.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://doi.org/10.1109/VRW70859.2026.00201) \\
-**Rui-Yang Ju**, Sheng-Yen Huang, Yi-Ping Hung \\
-[![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/ToonifyGB)
-[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/ToonifyGB)
-</div>
-</div>
-
-<div class="paper-box-related" markdown="1">
-- ``IEEE VR 2026 Poster`` [GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars](https://doi.org/10.1109/VRW70859.2026.00215), **Rui-Yang Ju**, Jen-Shiun Chiang. [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/GlassesGB)
-</div>
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
