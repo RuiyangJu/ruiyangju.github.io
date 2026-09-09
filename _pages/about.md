@@ -55,10 +55,9 @@ For a detailed publication record, please see my Google Scholar profile <a href=
 [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/Seal-Robust-KCR)
 [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Seal-Robust-KCR)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJDAR 2026</div><img  src='https://ruiyangju.github.io/images/Figure/DKDS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[DKDS: A Benchmark Dataset of Degraded Kuzushiji Documents with Seals for Detection and Binarization](https://arxiv.org/abs/2511.09117) \\
+- [DKDS: A Benchmark Dataset of Degraded Kuzushiji Documents with Seals for Detection and Binarization](https://arxiv.org/abs/2511.09117) \\
 **Rui-Yang Ju**, Kohei Yamashita, Hirotaka Kameko, Shinsuke Mori \\
+International Journal on Document Analysis and Recognition 2026 \\
 [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/DKDS)
 [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/DKDS)
 </div>
