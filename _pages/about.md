@@ -37,6 +37,9 @@ I conducted my undergraduate research at the Advanced Mixed-Operation System Lab
 - 2025.11: I am the recipient of the <a href="https://www.kugd.k.kyoto-u.ac.jp/en/support/recruitlist" target="_blank">Kyoto University DoGS SPRING Fellowship</a>. Thanks Kyoto University.
 - 2025.06: I receive an offer for a PhD student at Graduate School of Informatics, Kyoto University, Kyoto, Japan.
 
+# Current Research Directions
+
+
 # Publications
 <span class="anchor" id="Publications"></span>
 
