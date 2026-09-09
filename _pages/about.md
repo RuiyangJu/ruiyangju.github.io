@@ -21,15 +21,14 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-I am currently pursuing a Ph.D. degree (JST DoGS SPRING Fellowship) at the [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/), [Kyoto University](https://www.kyoto-u.ac.jp/), Japan. 
-I am a member of the [LSTA Lab.](https://www.lsta.media.kyoto-u.ac.jp/), where my current research focuses on the processing and analysis of Japanese historical document images, particularly Kuzushiji character recognition (Kuzushiji OCR).
-If you are interested in any form of academic collaboration, please feel free to [email](mailto:jryjry1094791442@gmail.com) me.
+I am currently pursuing a Ph.D. degree at the Graduate School of Informatics, Kyoto University, and am a member of the [LSTA Lab.](https://www.lsta.media.kyoto-u.ac.jp/).
 
-I received my Master of Science (M.S.) degree in 2025 from the [Graduate Institute of Networking and Multimedia](https://www.inm.ntu.edu.tw/), [National Taiwan University](https://www.ntu.edu.tw/), Taipei, Taiwan.
-I was a member of [NTU imLab](https://ntuimlab.tw/), and my master’s thesis focused on 3D Gaussian Splatting (3DGS) and 3D head reconstruction.
+I am a recipient of <a href="https://www.kugd.k.kyoto-u.ac.jp/en/support/recruitlist" target="_blank">2025 Kyoto University DoGS SPRING Fellowship</a>.
 
-I obtained my Bachelor of Science (B.S.) degree in 2023 in [Electrical and Computer Engineering](http://www.ee.tku.edu.tw/) from [Tamkang University](https://www.tku.edu.tw/), New Taipei City, Taiwan, where I graduated first in my department (1/68). 
-I conducted my undergraduate research at the Advanced Mixed-Operation System Laboratory (AMOS Lab.) at Tamkang University, focusing on object detection, document image binarization, and image super-resolution.
+Prior to joining Kyoto University, I received my M.S. degree from the Graduate Institute of Networking and Multimedia at National Taiwan University, where I was a member of the [NTU imLab](https://ntuimlab.tw/).
+
+**I am actively seeking collaboration opportunities in the processing and analysis of Japanese historical document images, particularly pre-modern Japanese (Kuzushiji) OCR. 
+If you are interested in academic collaboration, please feel free to contact me.**
 
 # News
 <span class="anchor" id="News"></span>
