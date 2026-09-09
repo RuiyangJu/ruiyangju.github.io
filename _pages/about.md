@@ -167,18 +167,9 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 
 </div>
 
-<span class="anchor" id="Services"></span>
-# Services
-I currently serve as a reviewer for several international journals and conferences. 
-A detailed record of my reviewing activities is available on my ORCID profile <a href="https://orcid.org/0000-0003-2240-1377"><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ruiyangju/ruiyangju.github.io@main/orcid_peer_review_shieldsio.json&logo=ORCID&labelColor=f6f6f6&color=9cf&style=flat&label=Peer%20Reviews"></a>.
-### Selected Journal Reviewer
-- IEEE Transactions on Visualization and Computer Graphics (TVCG), Pattern Recognition (PR), Knowledge-Based Systems (KBS), Neural Networks (NN), Neurocomputing, IEEE Signal Processing Letters, and Engineering Applications of Artificial Intelligence (EAAI).
-
-## Selected Conference Reviewer
-- AAAI 2027, IJCNN 2027, PRIMA 2026, PRICAI 2026, SMC 2026, CHI 2026, IJCNN 2026, ICASSP 2026, AAAI 2026, PRICAI 2025, IJCNN 2025, ICASSP 2025, PRICAI 2024, PRICAI 2023.
-
 # Awards
 <span class='anchor' id='Awards'></span>
+
 - Japan Science and Technology Agency (JST), DoGS SPRING Fellowship, Oct. 2025.
 - National Taiwan University, Graduate Research Assistantship, Feb. 2024.
 - National Taiwan University, Postgraduate Scholarship, Jan. 2024; Jul. 2024; Jan. 2025.
@@ -186,6 +177,18 @@ A detailed record of my reviewing activities is available on my ORCID profile <a
 - Tamkang University, Undergraduate Research Fellowship, Aug. 2021.
 - Tamkang University, Excellent Academic Performance Award (Top 1% Ranking), May 2021; Dec. 2022.
 
+# Services
+<span class="anchor" id="Services"></span>
+
+I currently serve as a reviewer for several international journals and conferences. 
+A detailed record of my reviewing activities is available on my ORCID profile <a href="https://orcid.org/0000-0003-2240-1377"><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ruiyangju/ruiyangju.github.io@main/orcid_peer_review_shieldsio.json&logo=ORCID&labelColor=f6f6f6&color=9cf&style=flat&label=Peer%20Reviews"></a>.
+
+### Selected Journal Reviewer
+- IEEE Transactions on Visualization and Computer Graphics (TVCG), Pattern Recognition (PR), Knowledge-Based Systems (KBS), Neural Networks (NN), Neurocomputing, IEEE Signal Processing Letters, and Engineering Applications of Artificial Intelligence (EAAI).
+
+## Selected Conference Reviewer
+- AAAI 2027, IJCNN 2027, PRIMA 2026, PRICAI 2026, SMC 2026, CHI 2026, IJCNN 2026, ICASSP 2026, AAAI 2026, PRICAI 2025, IJCNN 2025, ICASSP 2025, PRICAI 2024, PRICAI 2023.
+- 
 <hr style="margin-top: 40px; margin-bottom: 20px;">
 <div style="text-align: center; font-size: 13px; color: #888; line-height: 1.8;">
   © Copyright 2026 RuiYang Ju.  
