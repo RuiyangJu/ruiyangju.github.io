@@ -38,7 +38,9 @@ I conducted my undergraduate research at the Advanced Mixed-Operation System Lab
 - 2025.06: I receive an offer for a PhD student at Graduate School of Informatics, Kyoto University, Kyoto, Japan.
 
 # Current Research Directions
-
+- Pre-modern Japanese (Kuzushiji) OCR
+- Historical Document Image Processing
+- Low-Resource Language Processing
 
 # Publications
 <span class="anchor" id="Publications"></span>
