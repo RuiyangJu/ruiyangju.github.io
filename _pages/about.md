@@ -112,12 +112,12 @@ Scientific Reports 2023 \\
 [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU)
 [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8)
 
-[Resolution enhancement processing on low quality images using swin transformer based on interval dense connection strategy](https://doi.org/10.1007/s11042-023-16088-0) \\
+- [Resolution enhancement processing on low quality images using swin transformer based on interval dense connection strategy](https://doi.org/10.1007/s11042-023-16088-0) \\
 **Rui-Yang Ju**, Chih-Chia Chen, Jen-Shiun Chiang, Yu-Shian Lin, Wei-Han Chen, Chun-Tse Chien \\
 Multimedia Tools and Applications 2023 \\
 [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/Rubbbbbbbbby/SwinOIR)
 
-[Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification](https://doi.org/10.1007/s11554-023-01271-1) \\ 
+- [Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification](https://doi.org/10.1007/s11554-023-01271-1) \\ 
 **Rui-Yang Ju**, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang \\
 Journal of Real-Time Image Processing 2023 \\
 [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/TripleNet)
