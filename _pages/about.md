@@ -243,8 +243,8 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 
 <span class="anchor" id="funding"></span>
 
-# 🏅 Honor and Award
-<span class='anchor' id='honor'></span>
+# Awards
+<span class='anchor' id='Awards'></span>
 - Japan Science and Technology Agency (JST), DoGS SPRING Fellowship, Oct. 2025.
 - National Taiwan University, Graduate Research Assistantship, Feb. 2024.
 - National Taiwan University, Postgraduate Scholarship, Jan. 2024; Jul. 2024; Jan. 2025.
