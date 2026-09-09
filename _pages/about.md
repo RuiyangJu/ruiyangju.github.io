@@ -36,6 +36,7 @@ I have published numerous papers in international journals and conferences <a hr
 
 # News
 <span class="anchor" id="News"></span>
+
 - 2025.11: I am the recipient of the <a href="https://www.kugd.k.kyoto-u.ac.jp/en/support/recruitlist" target="_blank">Kyoto University DoGS SPRING Fellowship</a>. Thanks Kyoto University.
 - 2025.06: I receive an offer for a PhD student at Graduate School of Informatics, Kyoto University, Kyoto, Japan.
 
@@ -144,12 +145,8 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 # Awards
 <span class='anchor' id='Awards'></span>
 
-- Japan Science and Technology Agency (JST), DoGS SPRING Fellowship, Oct. 2025.
-- National Taiwan University, Graduate Research Assistantship, Feb. 2024.
-- National Taiwan University, Postgraduate Scholarship, Jan. 2024; Jul. 2024; Jan. 2025.
-- Sino International Business Innovation Association (SIBIA), Gratitude and Heritage Scholarship, Mar. 2021; Mar. 2022; May 2024.
-- Tamkang University, Undergraduate Research Fellowship, Aug. 2021.
-- Tamkang University, Excellent Academic Performance Award (Top 1% Ranking), May 2021; Dec. 2022.
+- Japan Science and Technology Agency (JST), Kyoto University DoGS SPRING Fellowship, 2025.
+- National Taiwan University, Postgraduate Scholarship, 2024, 2025.
 
 # Services
 <span class="anchor" id="Services"></span>
