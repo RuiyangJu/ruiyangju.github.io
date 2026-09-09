@@ -38,6 +38,7 @@ I conducted my undergraduate research at the Advanced Mixed-Operation System Lab
 - 2025.06: I receive an offer for a PhD student at Graduate School of Informatics, Kyoto University, Kyoto, Japan.
 
 # Current Research Directions
+
 - Pre-modern Japanese (Kuzushiji) OCR
 - Historical Document Image Processing
 - Low-Resource Language Processing
@@ -49,15 +50,10 @@ My research spans Computer Vision, Image Processing, Multimodal Learning, Natura
 I have published numerous papers in international journals and conference proceedings.
 For a detailed publication record, please see my Google Scholar profile <a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>.
 
-## 🔥🔥🔥 Japanese Historical Document Processing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/Seal-Robust-KCR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Seal-Robust KCR: A Robust Kuzushiji Character Recognition Framework under Seal Interference](https://arxiv.org/abs/2602.19086) \\
+- [Seal-Robust KCR: A Robust Kuzushiji Character Recognition Framework under Seal Interference](https://arxiv.org/abs/2602.19086) \\
 **Rui-Yang Ju**, Kohei Yamashita, Hirotaka Kameko, Shinsuke Mori \\
 [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/Seal-Robust-KCR)
 [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Seal-Robust-KCR)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJDAR 2026</div><img  src='https://ruiyangju.github.io/images/Figure/DKDS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
