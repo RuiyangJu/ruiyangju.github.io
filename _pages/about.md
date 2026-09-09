@@ -50,6 +50,8 @@ My research spans Computer Vision, Image Processing, Multimodal Learning, Natura
 I have published numerous papers in international journals and conference proceedings.
 For a detailed publication record, please see my Google Scholar profile <a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>.
 
+<hr style="margin-top: 20px; margin-bottom: 20px;">
+
 - [Seal-Robust KCR: A Robust Kuzushiji Character Recognition Framework under Seal Interference](https://arxiv.org/abs/2602.19086) \\
 **Rui-Yang Ju**, Kohei Yamashita, Hirotaka Kameko, Shinsuke Mori \\
 [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/Seal-Robust-KCR)
@@ -65,7 +67,11 @@ International Journal on Document Analysis and Recognition 2026 \\
 Yanbing Bai, **Rui-Yang Ju**, Lemeng Zhao, Junjie Hu, Jianchao Bi, Erick Mas, Shunichi Koshimura \\
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2026
 
-<hr style="margin-top: 20px; margin-bottom: 20px;">
+- [An End-to-End Multimodal System for Subtitle Recognition and Chinese-Japanese Translation in Short Dramas](https://doi.org/10.1109/ICASSP55912.2026.11464228) \\
+Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu \\
+IEEE International Conference on Acoustics, Speech, and Signal Processing 2026
+
+
 
 ## 🔥🔥🔥 Degraded Document Image Binarization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems 2024</div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
@@ -80,16 +86,6 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 - ``Under Review`` [MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction](https://arxiv.org/abs/2512.14114), **Rui-Yang Ju**, KokSheik Wong, Yanlin Jin, Jen-Shiun Chiang. [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/MFE-GAN) [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Efficient_Document_Image_Binarization)
 - ``APSIPA ASC 2025`` [Efficient Generative Adversarial Networks for Color Document Image Enhancement and Binarization Using Multi-scale Feature Extraction](https://ieeexplore.ieee.org/document/11249173), **Rui-Yang Ju**, KokSheik Wong, Jen-Shiun Chiang. [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/MFE-GAN) [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Efficient_Document_Image_Binarization)
 - ``PRICAI 2023`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://doi.org/10.1007/978-981-99-7019-3_19), **Rui-Yang Ju**, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien. 
-</div>
-
-<hr style="margin-top: 20px; margin-bottom: 20px;">
-
-## 🔥🔥 Subtitle Recognition and Translation for Short Dramas
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img  src='https://ruiyangju.github.io/images/Figure/CN-JP-translation.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[An End-to-End Multimodal System for Subtitle Recognition and Chinese-Japanese Translation in Short Dramas](https://doi.org/10.1109/ICASSP55912.2026.11464228) \\
-Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
-</div>
 </div>
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
@@ -128,11 +124,6 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 </div>
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
-
-## 🔥 Other
-<div class="paper-box-related" markdown="1">
-
-- ``ADMA  2025`` [From Roads to Lights: Satellite Evidence on Smart City Planning](https://doi.org/10.1007/978-981-95-3459-3_24), Yang Yang, Tianzhi Wu, Lize Zheng, **Rui-Yang Ju**, Yanbing Bai.
 
 - ``ICRA 2025`` [ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://doi.org/10.1109/ICRA55743.2025.11127848), Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong. [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://www.neiljin.site/projects/orbsfm) [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/PeaceNeil/ORB-SfMLearner)
 
