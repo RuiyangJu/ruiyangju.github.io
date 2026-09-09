@@ -169,7 +169,8 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 
 <span class="anchor" id="Services"></span>
 # Services
-I currently serve as a reviewer for several international journals and conferences. <a href="https://orcid.org/0000-0003-2240-1377"><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ruiyangju/ruiyangju.github.io@main/orcid_peer_review_shieldsio.json&logo=ORCID&labelColor=f6f6f6&color=9cf&style=flat&label=Peer%20Reviews"></a>
+I currently serve as a reviewer for several international journals and conferences. 
+A detailed record of my reviewing activities is available on my ORCID profile <a href="https://orcid.org/0000-0003-2240-1377"><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ruiyangju/ruiyangju.github.io@main/orcid_peer_review_shieldsio.json&logo=ORCID&labelColor=f6f6f6&color=9cf&style=flat&label=Peer%20Reviews"></a>.
 ### Selected Journal Reviewer
 IEEE Transactions on Visualization and Computer Graphics (TVCG), Pattern Recognition (PR), Knowledge-Based Systems (KBS), Neural Networks (NN), Neurocomputing, IEEE Signal Processing Letters, and Engineering Applications of Artificial Intelligence (EAAI).
 
