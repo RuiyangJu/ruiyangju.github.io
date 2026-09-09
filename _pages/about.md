@@ -82,6 +82,11 @@ IEEE Conference on Virtual Reality and 3D User Interfaces (Poster) 2026 \\
 IEEE Conference on Virtual Reality and 3D User Interfaces (Poster) 2026 \\
 [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/GlassesGB)
 
+- [Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images](https://doi.org/10.1049/ipr2.70269) \\
+**Rui-Yang Ju**, Chun-Tse Chien, Enkaer Xieerke, Jen-Shiun Chiang \\
+IET Image Processing 2026 \\
+[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/FCE-YOLOv8)
+
 - [ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://doi.org/10.1109/ICRA55743.2025.11127848) \\
 Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong \\
 IEEE International Conference on Robotics and Automation 2025 \\
@@ -113,8 +118,6 @@ IEEE International Conference on Robotics and Automation 2025 \\
 **Rui-Yang Ju**, Weiming Cai \\
 [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU)
 [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8)
-
-- ``IET Image Processing 2025`` [Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images](https://doi.org/10.1049/ipr2.70269), **Rui-Yang Ju**, Chun-Tse Chien, Enkaer Xieerke, Jen-Shiun Chiang. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/FCE-YOLOv8)
 
 - ``ICONIP 2024`` [YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection](https://doi.org/10.1007/978-981-96-6972-1_28), **Rui-Yang Ju**, Chun-Tse Chien, Jen-Shiun Chiang. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8)
 </div>
