@@ -142,5 +142,5 @@ A detailed record of my reviewing activities is available on my ORCID profile <a
 
 <hr style="margin-top: 40px; margin-bottom: 20px;">
 <div style="text-align: center; font-size: 13px; color: #888; line-height: 1.8;">
-  © Copyright 2026 RuiYang Ju.  
+  © Copyright 2026 Rui-Yang Ju.  
 </div>
