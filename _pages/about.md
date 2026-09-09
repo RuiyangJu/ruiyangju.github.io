@@ -21,8 +21,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-
 I am currently pursuing a Ph.D. degree (JST DoGS SPRING Fellowship) at the [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/), [Kyoto University](https://www.kyoto-u.ac.jp/), Japan. 
 I am a member of the [LSTA Lab.](https://www.lsta.media.kyoto-u.ac.jp/), where my current research focuses on the processing and analysis of Japanese historical document images, particularly Kuzushiji character recognition (Kuzushiji OCR).
 If you are interested in any form of academic collaboration, please feel free to [email](mailto:jryjry1094791442@gmail.com) me.
@@ -36,15 +34,8 @@ I conducted my undergraduate research at the Advanced Mixed-Operation System Lab
 My primary research interests include Multimodal Learning (Vision-Language Models), Computer Vision (Optical Character Recognition, Object Detection, Document Understanding), Image Processing (Document Image Enhancement and Binarization, Image Super-Resolution), Natural Language Processing (Large Language Models), and Computer Graphics (3D Gaussian Reconstruction and Blendshapes).
 I have published numerous papers in international journals and conferences <a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>.
 
-I am highly active in international academic activities and currently serve as a reviewer for several international journals, including IEEE TVCG, PR, KBS, and NN, as well as for international conferences such as AAAI, ICASSP, and IJCNN <a href="https://orcid.org/0000-0003-2240-1377"><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ruiyangju/ruiyangju.github.io@main/orcid_peer_review_shieldsio.json&logo=ORCID&labelColor=f6f6f6&color=9cf&style=flat&label=Peer%20Reviews"></a>.
-
-<!--
-Further details about my background are available in <a href='https://ruiyangju.github.io/images/CV_English.pdf'><img src='https://img.shields.io/badge/Resume-English-white?color=green'></a> (updated in July 2025).
--->
-
-<span class="anchor" id="news"></span>
-
-# 📢 News
+<span class="anchor" id="News"></span>
+# News
 <div style="height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF; padding: 5px; border-radius: 6px; border: 1px solid #ccc;">
 <ul>
   <li>2026.05: One paper is accepted by <strong>International Journal on Document Analysis and Recognition</strong>, oral presentation at <strong>ICDAR</strong>, Vienna, Austria.</li>
@@ -74,9 +65,8 @@ Further details about my background are available in <a href='https://ruiyangju.
 </ul>
 </div>
 
-<span class="anchor" id="publication"></span>
-
-# 📄 Publication
+<span class="anchor" id="Publications"></span>
+# Publications
 ## 🔥🔥🔥 Japanese Historical Document Processing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img  src='https://ruiyangju.github.io/images/Figure/Seal-Robust-KCR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -177,9 +167,9 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 
 </div>
 
-<span class="anchor" id="professional-service"></span>
-
-# 🛠️ Professional Service
+<span class="anchor" id="Services"></span>
+# Services
+I currently serve as a reviewer for several international journals and conferences. <a href="https://orcid.org/0000-0003-2240-1377"><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ruiyangju/ruiyangju.github.io@main/orcid_peer_review_shieldsio.json&logo=ORCID&labelColor=f6f6f6&color=9cf&style=flat&label=Peer%20Reviews"></a>
 ## Journal Reviewer
 <details>
 <summary style="padding-left:15px;">View more</summary>
