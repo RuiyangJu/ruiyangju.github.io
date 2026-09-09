@@ -60,8 +60,10 @@ For a detailed publication record, please see my Google Scholar profile <a href=
 International Journal on Document Analysis and Recognition 2026 \\
 [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/DKDS)
 [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/DKDS)
-</div>
-</div>
+
+- [Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](https://doi.org/10.1109/JSTARS.2026.3685660) \\
+Yanbing Bai, **Rui-Yang Ju**, Lemeng Zhao, Junjie Hu, Jianchao Bi, Erick Mas, Shunichi Koshimura \\
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2026
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
@@ -129,8 +131,6 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 
 ## 🔥 Other
 <div class="paper-box-related" markdown="1">
-  
-- ``J-STARS 2026`` [Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](https://doi.org/10.1109/JSTARS.2026.3685660), Yanbing Bai, **Rui-Yang Ju**, Lemeng Zhao, Junjie Hu, Jianchao Bi, Erick Mas, Shunichi Koshimura.
 
 - ``ADMA  2025`` [From Roads to Lights: Satellite Evidence on Smart City Planning](https://doi.org/10.1007/978-981-95-3459-3_24), Yang Yang, Tianzhi Wu, Lize Zheng, **Rui-Yang Ju**, Yanbing Bai.
 
