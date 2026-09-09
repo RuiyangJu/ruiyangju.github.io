@@ -82,6 +82,11 @@ IEEE Conference on Virtual Reality and 3D User Interfaces (Poster) 2026 \\
 IEEE Conference on Virtual Reality and 3D User Interfaces (Poster) 2026 \\
 [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/GlassesGB)
 
+- [ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://doi.org/10.1109/ICRA55743.2025.11127848) \\
+Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong \\
+IEEE International Conference on Robotics and Automation 2025 \\
+[![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://www.neiljin.site/projects/orbsfm) [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/PeaceNeil/ORB-SfMLearner)
+
 ## 🔥🔥🔥 Degraded Document Image Binarization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems 2024</div><img  src='https://ruiyangju.github.io/images/Figure/document-binarization.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,6 +99,7 @@ IEEE Conference on Virtual Reality and 3D User Interfaces (Poster) 2026 \\
 <div class="paper-box-related" markdown="1">
 - ``Under Review`` [MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction](https://arxiv.org/abs/2512.14114), **Rui-Yang Ju**, KokSheik Wong, Yanlin Jin, Jen-Shiun Chiang. [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/MFE-GAN) [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Efficient_Document_Image_Binarization)
 - ``APSIPA ASC 2025`` [Efficient Generative Adversarial Networks for Color Document Image Enhancement and Binarization Using Multi-scale Feature Extraction](https://ieeexplore.ieee.org/document/11249173), **Rui-Yang Ju**, KokSheik Wong, Jen-Shiun Chiang. [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/MFE-GAN) [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Efficient_Document_Image_Binarization)
+  
 - ``PRICAI 2023`` [CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization](https://doi.org/10.1007/978-981-99-7019-3_19), **Rui-Yang Ju**, Yu-Shian Lin, Jen-Shiun Chiang, Chih-Chia Chen, Wei-Han Chen, Chun-Tse Chien. 
 </div>
 
@@ -107,27 +113,18 @@ IEEE Conference on Virtual Reality and 3D User Interfaces (Poster) 2026 \\
 **Rui-Yang Ju**, Weiming Cai \\
 [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU)
 [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8)
-</div>
-</div>
 
-<div class="paper-box-related" markdown="1">
 - ``IET Image Processing 2025`` [Pediatric Wrist Fracture Detection Using Feature Context Excitation Modules in X-ray Images](https://doi.org/10.1049/ipr2.70269), **Rui-Yang Ju**, Chun-Tse Chien, Enkaer Xieerke, Jen-Shiun Chiang. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/FCE-YOLOv8)
-- ``IEEE Access 2025`` [YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection](https://ieeexplore.ieee.org/document/10918980), Chun-Tse Chien, **Rui-Yang Ju**, Kuang-Yi Chou, Enkaer Xieerke, Jen-Shiun Chiang. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8)
-- ``Electronics Letters 2024`` [YOLOv9 for Fracture Detection in Pediatric Wrist Trauma X-ray Images](http://dx.doi.org/10.1049/ell2.13248), Chun-Tse Chien, **Rui-Yang Ju**, Kuang-Yi Chou, Jen-Shiun Chiang. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/YOLOv9-Fracture-Detection)
+
 - ``ICONIP 2024`` [YOLOv8-ResCBAM: YOLOv8 Based on An Effective Attention Module for Pediatric Wrist Fracture Detection](https://doi.org/10.1007/978-981-96-6972-1_28), **Rui-Yang Ju**, Chun-Tse Chien, Jen-Shiun Chiang. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8)
 </div>
 
-<hr style="margin-top: 20px; margin-bottom: 20px;">
 
-- ``ICRA 2025`` [ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation](https://doi.org/10.1109/ICRA55743.2025.11127848), Yanlin Jin, **Rui-Yang Ju**, Haojun Liu, Yuzhong Zhong. [![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://www.neiljin.site/projects/orbsfm) [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/PeaceNeil/ORB-SfMLearner)
+
 
 - ``MTA 2023`` [Resolution enhancement processing on low quality images using swin transformer based on interval dense connection strategy](https://doi.org/10.1007/s11042-023-16088-0), **Rui-Yang Ju**, Chih-Chia Chen, Jen-Shiun Chiang, Yu-Shian Lin, Wei-Han Chen, Chun-Tse Chien. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/Rubbbbbbbbby/SwinOIR)
 
 - ``JRTIP 2023`` [Efficient Convolutional Neural Networks on Raspberry Pi for Image Classification](https://doi.org/10.1007/s11554-023-01271-1), **Rui-Yang Ju**, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/TripleNet)
-
-- ``IEEE Access 2022`` [ThreshNet: An Efficient DenseNet Using Threshold Mechanism to Reduce Connections](https://doi.org/10.1109/ACCESS.2022.3196492), **Rui-Yang Ju**, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang, Wei-Bin Yang. [![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/ThreshNet)
-
-</div>
 
 # Awards
 <span class='anchor' id='Awards'></span>
