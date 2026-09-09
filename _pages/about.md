@@ -172,28 +172,10 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 I currently serve as a reviewer for several international journals and conferences. 
 A detailed record of my reviewing activities is available on my ORCID profile <a href="https://orcid.org/0000-0003-2240-1377"><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ruiyangju/ruiyangju.github.io@main/orcid_peer_review_shieldsio.json&logo=ORCID&labelColor=f6f6f6&color=9cf&style=flat&label=Peer%20Reviews"></a>.
 ### Selected Journal Reviewer
-IEEE Transactions on Visualization and Computer Graphics (TVCG), Pattern Recognition (PR), Knowledge-Based Systems (KBS), Neural Networks (NN), Neurocomputing, IEEE Signal Processing Letters, and Engineering Applications of Artificial Intelligence (EAAI).
+- IEEE Transactions on Visualization and Computer Graphics (TVCG), Pattern Recognition (PR), Knowledge-Based Systems (KBS), Neural Networks (NN), Neurocomputing, IEEE Signal Processing Letters, and Engineering Applications of Artificial Intelligence (EAAI).
 
-## Conference Committee and Reviewer
-<details>
-<summary style="padding-left:15px;">View more</summary>
-<ul>
-  <li>AAAI Conference on Artificial Intelligence (AAAI), Montréal, Canada, 2027.</li>
-  <li>International Joint Conference on Neural Networks (IJCNN), Cape Town, South Africa, 2027.</li>
-  <li>International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), Kumamoto, Japan, 2026.</li>
-  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Guangzhou, China, 2026.</li>
-  <li>IEEE International Conference on Systems, Man, and Cybernetics (SMC), Bellevue, WA, USA, 2026.</li>
-  <li>ACM Conference on Human Factors in Computing Systems (CHI), Barcelona, Spain, 2026.</li>
-  <li>International Joint Conference on Neural Networks (IJCNN), Maastricht, Netherlands, 2026.</li>
-  <li>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026.</li>
-  <li>AAAI Conference on Artificial Intelligence (AAAI), Singapore, 2026.</li>
-  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Wellington, New Zealand, 2025.</li>
-  <li>International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025.</li>
-  <li>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025.</li>
-  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Kyoto, Japan, 2024.</li>
-  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI), Jakarta, Indonesia, 2023.</li>
-</ul>
-</details>
+## Selected Conference Reviewer
+- AAAI 2027, IJCNN 2027, PRIMA 2026, PRICAI 2026, SMC 2026, CHI 2026, IJCNN 2026, ICASSP 2026, AAAI 2026, PRICAI 2025, IJCNN 2025, ICASSP 2025, PRICAI 2024, PRICAI 2023.
 
 # Awards
 <span class='anchor' id='Awards'></span>
