@@ -261,19 +261,6 @@ Jing An, Haofei Chang, **Rui-Yang Ju**, Jinhua Su, Yanbing Bai, Xin Qu
 
 <span class="anchor" id="project"></span>
 
-# 🚀 Project
-<details>
-<summary style="padding-left:15px;">View more</summary>
-<ul>
-  <li><a href="https://ruiyangju.github.io/Seal-Robust-KCR">Seal-Robust-KCR</a></li>
-  <li><a href="https://ruiyangju.github.io/DKDS">DKDS</a></li>
-  <li><a href="https://ruiyangju.github.io/MFE-GAN">MFE-GAN</a></li>
-  <li><a href="https://ruiyangju.github.io/GlassesGB">GlassesGB</a></li>
-  <li><a href="https://ruiyangju.github.io/ToonifyGB">ToonifyGB</a></li>
-  <li><a href="https://ruiyangju.github.io/GRAZPEDWRI-DX_JU">GRAZPEDWRI-DX_JU</a></li>
-</ul>
-</details>
-
 <hr style="margin-top: 40px; margin-bottom: 20px;">
 
 <div style="text-align: center; font-size: 13px; color: #888; line-height: 1.8;">
