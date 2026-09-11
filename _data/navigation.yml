@@ -3,7 +3,7 @@ main:
   - title: "News"
     url: "/#News"
   - title: "Publications"
-    url: "/#publications"
+    url: "/#Publications"
   - title: "Awards"
     url: "/#Awards"
   - title: "Services"
