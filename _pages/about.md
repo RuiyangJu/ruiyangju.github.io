@@ -23,7 +23,7 @@ redirect_from:
 
 I am currently pursuing a Ph.D. degree at the Graduate School of Informatics, Kyoto University, and am a member of the [LSTA Lab.](https://www.lsta.media.kyoto-u.ac.jp/).
 
-I am a recipient of <a href="https://www.kugd.k.kyoto-u.ac.jp/en/support/recruitlist" target="_blank">2025 Kyoto University DoGS SPRING Fellowship</a>.
+I am a recipient of <a href="https://www.kugd.k.kyoto-u.ac.jp/en/support/recruitlist" target="_blank">2025 JST SPRING Fellowship</a>.
 
 Prior to joining Kyoto University, I received my M.S. degree from the Graduate Institute of Networking and Multimedia at National Taiwan University, where I was a member of the [NTU imLab](https://ntuimlab.tw/).
 
@@ -33,8 +33,8 @@ If you are interested in academic collaboration, please feel free to contact me.
 # News
 <span class="anchor" id="News"></span>
 
-- 2025.10: I am the recipient of the <a href="https://www.kugd.k.kyoto-u.ac.jp/en/support/recruitlist" target="_blank">Kyoto University DoGS SPRING Fellowship</a>. Thanks Kyoto University.
-- 2025.06: I receive an offer to pursue a Ph.D. at the Graduate School of Informatics, Kyoto University, Japan.
+- 2025.10: I am the recipient of the <a href="https://www.kugd.k.kyoto-u.ac.jp/en/support/recruitlist" target="_blank">JST SPRING Fellowship</a>. 
+- 2025.06: I receive an offer to pursue a Ph.D. in Informatics at Kyoto University, Japan.
 
 # Current Research Directions
 
