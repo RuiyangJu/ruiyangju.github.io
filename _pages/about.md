@@ -30,6 +30,9 @@ Prior to joining Kyoto University, I received my M.S. degree from the Graduate I
 **I am actively seeking collaboration opportunities in the processing and analysis of Japanese historical document images, particularly pre-modern Japanese (Kuzushiji) OCR. 
 If you are interested in academic collaboration, please feel free to contact me.**
 
+> *“Wisely and slow; they stumble that run fast.”*  
+> — William Shakespeare, *Romeo and Juliet*, 1597
+
 # News
 <span class="anchor" id="News"></span>
 
