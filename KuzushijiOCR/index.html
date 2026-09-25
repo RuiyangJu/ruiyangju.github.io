@@ -95,7 +95,7 @@
               </span>
               <!-- Code Link. -->
               <span class="link-block">
-                <a href="https://github.com/RuiyangJu/Seal-Robust-KCR"
+                <a href="https://github.com/RuiyangJu/Kuzushiji-Character-Recognition"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fab fa-github"></i>
@@ -131,16 +131,15 @@
         <div class="content has-text-justified" style="margin-bottom: 6rem;">
           <br>
           <p>
-            Kuzushiji was one of the most widely used cursive writing systems in pre-modern Japan.
-            Due to its highly cursive forms and extensive glyph variations, most modern Japanese readers are unable to read Kuzushiji characters. 
-            Consequently, recent studies have focused on developing automated Kuzushiji character recognition (KCR) methods, which have achieved strong performance on relatively clean Japanese historical document images. 
-            Although seals frequently appear in Japanese historical documents, existing methods often fail to maintain recognition accuracy under seal interference, particularly when seals overlap with characters. 
-            To address this challenge, we propose a seal-robust KCR framework. 
-            Based on character detection, classification, and ordering, the proposed framework additionally incorporates document restoration to mitigate seal interference, thereby improving overall recognition performance. 
-            In addition, we introduce a novel synthetic data augmentation strategy to enhance the performance of character detection models.
-            We further correct annotation errors, reconstruct the dataset, and create a synthetic test set to simulate severe seal interference.
-            Experimental results demonstrate the effectiveness of the proposed framework in mitigating the impact of seal interference on KCR.
-            Compared with a conventional baseline and NDLkotenOCR, it achieves relative character error rate (CER) reductions of 39.7% and 5.9%, respectively, on the real test set, and 50.1% and 41.7%, respectively, on the synthetic test set.       </p>
+            Kuzushiji was a widely used cursive writing system in pre-modern Japan.
+            Due to simplification and glyph variation, most modern Japanese readers cannot read Kuzushiji characters.
+            Consequently, recent studies have developed optical character recognition (OCR) systems for Kuzushiji.
+            Despite recent progress, Kuzushiji character recognition (KCR) in Japanese historical documents remains challenging because of seal-character overlap and complex layouts, which interfere with character recognition and hinder accurate reconstruction of the reading order.
+            To address these challenges, we propose a multi-stage KCR framework comprising character detection, cropping, classification, ordering, and large language model (LLM)-based post-OCR correction.
+            Specifically, we employ a synthetic data augmentation strategy to improve character detection robustness against seal interference and introduce an adaptive column clustering algorithm to reconstruct the reading order.
+            Finally, we leverage the contextual capabilities of the LLM to correct OCR errors.
+            In addition, we correct annotation omissions, reconstruct the benchmark dataset, and introduce a synthetic test set with simulated seal interference and an out-of-domain (OOD) test set for evaluation.
+            Compared with the conventional character-level OCR baseline, our framework achieves relative CER reductions of 43.48%, 46.02%, and 39.11% on the real, synthetic, and OOD test sets, respectively. 
         </div>
         <h2 class="title is-3">Application Demo</h2>
         <div class="content has-text-justified" style="margin-bottom: 6rem;">
