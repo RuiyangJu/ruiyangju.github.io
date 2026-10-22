@@ -55,11 +55,6 @@ For a detailed publication record, please see my Google Scholar profile <a href=
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 <div style="max-height: 500px; overflow-y: auto; padding-right: 12px;" markdown="1">
 
-- [Seal-Robust KCR: A Robust Kuzushiji Character Recognition Framework under Seal Interference](https://arxiv.org/abs/2602.19086) \\
-**Rui-Yang Ju**, Kohei Yamashita, Hirotaka Kameko, Shinsuke Mori \\
-[![](https://img.shields.io/badge/Project-white?logo=googlechrome&logoColor=black&labelColor=white&color=white)](https://ruiyangju.github.io/Seal-Robust-KCR)
-[![](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/RuiyangJu/Seal-Robust-KCR) 
-
 - [DKDS: A Benchmark Dataset of Degraded Kuzushiji Documents with Seals for Detection and Binarization](https://arxiv.org/abs/2511.09117) \\
 **Rui-Yang Ju**, Kohei Yamashita, Hirotaka Kameko, Shinsuke Mori \\
 International Journal on Document Analysis and Recognition 2026 \\
