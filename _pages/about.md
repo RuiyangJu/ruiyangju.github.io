@@ -125,8 +125,9 @@ Journal of Real-Time Image Processing 2023 \\
 # Awards
 <span class='anchor' id='Awards'></span>
 
-- Japan Science and Technology Agency (JST), Kyoto University DoGS SPRING Fellowship, 2025.
-- National Taiwan University, Postgraduate Scholarship, 2024, 2025.
+- **Google Phd Fellowship (East Asian)**, Google, 2026.
+- **JST SPRING Fellowship**, Japan Science and Technology Agency (JST), 2025.
+- **Postgraduate Scholarship**, National Taiwan University, 2024, 2025.
 
 # Services
 <span class="anchor" id="Services"></span>
@@ -135,7 +136,7 @@ I currently serve as a reviewer for several international journals and conferenc
 A detailed record of my reviewing activities is available on my ORCID profile <a href="https://orcid.org/0000-0003-2240-1377"><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ruiyangju/ruiyangju.github.io@main/orcid_peer_review_shieldsio.json&logo=ORCID&labelColor=f6f6f6&color=9cf&style=flat&label=Peer%20Reviews"></a>.
 
 ### Selected Journal Review Service
-- IEEE Transactions on Visualization and Computer Graphics (TVCG), Pattern Recognition (PR), Knowledge-Based Systems (KBS), Neural Networks (NN), Neurocomputing, IEEE Signal Processing Letters, and Engineering Applications of Artificial Intelligence (EAAI).
+- IEEE Transactions on Visualization and Computer Graphics (TVCG), Pattern Recognition (PR), Knowledge-Based Systems (KBS), Neural Networks (NN), Neurocomputing, IEEE Signal Processing Letters, and Engineering Applications of Artificial Intelligence (EAAI), etc.
 
 ### Conference Committee and Review Service
 - ICASSP 2027, AAAI 2027, IJCNN 2027, PRIMA 2026, PRICAI 2026, SMC 2026, CHI 2026, IJCNN 2026, ICASSP 2026, AAAI 2026, PRICAI 2025, IJCNN 2025, ICASSP 2025, PRICAI 2024, PRICAI 2023.
