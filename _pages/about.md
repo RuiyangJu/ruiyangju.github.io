@@ -36,8 +36,9 @@ If you are interested in academic collaboration, please feel free to contact me.
 # News
 <span class="anchor" id="News"></span>
 
-- 2025.10: I am the recipient of the <a href="https://www.kugd.k.kyoto-u.ac.jp/en/support/recruitlist" target="_blank">JST SPRING Fellowship</a>. 
-- 2025.06: I receive an offer to pursue a Ph.D. in Informatics at Kyoto University, Japan.
+- 2026.05: One paper accepted by IJDAR, presented at ICDAR 2026 in Vienna, Austria.
+- 2026.04: One paper accepted by IEEE JSTARS.
+- 2026.01: One paper accepted at ICASSP 2026 in Barcelona, Spain.
 
 # Current Research Directions
 
