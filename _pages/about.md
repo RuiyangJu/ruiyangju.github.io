@@ -125,7 +125,7 @@ Journal of Real-Time Image Processing 2023 \\
 # Awards
 <span class='anchor' id='Awards'></span>
 
-- **Google Phd Fellowship (East Asian)**, Google, 2026.
+- **Google PhD Fellowship (East Asia)**, Google, 2026.
 - **JST SPRING Fellowship**, Japan Science and Technology Agency (JST), 2025.
 - **Postgraduate Scholarship**, National Taiwan University, 2024, 2025.
 
