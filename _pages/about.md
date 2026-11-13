@@ -28,7 +28,7 @@ I am a recipient of the <span style="white-space: nowrap"> <svg xmlns="http://ww
 Prior to joining Kyoto University, I received my M.S. degree from the Graduate Institute of Networking and Multimedia at <span style="white-space: nowrap"> <img src="https://www.ntu.edu.tw/images/resized/cis_mark-295w.jpeg" alt="" style="height: 18px; width: auto; vertical-align: middle;" >&nbsp;National Taiwan University</span>, where I was a member of the <a href="https://ntuimlab.tw/" target="_blank" rel="noopener noreferrer">NTU imLab</a>.
 
 **I am actively seeking collaboration opportunities in the processing and analysis of Japanese historical document images, particularly pre-modern Japanese (Kuzushiji) OCR. 
-If you are interested in academic collaboration, please feel free to contact me.**
+If you are interested in collaboration, please feel free to contact me.**
 
 > *“Wisely and slow; they stumble that run fast.”*  
 > — William Shakespeare, *Romeo and Juliet*, 1597
