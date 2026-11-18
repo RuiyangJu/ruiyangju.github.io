@@ -51,7 +51,7 @@ If you are interested in collaboration, please feel free to contact me.**
 
 My research spans Computer Vision, Image Processing, Multimodal Learning, Natural Language Processing, and Computer Graphics. 
 I have published numerous papers in international journals and conference proceedings.
-For a detailed publication record, please see my Google Scholar profile <a href='https://scholar.google.com/citations?user=r8F35p8AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fruiyangju%2Fruiyangju.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>.
+For a detailed publication record, please see my Google Scholar profile <a href="https://scholar.google.com/citations?user=r8F35p8AAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRuiyangJu%2Fruiyangju.github.io%40main%2Fgoogle_scholar_crawler%2Fresults%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>.
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 <div style="max-height: 500px; overflow-y: auto; padding-right: 12px;" markdown="1">
