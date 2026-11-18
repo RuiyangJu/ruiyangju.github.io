@@ -1,13 +1,16 @@
 
-from scholarly import scholarly, ProxyGenerator
-import json
-from datetime import datetime, timezone
 import os
+import json
 import time
+from datetime import datetime, timezone
+
+import requests
 
 AUTHOR_ID = "r8F35p8AAAAJ"
-OUT_DIR = "results"
+OUT_DIR = os.path.join(os.path.dirname(__file__), "results")
+API_KEY = os.getenv("SERPAPI_API_KEY")
 MAX_RETRIES = 3
+MAX_PAGES = 1  # 100 articles per page
 
 
 def now_iso():
@@ -15,193 +18,221 @@ def now_iso():
 
 
 def load_json(path):
-    if not os.path.exists(path):
+    if not os.path.isfile(path):
         return {}
     try:
         with open(path, "r", encoding="utf-8") as f:
-            data = json.load(f)
-        return data if isinstance(data, dict) else {}
-    except (OSError, ValueError) as e:
-        print(f"[warn] Cannot read {path}: {e}")
+            value = json.load(f)
+        return value if isinstance(value, dict) else {}
+    except (OSError, ValueError):
         return {}
 
 
 def save_json(path, data):
-    tmp_path = path + ".tmp"
-    with open(tmp_path, "w", encoding="utf-8") as f:
+    tmp = path + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    os.replace(tmp_path, path)
+    os.replace(tmp, path)
 
 
-def setup_proxy():
-    # Direct connection first; optionally enable free proxies.
-    mode = os.getenv("SCHOLAR_PROXY", "direct").lower()
+def fetch_page(start=0):
+    params = {
+        "engine": "google_scholar_author",
+        "author_id": AUTHOR_ID,
+        "api_key": API_KEY,
+        "hl": "en",
+        "num": 100,
+        "start": start,
+    }
 
-    if mode != "free":
-        print("[info] Using direct connection.")
-        return
-
-    try:
-        pg = ProxyGenerator()
-        if pg.FreeProxies():
-            scholarly.use_proxy(pg)
-            print("[info] Free proxy enabled.")
-        else:
-            print("[warn] Free proxy unavailable; using direct connection.")
-    except Exception as e:
-        print(f"[warn] Proxy setup failed: {e}")
-
-
-def fetch_with_retries(func, label, max_retries=MAX_RETRIES):
-    for i in range(max_retries):
+    for attempt in range(1, MAX_RETRIES + 1):
         try:
-            result = func()
-            if result is None:
-                raise ValueError("Empty response")
-            return result
-        except Exception as e:
-            print(
-                f"[warn] {label} failed "
-                f"({i + 1}/{max_retries}): {repr(e)}"
+            response = requests.get(
+                "https://serpapi.com/search.json",
+                params=params,
+                timeout=90,
             )
-            if i + 1 < max_retries:
-                time.sleep(3 * (i + 1))
+            response.raise_for_status()
+            data = response.json()
+
+            if data.get("error"):
+                raise RuntimeError(data["error"])
+
+            status = data.get("search_metadata", {}).get("status")
+            if status != "Success":
+                raise RuntimeError(f"Search status: {status}")
+
+            if not isinstance(data.get("author"), dict):
+                raise RuntimeError("Missing author information")
+
+            return data
+
+        except Exception as e:
+            print(f"[warn] API request {attempt}/{MAX_RETRIES}: {e}")
+            if attempt < MAX_RETRIES:
+                time.sleep(5 * attempt)
+
     return None
 
 
-def publications_list_to_dict(pubs):
-    if isinstance(pubs, dict):
-        return pubs
+def parse_metrics(data):
+    table = data.get("cited_by", {}).get("table", [])
+    metrics = {}
 
-    if not isinstance(pubs, list):
-        return {}
+    for entry in table:
+        for key, value in entry.items():
+            if not isinstance(value, dict):
+                continue
 
-    out = {}
-    for idx, v in enumerate(pubs):
-        if not isinstance(v, dict):
+            all_value = value.get("all")
+            if all_value is None:
+                continue
+
+            normalized = key.lower().replace("-", "_")
+
+            if normalized in ("citations",):
+                metrics["citedby"] = all_value
+                metrics["citedby5y"] = value.get("since_2021", 0)
+            elif normalized in ("h_index", "indice_h"):
+                metrics["hindex"] = all_value
+                metrics["hindex5y"] = value.get("since_2021", 0)
+            elif normalized in ("i10_index", "indice_i10"):
+                metrics["i10index"] = all_value
+                metrics["i10index5y"] = value.get("since_2021", 0)
+
+    # The rolling 5-year fields above must be computed
+    # only when the API explicitly supplies the correct period.
+    for key in ("citedby5y", "hindex5y", "i10index5y"):
+        if metrics.get(key) == 0:
+            metrics.pop(key, None)
+
+    graph = data.get("cited_by", {}).get("graph", [])
+    if graph:
+        metrics["cites_per_year"] = {
+            str(row["year"]): int(row["citations"])
+            for row in graph
+            if "year" in row and "citations" in row
+        }
+
+    return metrics
+
+
+def parse_publications(articles):
+    publications = {}
+
+    for article in articles:
+        citation_id = article.get("citation_id")
+        if not citation_id:
             continue
-        key = (
-            v.get("author_pub_id")
-            or v.get("pub_url")
-            or (v.get("bib", {}) or {}).get("title")
-            or f"idx_{idx}"
-        )
-        out[str(key)] = v
-    return out
+
+        cited_by = article.get("cited_by") or {}
+        if not isinstance(cited_by, dict):
+            cited_by = {}
+
+        pub = {
+            "author_pub_id": citation_id,
+            "bib": {
+                "title": article.get("title", ""),
+                "author": article.get("authors", ""),
+                "citation": article.get("publication", ""),
+                "pub_year": article.get("year", ""),
+            },
+            "num_citations": cited_by.get("value", 0),
+            "pub_url": article.get("link", ""),
+            "filled": False,
+        }
+
+        publications[citation_id] = pub
+
+    return publications
 
 
 def main():
     os.makedirs(OUT_DIR, exist_ok=True)
 
     data_path = os.path.join(OUT_DIR, "gs_data.json")
-    shield_path = os.path.join(OUT_DIR, "gs_data_shieldsio.json")
+    shield_path = os.path.join(
+        OUT_DIR, "gs_data_shieldsio.json"
+    )
     error_path = os.path.join(OUT_DIR, "gs_error.json")
 
     previous = load_json(data_path)
-    setup_proxy()
 
-    author = fetch_with_retries(
-        lambda: scholarly.search_author_id(
-            AUTHOR_ID, filled=False
-        ),
-        "search_author_id"
-    )
+    if not API_KEY:
+        raise RuntimeError(
+            "Missing SERPAPI_API_KEY GitHub Actions secret"
+        )
 
-    if author is None:
-        print("[warn] Google Scholar unavailable.")
+    print("[info] Fetching Google Scholar via SerpAPI")
 
+    first = fetch_page(0)
+
+    if first is None:
         save_json(error_path, {
             "updated": now_iso(),
             "author_id": AUTHOR_ID,
-            "error": "Failed to fetch author profile"
+            "error": "SerpAPI request failed",
         })
-
-        if previous:
-            print("[info] Previous data preserved.")
-        else:
-            print("[warn] No previous data available.")
-
-        # Do not fail the entire GitHub Actions workflow.
+        print("[warn] Existing data preserved.")
         return
 
-    # Retrieve profile statistics.
-    stats = fetch_with_retries(
-        lambda: scholarly.fill(
-            author,
-            sections=["basics", "indices", "counts"]
-        ),
-        "fill statistics"
-    )
+    metrics = parse_metrics(first)
 
-    if stats:
-        author = stats
-    else:
-        print("[warn] Statistics unavailable; preserving old values.")
+    if "citedby" not in metrics:
+        print("[warn] Citation statistics missing.")
+        print("[warn] Existing data preserved.")
+        return
 
-    # Retrieve publications.
-    pubs = fetch_with_retries(
-        lambda: scholarly.fill(
-            author,
-            sections=["publications"]
-        ),
-        "fill publications"
-    )
+    profile = first["author"]
 
-    if pubs:
-        author = pubs
-    else:
-        print("[warn] Publications unavailable; preserving old values.")
-
-    # Merge new data with previous data.
     merged = previous.copy()
+    merged.update({
+        "scholar_id": AUTHOR_ID,
+        "author_id": AUTHOR_ID,
+        "name": profile.get("name", previous.get("name", "")),
+        "affiliation": profile.get(
+            "affiliations", previous.get("affiliation", "")
+        ),
+        "updated": now_iso(),
+    })
+    merged.update(metrics)
 
-    for key, value in author.items():
-        if key == "publications":
-            new_pubs = publications_list_to_dict(value)
-            old_pubs = publications_list_to_dict(
-                previous.get("publications", {})
-            )
+    articles = list(first.get("articles", []))
 
-            if new_pubs:
-                old_pubs.update(new_pubs)
-                merged[key] = old_pubs
-            elif old_pubs:
-                merged[key] = old_pubs
+    # Optional additional publication pages
+    for page in range(1, MAX_PAGES):
+        data = fetch_page(page * 100)
+        if not data:
+            break
+        new_articles = data.get("articles", [])
+        if not new_articles:
+            break
+        articles.extend(new_articles)
 
-        elif value is not None and value != "":
-            merged[key] = value
+    new_pubs = parse_publications(articles)
+    old_pubs = previous.get("publications", {})
 
-    merged["author_id"] = AUTHOR_ID
-    merged["updated"] = now_iso()
+    if not isinstance(old_pubs, dict):
+        old_pubs = {}
 
-    # Avoid saving a profile without useful statistics
-    # when no previous data exists.
-    if not previous and merged.get("citedby") is None:
-        print("[warn] No citation data; skipping incomplete output.")
-        return
+    old_pubs.update(new_pubs)
+    merged["publications"] = old_pubs
 
     save_json(data_path, merged)
 
-    citedby = merged.get("citedby")
-    if citedby is None:
-        citedby = "N/A"
-
-    shieldio_data = {
+    shield = {
         "schemaVersion": 1,
         "label": "citations",
-        "message": str(citedby),
+        "message": str(merged["citedby"]),
     }
+    save_json(shield_path, shield)
 
-    save_json(shield_path, shieldio_data)
-
-    # Remove stale error status after a successful update.
     if os.path.exists(error_path):
         os.remove(error_path)
 
-    print("[info] Successfully updated:")
-    print(" -", data_path)
-    print(" -", shield_path)
-    print(f"[info] Citations: {citedby}")
+    print("[info] Google Scholar updated successfully")
+    print(f"[info] Citations: {merged['citedby']}")
+    print(f"[info] Publications: {len(old_pubs)}")
 
 
 if __name__ == "__main__":
