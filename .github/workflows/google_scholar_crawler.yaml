@@ -1,3 +1,4 @@
+
 name: Update Google Scholar Citations
 
 on:
@@ -31,9 +32,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add google_scholar_crawler/results/gs_data.json
-          git add google_scholar_crawler/results/gs_data_shieldsio.json
+
+          git add -f google_scholar_crawler/results/gs_data.json
+          git add -f google_scholar_crawler/results/gs_data_shieldsio.json
+
           if ! git diff --cached --quiet; then
             git commit -m "Update Google Scholar citations"
             git push
+          else
+            echo "No changes to commit"
           fi
