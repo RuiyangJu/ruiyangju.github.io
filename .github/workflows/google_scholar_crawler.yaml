@@ -1,32 +1,47 @@
-name: Get Citation Data
+name: Update Google Scholar
 
 on:
-  page_build:
+  workflow_dispatch:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  update-scholar:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v7
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Install Reqs
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y python3-setuptools
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-      - name: Run
+      - name: Install dependencies
         run: |
-          cd ./google_scholar_crawler
-          pip3 install -r requirements.txt
-          python3 main.py
-          cd ./results
-          git init
-          git config --local user.name "${GITHUB_ACTOR}"
-          export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-          git add *.json
-          git commit -m "Updated Citation Data"
-          git push "${remote_repo}" HEAD:google-scholar-stats --force
+          python -m pip install --upgrade pip
+          python -m pip install requests
+
+      - name: Fetch Google Scholar data
         env:
-          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+        run: |
+          python google_scholar_crawler/main.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A google_scholar_crawler/results/
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update Google Scholar data"
+            git push
+          fi
